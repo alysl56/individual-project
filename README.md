@@ -111,8 +111,8 @@ Example: quant_salmon_U937.sh
 
 
 **Output structure:**
-projects/DMSO_<CellLine>_RNAseq/salmon_quant/with_DMSO/<SampleID>quant/
-projects/DMSO<CellLine>_RNAseq/salmon_quant/without_DMSO/<SampleID>_quant/
+projects/DMSO_<CellLine>_RNAseq/salmon_quant/with_DMSO/<SampleID>_quant/
+projects/DMSO_<CellLine>_RNAseq/salmon_quant/without_DMSO/<SampleID>_quant/
 
 Each `<SampleID>_quant/` directory contains:
 - `quant.sf` (expression estimates)
