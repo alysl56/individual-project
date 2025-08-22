@@ -42,13 +42,12 @@ salmon index \
   -t gencode.v38.transcripts.fa \
   -i gencode_v38_index \
   -k 31
+```
 
--t = transcriptome FASTA
-
--i = output directory for index
-
--k = k-mer size (31 is default and recommended)
-- Auxiliary logs from Salmon
+- `-t` = transcriptome FASTA  
+- `-i` = output directory for index  
+- `-k` = k-mer size (31 is default and recommended)  
+- Auxiliary logs from Salmon  
 
 ---
 ## 4. Preprocessing (QC + Trimming)
