@@ -89,17 +89,17 @@ gunzip gencode.v38.transcripts.fa.gz
 salmon index -t gencode.v38.transcripts.fa -i gencode_v38_index --gencode
 ```
 
-gencode.v38.annotation.gtf: gene annotation file (used later for tx2gene mapping)
+-gencode.v38.annotation.gtf: gene annotation file (used later for tx2gene mapping)
 
-gencode.v38.transcripts.fa: reference transcriptome
+-gencode.v38.transcripts.fa: reference transcriptome
 
-gencode_v38_index: Salmon index used for quantification
+-gencode_v38_index: Salmon index used for quantification
 
-Input: trimmed FASTQ files (*_1.trimmed.fastq.gz, *_2.trimmed.fastq.gz)
+- **Input**: trimmed FASTQ files (*_1.trimmed.fastq.gz, *_2.trimmed.fastq.gz)
 
-Process: salmon quant with --validateMappings enabled
+- **Process**: salmon quant with --validateMappings enabled
 
-Output:
+- **Output**:
 
 Quantification directory for each sample (<SampleID>_quant/)
 
@@ -108,6 +108,7 @@ Expression estimates in quant.sf
 Scripts are named following the convention:
 quant_salmon_<CellLine>.sh
 Example: quant_salmon_U937.sh
+
 
 **Output structure:**
 projects/DMSO_<CellLine>_RNAseq/salmon_quant/with_DMSO/<SampleID>quant/
