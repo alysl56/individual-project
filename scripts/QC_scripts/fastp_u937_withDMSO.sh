@@ -23,7 +23,7 @@ cd "$RAW_DIR"
 
 for fq1 in *_1.fastq.gz; do
     fq2=${fq1/_1.fastq.gz/_2.fastq.gz}
-    base=${fq1%%_1.fastq.gz}
+    base=${fq1%_1.fastq.gz}
     fastp -i "$fq1" -I "$fq2" \
           -o "${TRIM_DIR}/${base}_1.trimmed.fastq.gz" \
           -O "${TRIM_DIR}/${base}_2.trimmed.fastq.gz" \
