@@ -100,7 +100,6 @@ salmon index -t gencode.v38.transcripts.fa -i gencode_v38_index --gencode
 - **Process**: salmon quant with --validateMappings enabled
 
 - **Output**:
-
 Quantification directory for each sample (<SampleID>_quant/)
 
 Expression estimates in quant.sf
