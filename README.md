@@ -71,17 +71,41 @@ Example: `qc_fastp_U937_withDMSO.sh`
 
 ## 5. Quantification (Salmon)
 
-Transcript quantification was performed using **Salmon v1.9.0** with the GENCODE v38 reference transcriptome:
+Transcript quantification was performed using **Salmon v1.9.0** with the **GENCODE v38** reference transcriptome.
 
-- **Input**: trimmed FASTQ files (`*_1.trimmed.fastq.gz`, `*_2.trimmed.fastq.gz`)  
-- **Process**: `salmon quant` with `--validateMappings` enabled  
-- **Output**:  
-  - Quantification directory for each sample (`<SampleID>_quant/`)  
-  - Expression estimates in `quant.sf`  
+### Reference preparation
+Before running `salmon quant`, the reference transcriptome and annotation were downloaded and indexed:
+
+```bash
+# Download reference GTF and transcript FASTA
+wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.annotation.gtf.gz
+wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.transcripts.fa.gz
+
+# Unzip
+gunzip gencode.v38.annotation.gtf.gz
+gunzip gencode.v38.transcripts.fa.gz
+
+# Build Salmon index
+salmon index -t gencode.v38.transcripts.fa -i gencode_v38_index --gencode
+gencode.v38.annotation.gtf: gene annotation file (used later for tx2gene mapping)
+
+gencode.v38.transcripts.fa: reference transcriptome
+
+gencode_v38_index: Salmon index used for quantification
+
+Input: trimmed FASTQ files (*_1.trimmed.fastq.gz, *_2.trimmed.fastq.gz)
+
+Process: salmon quant with --validateMappings enabled
+
+Output:
+
+Quantification directory for each sample (<SampleID>_quant/)
+
+Expression estimates in quant.sf
 
 Scripts are named following the convention:
 quant_salmon_<CellLine>.sh
-Example: `quant_salmon_U937.sh`
+Example: quant_salmon_U937.sh
 
 **Output structure:**
 projects/DMSO_<CellLine>_RNAseq/salmon_quant/with_DMSO/<SampleID>quant/
