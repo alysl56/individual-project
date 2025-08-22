@@ -87,6 +87,8 @@ gunzip gencode.v38.transcripts.fa.gz
 
 # Build Salmon index
 salmon index -t gencode.v38.transcripts.fa -i gencode_v38_index --gencode
+```
+
 gencode.v38.annotation.gtf: gene annotation file (used later for tx2gene mapping)
 
 gencode.v38.transcripts.fa: reference transcriptome
