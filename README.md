@@ -147,3 +147,29 @@ Each script was executed with `sbatch`, and produced the corresponding `samplesh
 projects/DMSO_<CellLine>_RNAseq/samplesheet.csv
 
 ---
+## 7. Import with tximport (R)
+
+Transcript-level quantifications from Salmon were summarized to gene-level counts using **tximport v1.30+** in R.
+
+### Reference mapping (tx2gene)
+
+A transcript-to-gene mapping file (`tx2gene.csv`) was generated from the **GENCODE v38 annotation** (`gencode.v38.annotation.gtf`).  
+This file maps transcript IDs to gene IDs and is required by `tximport`.
+
+- **Input**: `gencode.v38.annotation.gtf`  
+- **Process**: Extract transcript–gene pairs  
+- **Output**: `tx2gene.csv` (stored in `/gpfs01/home/alysl56/references/`)
+
+The script used to generate this file is included in the repository:
+
+`projects/scripts/references_scripts/make_tx2gene_AWK.sbatch`
+
+### tximport execution
+
+R was run in an **interactive Slurm session** on the Ada HPC cluster:
+
+```bash
+srun -p defq -c 4 --mem=24G -t 02:00:00 --pty bash
+module load R-uoneasy/4.4.1-gfbf-2023b-rstudio
+R
+Within R, tximport was executed with the generated samplesheet.csv and tx2gene.csv:
