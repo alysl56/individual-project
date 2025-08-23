@@ -6,17 +6,17 @@
 #SBATCH --mem=8g
 #SBATCH --time=48:00:00
 #SBATCH --job-name=qc_fastp_Calu3_withDMSO
-#SBATCH --output=/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq/qc_reports/with_DMSO/slurm-%x-%j.out
-#SBATCH --error=/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq/qc_reports/with_DMSO/slurm-%x-%j.err
+#SBATCH --output=/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/qc_reports/with_DMSO/slurm-%x-%j.out
+#SBATCH --error=/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/qc_reports/with_DMSO/slurm-%x-%j.err
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=alysl56@exmail.nottingham.ac.uk
 
 source $HOME/.bash_profile
 conda activate rna_seq_env
 
-RAW_DIR=/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq/raw_data/with_DMSO
-TRIM_DIR=/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq/raw_data/trimmed_data/with_DMSO
-QC_DIR=/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq/qc_reports/with_DMSO
+RAW_DIR=/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/raw_data/with_DMSO
+TRIM_DIR=/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/raw_data/trimmed_data/with_DMSO
+QC_DIR=/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/qc_reports/with_DMSO
 
 mkdir -p "$TRIM_DIR" "$QC_DIR"
 cd "$RAW_DIR"
