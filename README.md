@@ -116,3 +116,34 @@ projects/DMSO_<CellLine>_RNAseq/salmon_quant/without_DMSO/<SampleID>_quant/
 Each `<SampleID>_quant/` directory contains:
 - `quant.sf` (expression estimates)
 - Auxiliary logs from Salmon
+## 6. Sample Metadata (samplesheet.csv)
+
+To facilitate downstream transcript-level summarization with **tximport**,  
+a metadata table (`samplesheet.csv`) was generated for each cell line.
+
+- **Input**: Quantification directories from Salmon (`<SampleID>_quant/`)
+- **Process**: Generate `samplesheet.csv` listing each sample, its condition, and quantification path
+- **Output**: One `samplesheet.csv` per cell line, stored in the project root directory
+
+The CSV has the following format:
+
+sample,condition,quant_dir
+SRRxxxxxxx,with_DMSO,/path/to/salmon_quant/with_DMSO/SRRxxxxxxx_quant
+SRRyyyyyyy,without_DMSO,/path/to/salmon_quant/without_DMSO/SRRyyyyyyy_quant
+
+Scripts are named following the convention:
+
+`make_samplesheet_<CellLine>.sbatch`
+
+Examples:
+
+- `make_samplesheet_U937.sbatch`
+- `make_samplesheet_HepG2.sbatch`
+- `make_samplesheet_A549.sbatch`
+- `make_samplesheet_Calu3.sbatch`
+
+Each script was executed with `sbatch`, and produced the corresponding `samplesheet.csv` in:
+
+projects/DMSO_<CellLine>_RNAseq/samplesheet.csv
+
+---
