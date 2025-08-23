@@ -6,12 +6,12 @@
 #SBATCH --mem=4g
 #SBATCH --time=01:00:00
 #SBATCH --job-name=make_samplesheet_Calu3
-#SBATCH --output=/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq/slurm-%x-%j.out
-#SBATCH --error=/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq/slurm-%x-%j.err
+#SBATCH --output=/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/slurm-%x-%j.out
+#SBATCH --error=/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/slurm-%x-%j.err
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=alysl56@exmail.nottingham.ac.uk
 
-BASE="/gpfs01/home/alysl56/projects/DMSO_Calu3_RNAseq"
+BASE="/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq"
 OUT="$BASE/samplesheet.csv"
 
 echo "sample,condition,quant_dir" > "$OUT"
