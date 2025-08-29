@@ -6,12 +6,15 @@
 #SBATCH --mem=8g
 #SBATCH --time=00:30:00
 #SBATCH --job-name=venn_crossline
-#SBATCH --output=/gpfs01/home/alysl56/projects/DMSO_A549_RNAseq/DE_analysis/slurm-%x-%j.out
-#SBATCH --error=/gpfs01/home/alysl56/projects/DMSO_A549_RNAseq/DE_analysis/slurm-%x-%j.err
+#SBATCH --output=/gpfs01/home/alysl56/projects/DE_analysis/logs/slurm-%x-%j.out
+#SBATCH --error=/gpfs01/home/alysl56/projects/DE_analysis/logs/slurm-%x-%j.err
 #SBATCH --mail-type=END,FAIL
 #SBATCH --mail-user=alysl56@exmail.nottingham.ac.uk
 
-module purge
-module load R-uoneasy/4.4.1-gfbf-2023b-rstudio
-
-Rscript /gpfs01/home/alysl56/projects/DMSO_crossline/DE_analysis/run_venn_crossline.R
+set -euo pipefail
+module --force purge || true
+module load R-uoneasy/4.4.1-gfbf-2023b-rstudio || true
+cd "$SLURM_SUBMIT_DIR"
+mkdir -p /gpfs01/home/alysl56/projects/DE_analysis/venn_plots
+mkdir -p /gpfs01/home/alysl56/projects/DE_analysis/logs
+Rscript --vanilla "$SLURM_SUBMIT_DIR/run_venn_crossline.R"
