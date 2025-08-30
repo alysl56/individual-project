@@ -34,10 +34,9 @@ pick_condition <- function(cd){
   stopifnot(length(i)>=1)
   x <- as.character(cd[[ i[1] ]])
   y <- tolower(trimws(x))
-  z <- ifelse(grepl("with|dmso|treat|plus|pos", y), "+",
-              ifelse(grepl("without|ctrl|control|vehicle|untreat|minus|neg|no", y), "−", y))
-  z[z %in% c("1","treated")] <- "+"
-  z[z %in% c("0","control","ctrl")] <- "−"
+  neg <- grepl("\\b(without|no[_-]?dmso|ctrl|control|vehicle|untreat|untreated|minus|neg|no)\\b", y)
+  pos <- grepl("\\b(with|with[_-]?dmso|dmso|treated|treat|plus|pos)\\b", y)
+  z <- ifelse(neg, "−", ifelse(pos, "+", y))
   z
 }
 
@@ -55,20 +54,22 @@ one_line <- function(line, path){
   cd <- as.data.frame(SummarizedExperiment::colData(dds))
   stopifnot(all(colnames(nc)[!(colnames(nc) %in% c("gene_id","SYMBOL"))] %in% rownames(cd)))
   cond <- pick_condition(cd); names(cond) <- rownames(cd)
-  long <- nc |>
+  nc |>
     dplyr::select(SYMBOL, dplyr::all_of(rownames(cd))) |>
     tidyr::pivot_longer(-SYMBOL, names_to="sample", values_to="norm_count") |>
     dplyr::mutate(condition = cond[sample], cell_line = line) |>
     dplyr::filter(SYMBOL %in% genes) |>
     dplyr::transmute(symbol = SYMBOL, cell_line, sample, condition, norm_count)
-  long
 }
 
 res <- dplyr::bind_rows(mapply(one_line, names(dds_paths), dds_paths, SIMPLIFY = FALSE))
 res$cell_line <- factor(res$cell_line, levels = c("A549","Calu-3","HepG2","U937"))
-res$condition <- ifelse(res$condition %in% c("+","−"), res$condition,
-                        ifelse(tolower(res$condition) %in% c("with","with_dmso","withdmso","dmso","treated"), "+",
-                               ifelse(tolower(res$condition) %in% c("without","without_dmso","withoutdmso","control","ctrl","untreated","vehicle"), "−", res$condition)))
+canon <- function(v){
+  vv <- tolower(trimws(v))
+  ifelse(grepl("\\b(without|no[_-]?dmso|ctrl|control|vehicle|untreat|untreated|minus|neg|no)\\b", vv), "−",
+  ifelse(grepl("\\b(with|with[_-]?dmso|dmso|treated|treat|plus|pos)\\b", vv), "+", v))
+}
+res$condition <- canon(res$condition)
 res <- dplyr::arrange(res, symbol, cell_line, condition, sample)
 dir.create(dirname(out_csv), recursive = TRUE, showWarnings = FALSE)
 utils::write.csv(res, out_csv, row.names = FALSE)
