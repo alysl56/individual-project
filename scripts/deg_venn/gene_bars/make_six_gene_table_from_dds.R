@@ -12,8 +12,7 @@ out_csv   <- "/gpfs01/home/alysl56/projects/DE_analysis/venn_table/six_genes_exp
 dds_paths <- c(
   "A549"   = "/gpfs01/home/alysl56/projects/DMSO_A549_RNAseq/DE_analysis/A549_dds.rds",
   "Calu-3" = "/gpfs01/home/alysl56/projects/DMSO_Calu-3_RNAseq/DE_analysis/Calu3_dds.rds",
-  "HepG2"  = "/gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/DE_analysis/HepG2_dds.rds",
-  "U937"   = "/gpfs01/home/alysl56/projects/DMSO_U937_RNAseq/DE_analysis/U937_dds.rds"
+  "HepG2"  = "/gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/DE_analysis/HepG2_dds.rds"
 )
 
 genes <- utils::read.delim(core6_tsv, check.names = FALSE, stringsAsFactors = FALSE)$SYMBOL |> unique()
@@ -32,12 +31,10 @@ pick_condition <- function(cd){
   i  <- which(nm %in% c("condition","group","treatment","status"))
   if(length(i)==0) i <- grep("cond|treat|group|status", nm)
   stopifnot(length(i)>=1)
-  x <- as.character(cd[[ i[1] ]])
-  y <- tolower(trimws(x))
+  y <- tolower(trimws(as.character(cd[[ i[1] ]])))
   neg <- grepl("\\b(without|no[_-]?dmso|ctrl|control|vehicle|untreat|untreated|minus|neg|no)\\b", y)
   pos <- grepl("\\b(with|with[_-]?dmso|dmso|treated|treat|plus|pos)\\b", y)
-  z <- ifelse(neg, "−", ifelse(pos, "+", y))
-  z
+  ifelse(neg, "−", ifelse(pos, "+", NA_character_))
 }
 
 one_line <- function(line, path){
@@ -63,7 +60,7 @@ one_line <- function(line, path){
 }
 
 res <- dplyr::bind_rows(mapply(one_line, names(dds_paths), dds_paths, SIMPLIFY = FALSE))
-res$cell_line <- factor(res$cell_line, levels = c("A549","Calu-3","HepG2","U937"))
+res$cell_line <- factor(res$cell_line, levels = c("A549","Calu-3","HepG2"))
 canon <- function(v){
   vv <- tolower(trimws(v))
   ifelse(grepl("\\b(without|no[_-]?dmso|ctrl|control|vehicle|untreat|untreated|minus|neg|no)\\b", vv), "−",
