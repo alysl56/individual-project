@@ -1,0 +1,496 @@
+Description	p.adjust_A549	p.adjust_Calu-3	p.adjust_HepG2	is_sig_A549	is_sig_Calu-3	is_sig_HepG2	n_lines_sig
+detection of chemical stimulus involved in sensory perception	1.39649427744672e-47	3.76317423121361e-05	NA	1	1	NA	2
+detection of chemical stimulus	1.21602581393148e-43	0.000372178381535519	NA	1	1	NA	2
+detection of stimulus involved in sensory perception	1.70899715709496e-43	2.00630059353842e-05	NA	1	1	NA	2
+detection of stimulus	3.35160043521739e-43	0.000185877221276474	NA	1	1	NA	2
+detection of chemical stimulus involved in sensory perception of smell	2.45676871935541e-41	0.00882695528493289	NA	1	1	NA	2
+sensory perception of chemical stimulus	3.74057258449823e-39	0.000538511107266757	NA	1	1	NA	2
+sensory perception of smell	5.37031245258291e-35	0.0367610003175253	NA	1	1	NA	2
+sensory perception	1.57797232138517e-26	0.0327210868259007	NA	1	1	NA	2
+nervous system process	4.47342381237368e-18	NA	0.0323391635146047	1	NA	1	2
+nucleosome assembly	1.78936347083848e-14	4.29549121042321e-41	NA	1	1	NA	2
+system process	3.53475689336693e-13	NA	0.0016468695585842	1	NA	1	2
+nucleosome organization	1.03717788882102e-11	1.04243560019234e-37	NA	1	1	NA	2
+protein localization to CENP-A containing chromatin	1.1395635099364e-11	6.75990002563548e-18	NA	1	1	NA	2
+negative regulation of megakaryocyte differentiation	1.90339229478016e-07	1.25054758440094e-11	NA	1	1	NA	2
+detection of chemical stimulus involved in sensory perception of bitter taste	6.34792619342137e-07	0.014164627976869	NA	1	1	NA	2
+sensory perception of bitter taste	2.34780680072698e-06	0.019775035636798	NA	1	1	NA	2
+detection of chemical stimulus involved in sensory perception of taste	4.12922659893925e-06	0.019775035636798	NA	1	1	NA	2
+protein-DNA complex assembly	2.95628030405994e-05	2.09771147268602e-27	NA	1	1	NA	2
+protein localization to chromosome, centromeric region	0.000163074904920589	1.20939752865086e-11	NA	1	1	NA	2
+regulation of megakaryocyte differentiation	0.000167924105630389	3.20016525388737e-08	NA	1	1	NA	2
+protein localization to chromatin	0.000203675296496558	5.05136056077791e-12	NA	1	1	NA	2
+protein-DNA complex organization	0.000249174406990614	5.74030595758849e-26	NA	1	1	NA	2
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	0.000795520779615119	0.00158615044460031	NA	1	1	NA	2
+innate immune response in mucosa	0.000907229214140706	7.19652746925652e-06	NA	1	1	NA	2
+megakaryocyte differentiation	0.00490958237582678	7.19652746925652e-06	NA	1	1	NA	2
+mucosal immune response	0.00898156119282911	0.000153213333740314	NA	1	1	NA	2
+organ or tissue specific immune response	0.0212014121347509	0.000298957613188456	NA	1	1	NA	2
+flavonoid metabolic process	0.0264046646122076	0.0434347370493377	NA	1	1	NA	2
+G protein-coupled receptor signaling pathway	1.95389701144976e-21	NA	NA	1	NA	NA	1
+homophilic cell adhesion via plasma membrane adhesion molecules	5.20452123382995e-08	NA	NA	1	NA	NA	1
+cell-cell adhesion via plasma-membrane adhesion molecules	3.92190279708376e-05	NA	NA	1	NA	NA	1
+detection of external stimulus	0.000269207176521501	NA	NA	1	NA	NA	1
+detection of abiotic stimulus	0.000308472850397178	NA	NA	1	NA	NA	1
+detection of light stimulus	0.000875615761704929	NA	NA	1	NA	NA	1
+sensory perception of taste	0.00140832783760693	NA	NA	1	NA	NA	1
+metal ion transport	0.00153745573759027	NA	NA	1	NA	NA	1
+phototransduction	0.00194217346295318	NA	NA	1	NA	NA	1
+sodium ion transmembrane transport	0.00328864291969552	NA	NA	1	NA	NA	1
+sodium ion transport	0.00377887386083326	NA	NA	1	NA	NA	1
+cardiac muscle cell contraction	0.00606676046708477	NA	NA	1	NA	NA	1
+defense response to bacterium	0.00898156119282911	NA	NA	1	NA	NA	1
+mRNA 5'-splice site recognition	0.0135914397266378	NA	NA	1	NA	NA	1
+cAMP metabolic process	0.0136988782847063	NA	NA	1	NA	NA	1
+cardiac muscle cell action potential	0.0190902411062751	NA	NA	1	NA	NA	1
+cardiac muscle cell action potential involved in contraction	0.0200090670038869	NA	NA	1	NA	NA	1
+inorganic ion transmembrane transport	0.0204690981483499	NA	NA	1	NA	NA	1
+cilium movement	0.0270157053307689	NA	NA	1	NA	NA	1
+cardiac muscle contraction	0.0276210058062243	NA	NA	1	NA	NA	1
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	0.0290689049829358	NA	NA	1	NA	NA	1
+membrane repolarization	0.0290689049829358	NA	NA	1	NA	NA	1
+regulatory ncRNA-mediated post-transcriptional gene silencing	0.0311757249277992	NA	NA	1	NA	NA	1
+transmembrane transport	0.03231957809429	NA	NA	1	NA	NA	1
+neurotransmitter reuptake	0.03231957809429	NA	NA	1	NA	NA	1
+detection of visible light	0.0354863383748477	NA	NA	1	NA	NA	1
+miRNA-mediated post-transcriptional gene silencing	0.0354863383748477	NA	NA	1	NA	NA	1
+monoatomic ion transport	0.0367071052413437	NA	NA	1	NA	NA	1
+inorganic cation transmembrane transport	0.0386411022873727	NA	NA	1	NA	NA	1
+spliceosomal tri-snRNP complex assembly	0.0386411022873727	NA	NA	1	NA	NA	1
+action potential	0.0386411022873727	NA	NA	1	NA	NA	1
+chromatin remodeling	NA	1.80396197170305e-17	NA	NA	1	NA	1
+chromatin organization	NA	3.93338636394357e-15	NA	NA	1	NA	1
+RNA processing	NA	9.06740787195844e-15	NA	NA	1	NA	1
+epigenetic regulation of gene expression	NA	2.08851769448041e-09	NA	NA	1	NA	1
+telomere organization	NA	1.38201738344277e-08	NA	NA	1	NA	1
+protein localization to chromosome	NA	2.83169762798926e-07	NA	NA	1	NA	1
+protein-containing complex assembly	NA	1.22937682388868e-06	NA	NA	1	NA	1
+heterochromatin formation	NA	1.04107001383313e-05	NA	NA	1	NA	1
+chromosome organization	NA	3.76317423121361e-05	NA	NA	1	NA	1
+protein-containing complex organization	NA	4.03933606421155e-05	NA	NA	1	NA	1
+negative regulation of gene expression, epigenetic	NA	8.09007450375843e-05	NA	NA	1	NA	1
+negative regulation of myeloid cell differentiation	NA	0.000173436650274227	NA	NA	1	NA	1
+chromosome condensation	NA	0.000372178381535519	NA	NA	1	NA	1
+antimicrobial humoral immune response mediated by antimicrobial peptide	NA	0.000713681354526307	NA	NA	1	NA	1
+antibacterial humoral response	NA	0.00336480283705757	NA	NA	1	NA	1
+antimicrobial humoral response	NA	0.00752494371891698	NA	NA	1	NA	1
+negative regulation of DNA recombination	NA	0.00882695528493289	NA	NA	1	NA	1
+defense response to Gram-positive bacterium	NA	0.0132326079450895	NA	NA	1	NA	1
+regulation of myeloid cell differentiation	NA	0.015799218112319	NA	NA	1	NA	1
+humoral immune response	NA	0.0297707576336159	NA	NA	1	NA	1
+SRP-dependent cotranslational protein targeting to membrane	NA	0.0322008798311587	NA	NA	1	NA	1
+animal organ morphogenesis	NA	NA	1.59157632494716e-07	NA	NA	1	1
+cell adhesion	NA	NA	1.72424186086238e-07	NA	NA	1	1
+tube development	NA	NA	2.81149939491325e-07	NA	NA	1	1
+tube morphogenesis	NA	NA	2.83764733946883e-07	NA	NA	1	1
+tissue development	NA	NA	3.18695642212007e-07	NA	NA	1	1
+circulatory system development	NA	NA	4.03843490279218e-07	NA	NA	1	1
+anatomical structure morphogenesis	NA	NA	6.12082800496947e-07	NA	NA	1	1
+system development	NA	NA	6.12082800496947e-07	NA	NA	1	1
+anatomical structure formation involved in morphogenesis	NA	NA	8.61868776106059e-07	NA	NA	1	1
+regulation of multicellular organismal process	NA	NA	1.55558831956393e-06	NA	NA	1	1
+anatomical structure development	NA	NA	1.73342649679965e-06	NA	NA	1	1
+positive regulation of cell differentiation	NA	NA	2.93315826248778e-06	NA	NA	1	1
+cell communication	NA	NA	3.16979796449599e-06	NA	NA	1	1
+animal organ development	NA	NA	3.16979796449599e-06	NA	NA	1	1
+signaling	NA	NA	4.07861336108814e-06	NA	NA	1	1
+blood vessel development	NA	NA	4.21862562840676e-06	NA	NA	1	1
+developmental process	NA	NA	4.94663828960668e-06	NA	NA	1	1
+multicellular organism development	NA	NA	5.08716961899112e-06	NA	NA	1	1
+negative regulation of multicellular organismal process	NA	NA	6.9958175144657e-06	NA	NA	1	1
+epithelium development	NA	NA	7.67931632828902e-06	NA	NA	1	1
+signal transduction	NA	NA	8.16098397260135e-06	NA	NA	1	1
+vasculature development	NA	NA	9.14977762743895e-06	NA	NA	1	1
+regulation of cell differentiation	NA	NA	1.02270367582531e-05	NA	NA	1	1
+cell activation	NA	NA	1.14145266058818e-05	NA	NA	1	1
+blood vessel morphogenesis	NA	NA	1.22888709373974e-05	NA	NA	1	1
+cell migration	NA	NA	1.22888709373974e-05	NA	NA	1	1
+positive regulation of developmental process	NA	NA	1.61407929695629e-05	NA	NA	1	1
+regulation of cell population proliferation	NA	NA	2.07104619561794e-05	NA	NA	1	1
+positive regulation of multicellular organismal process	NA	NA	2.49446113684394e-05	NA	NA	1	1
+cell differentiation	NA	NA	2.49446113684394e-05	NA	NA	1	1
+cellular developmental process	NA	NA	2.49446113684394e-05	NA	NA	1	1
+tissue morphogenesis	NA	NA	2.56145587136102e-05	NA	NA	1	1
+regulation of multicellular organismal development	NA	NA	5.40753014783707e-05	NA	NA	1	1
+regulation of developmental process	NA	NA	5.40753014783707e-05	NA	NA	1	1
+cell-cell adhesion	NA	NA	5.40753014783707e-05	NA	NA	1	1
+muscle cell differentiation	NA	NA	6.25919588892463e-05	NA	NA	1	1
+extracellular matrix organization	NA	NA	7.54805381980839e-05	NA	NA	1	1
+extracellular structure organization	NA	NA	7.72142531619914e-05	NA	NA	1	1
+external encapsulating structure organization	NA	NA	7.72142531619914e-05	NA	NA	1	1
+cell population proliferation	NA	NA	9.26445923828109e-05	NA	NA	1	1
+muscle structure development	NA	NA	0.000100859576243123	NA	NA	1	1
+pattern specification process	NA	NA	0.000110951430720494	NA	NA	1	1
+chemotaxis	NA	NA	0.000111608544908573	NA	NA	1	1
+taxis	NA	NA	0.000111608544908573	NA	NA	1	1
+cell motility	NA	NA	0.000119430717704901	NA	NA	1	1
+intracellular signaling cassette	NA	NA	0.000130468554837675	NA	NA	1	1
+negative regulation of developmental process	NA	NA	0.000150036605526359	NA	NA	1	1
+negative regulation of cell population proliferation	NA	NA	0.000219416715669605	NA	NA	1	1
+regulation of cell migration	NA	NA	0.000289488658254949	NA	NA	1	1
+heart development	NA	NA	0.000302024192861523	NA	NA	1	1
+angiogenesis	NA	NA	0.000336293926439677	NA	NA	1	1
+cell-cell signaling	NA	NA	0.00038262641234798	NA	NA	1	1
+cell surface receptor signaling pathway	NA	NA	0.000386227162170861	NA	NA	1	1
+morphogenesis of an epithelium	NA	NA	0.000403393241696079	NA	NA	1	1
+regionalization	NA	NA	0.000491845131632774	NA	NA	1	1
+leukocyte activation	NA	NA	0.000547276210493888	NA	NA	1	1
+mesenchyme development	NA	NA	0.000547276210493888	NA	NA	1	1
+regulation of response to stimulus	NA	NA	0.000652780066016281	NA	NA	1	1
+morphogenesis of a branching epithelium	NA	NA	0.000695552605962249	NA	NA	1	1
+response to chemical	NA	NA	0.000700556281525415	NA	NA	1	1
+locomotion	NA	NA	0.000714047079095895	NA	NA	1	1
+regulation of signal transduction	NA	NA	0.000714047079095895	NA	NA	1	1
+regulation of cell adhesion	NA	NA	0.000753323575590083	NA	NA	1	1
+skin development	NA	NA	0.000879561926864584	NA	NA	1	1
+regulation of cell motility	NA	NA	0.000951038514391863	NA	NA	1	1
+positive regulation of locomotion	NA	NA	0.000951038514391863	NA	NA	1	1
+regulation of cell communication	NA	NA	0.000996471294026226	NA	NA	1	1
+regulation of locomotion	NA	NA	0.00100079437111158	NA	NA	1	1
+positive regulation of cell motility	NA	NA	0.00142188793396653	NA	NA	1	1
+embryonic morphogenesis	NA	NA	0.00158632187290869	NA	NA	1	1
+morphogenesis of a branching structure	NA	NA	0.00158701075091422	NA	NA	1	1
+regulation of signaling	NA	NA	0.00159013959604084	NA	NA	1	1
+positive regulation of cell migration	NA	NA	0.00163451517212024	NA	NA	1	1
+cell fate commitment	NA	NA	0.00168866735844678	NA	NA	1	1
+cardiac right ventricle morphogenesis	NA	NA	0.0017063360030082	NA	NA	1	1
+cardiac septum morphogenesis	NA	NA	0.00178911856981762	NA	NA	1	1
+striated muscle cell differentiation	NA	NA	0.00178911856981762	NA	NA	1	1
+myoblast differentiation	NA	NA	0.00208945257206362	NA	NA	1	1
+cardiac septum development	NA	NA	0.00228263417999701	NA	NA	1	1
+negative regulation of cell differentiation	NA	NA	0.00228263417999701	NA	NA	1	1
+intracellular signal transduction	NA	NA	0.00244339622754769	NA	NA	1	1
+epidermis development	NA	NA	0.00254764341168748	NA	NA	1	1
+import into cell	NA	NA	0.00299452352705983	NA	NA	1	1
+response to external stimulus	NA	NA	0.00300627322776226	NA	NA	1	1
+positive regulation of cellular process	NA	NA	0.00331123897214186	NA	NA	1	1
+learning or memory	NA	NA	0.00334958857867942	NA	NA	1	1
+learning	NA	NA	0.00334958857867942	NA	NA	1	1
+platelet activation	NA	NA	0.00334958857867942	NA	NA	1	1
+formation of primary germ layer	NA	NA	0.00377238927604825	NA	NA	1	1
+skeletal system development	NA	NA	0.00398007241351652	NA	NA	1	1
+negative regulation of myoblast differentiation	NA	NA	0.0040233643526706	NA	NA	1	1
+skin epidermis development	NA	NA	0.0040233643526706	NA	NA	1	1
+cell development	NA	NA	0.00406132886821556	NA	NA	1	1
+positive regulation of cell communication	NA	NA	0.00417062654966793	NA	NA	1	1
+embryonic organ development	NA	NA	0.00440368099393189	NA	NA	1	1
+endoderm development	NA	NA	0.00470269349341289	NA	NA	1	1
+regulation of animal organ morphogenesis	NA	NA	0.00470269349341289	NA	NA	1	1
+negative regulation of cardiocyte differentiation	NA	NA	0.00517300383554691	NA	NA	1	1
+smooth muscle cell differentiation	NA	NA	0.00529259347527666	NA	NA	1	1
+cardiocyte differentiation	NA	NA	0.00586432948560616	NA	NA	1	1
+regulation of myoblast differentiation	NA	NA	0.00591101719900286	NA	NA	1	1
+positive regulation of cell population proliferation	NA	NA	0.00591101719900286	NA	NA	1	1
+regulation of leukocyte chemotaxis	NA	NA	0.00591101719900286	NA	NA	1	1
+regulation of cardiocyte differentiation	NA	NA	0.00636304387630086	NA	NA	1	1
+immune system process	NA	NA	0.00641695015181896	NA	NA	1	1
+connective tissue development	NA	NA	0.00665203988236957	NA	NA	1	1
+regulation of leukocyte migration	NA	NA	0.00665203988236957	NA	NA	1	1
+negative regulation of biological process	NA	NA	0.00668300121264344	NA	NA	1	1
+positive regulation of biological process	NA	NA	0.00682312352776262	NA	NA	1	1
+stem cell differentiation	NA	NA	0.0069179599655548	NA	NA	1	1
+sympathetic nervous system development	NA	NA	0.00702135493345541	NA	NA	1	1
+positive regulation of signaling	NA	NA	0.0070629259020889	NA	NA	1	1
+leukocyte migration	NA	NA	0.00709626126682345	NA	NA	1	1
+mesenchymal cell differentiation	NA	NA	0.007475887981832	NA	NA	1	1
+negative regulation of Wnt signaling pathway	NA	NA	0.007475887981832	NA	NA	1	1
+myeloid leukocyte activation	NA	NA	0.0074992892254273	NA	NA	1	1
+ureteric bud development	NA	NA	0.0076304250544846	NA	NA	1	1
+cell chemotaxis	NA	NA	0.00767886141559969	NA	NA	1	1
+phagocytosis	NA	NA	0.0080095662981996	NA	NA	1	1
+mesenchymal cell migration	NA	NA	0.0080095662981996	NA	NA	1	1
+mononuclear cell migration	NA	NA	0.0080095662981996	NA	NA	1	1
+kidney morphogenesis	NA	NA	0.0080095662981996	NA	NA	1	1
+mesonephric epithelium development	NA	NA	0.0080095662981996	NA	NA	1	1
+mesonephric tubule development	NA	NA	0.0080095662981996	NA	NA	1	1
+heart morphogenesis	NA	NA	0.00859641918718836	NA	NA	1	1
+gland morphogenesis	NA	NA	0.00859825270548852	NA	NA	1	1
+nephron tubule development	NA	NA	0.00864026492283145	NA	NA	1	1
+positive regulation of synaptic transmission, glutamatergic	NA	NA	0.00864026492283145	NA	NA	1	1
+endoderm formation	NA	NA	0.00879903222241971	NA	NA	1	1
+mesenchymal to epithelial transition	NA	NA	0.00879903222241971	NA	NA	1	1
+lymphocyte activation	NA	NA	0.00888640649303794	NA	NA	1	1
+positive regulation of cellular component biogenesis	NA	NA	0.0090514064426045	NA	NA	1	1
+kidney development	NA	NA	0.0090514064426045	NA	NA	1	1
+regulation of chemotaxis	NA	NA	0.0090514064426045	NA	NA	1	1
+mesonephros development	NA	NA	0.0090514064426045	NA	NA	1	1
+regulation of anatomical structure morphogenesis	NA	NA	0.00919161383193268	NA	NA	1	1
+response to mechanical stimulus	NA	NA	0.00930666945060017	NA	NA	1	1
+epithelial cell differentiation	NA	NA	0.00930666945060017	NA	NA	1	1
+cartilage development	NA	NA	0.00936779264229978	NA	NA	1	1
+renal tubule development	NA	NA	0.00965449512887853	NA	NA	1	1
+positive regulation of signal transduction	NA	NA	0.00983661006007966	NA	NA	1	1
+nervous system development	NA	NA	0.00985179796392359	NA	NA	1	1
+embryo development	NA	NA	0.00985179796392359	NA	NA	1	1
+lymphocyte differentiation	NA	NA	0.0100577712404085	NA	NA	1	1
+cardiac chamber development	NA	NA	0.0100577712404085	NA	NA	1	1
+renal system development	NA	NA	0.0100577712404085	NA	NA	1	1
+collagen metabolic process	NA	NA	0.0100577712404085	NA	NA	1	1
+positive regulation of nervous system development	NA	NA	0.0100577712404085	NA	NA	1	1
+response to wounding	NA	NA	0.0100577712404085	NA	NA	1	1
+cardiac chamber morphogenesis	NA	NA	0.0102243117314906	NA	NA	1	1
+regulation of cell activation	NA	NA	0.0102243117314906	NA	NA	1	1
+small GTPase-mediated signal transduction	NA	NA	0.0102243117314906	NA	NA	1	1
+cognition	NA	NA	0.0103126630229367	NA	NA	1	1
+kidney epithelium development	NA	NA	0.0104296127026924	NA	NA	1	1
+amino sugar catabolic process	NA	NA	0.0104296127026924	NA	NA	1	1
+cardiac ventricle development	NA	NA	0.0108084392315804	NA	NA	1	1
+positive regulation of miRNA transcription	NA	NA	0.0109765272867314	NA	NA	1	1
+regulation of immune system process	NA	NA	0.0109765272867314	NA	NA	1	1
+regulation of kidney development	NA	NA	0.0109819559403736	NA	NA	1	1
+regulation of cell development	NA	NA	0.0111680314971511	NA	NA	1	1
+chemical synaptic transmission	NA	NA	0.0113204233041889	NA	NA	1	1
+anterograde trans-synaptic signaling	NA	NA	0.0113204233041889	NA	NA	1	1
+head development	NA	NA	0.0115769043690359	NA	NA	1	1
+positive regulation of plasma membrane bounded cell projection assembly	NA	NA	0.0121609435644752	NA	NA	1	1
+branching morphogenesis of an epithelial tube	NA	NA	0.0122585887558524	NA	NA	1	1
+epithelial tube morphogenesis	NA	NA	0.012367144266484	NA	NA	1	1
+trans-synaptic signaling	NA	NA	0.0124535630382867	NA	NA	1	1
+dopamine transport	NA	NA	0.0126486777987226	NA	NA	1	1
+intermediate filament organization	NA	NA	0.0126486777987226	NA	NA	1	1
+regulation of gliogenesis	NA	NA	0.0126486777987226	NA	NA	1	1
+dopamine secretion	NA	NA	0.0126486777987226	NA	NA	1	1
+positive regulation of smooth muscle cell differentiation	NA	NA	0.0126486777987226	NA	NA	1	1
+nephron tubule formation	NA	NA	0.0126486777987226	NA	NA	1	1
+renal vesicle development	NA	NA	0.0126486777987226	NA	NA	1	1
+regulation of miRNA transcription	NA	NA	0.0126486777987226	NA	NA	1	1
+cardiac ventricle morphogenesis	NA	NA	0.0126486777987226	NA	NA	1	1
+muscle tissue development	NA	NA	0.0135113494095267	NA	NA	1	1
+supramolecular fiber organization	NA	NA	0.0136156288779562	NA	NA	1	1
+miRNA transcription	NA	NA	0.0136156288779562	NA	NA	1	1
+positive regulation of protein-containing complex assembly	NA	NA	0.0136156288779562	NA	NA	1	1
+gliogenesis	NA	NA	0.0136156288779562	NA	NA	1	1
+epithelial cell differentiation involved in kidney development	NA	NA	0.0136504887382209	NA	NA	1	1
+mesonephric tubule morphogenesis	NA	NA	0.0137574165463707	NA	NA	1	1
+cardiac muscle tissue development	NA	NA	0.0140591875308176	NA	NA	1	1
+molting cycle	NA	NA	0.0140591875308176	NA	NA	1	1
+hair cycle	NA	NA	0.0140591875308176	NA	NA	1	1
+central nervous system development	NA	NA	0.0145164210041433	NA	NA	1	1
+negative regulation of cell adhesion	NA	NA	0.0147370633531575	NA	NA	1	1
+coagulation	NA	NA	0.0147497433663572	NA	NA	1	1
+negative regulation of cellular process	NA	NA	0.0147497433663572	NA	NA	1	1
+regulation of chondrocyte differentiation	NA	NA	0.0150776993611073	NA	NA	1	1
+regulation of MAPK cascade	NA	NA	0.0150966108963335	NA	NA	1	1
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	NA	NA	0.0152119775736877	NA	NA	1	1
+prostate gland epithelium morphogenesis	NA	NA	0.0152119775736877	NA	NA	1	1
+regulation of programmed cell death	NA	NA	0.0152739591726103	NA	NA	1	1
+astrocyte differentiation	NA	NA	0.0153572144332071	NA	NA	1	1
+regulation of muscle cell differentiation	NA	NA	0.0158029330568222	NA	NA	1	1
+cell fate determination	NA	NA	0.0158317405774069	NA	NA	1	1
+autonomic nervous system development	NA	NA	0.0158317405774069	NA	NA	1	1
+positive regulation of gliogenesis	NA	NA	0.0158317405774069	NA	NA	1	1
+regulation of cell-cell adhesion	NA	NA	0.0158317405774069	NA	NA	1	1
+response to glucocorticoid	NA	NA	0.0158317405774069	NA	NA	1	1
+regulation of epithelial cell proliferation	NA	NA	0.0158317405774069	NA	NA	1	1
+export from cell	NA	NA	0.0159066359473096	NA	NA	1	1
+trabecula morphogenesis	NA	NA	0.0162079869529597	NA	NA	1	1
+artery development	NA	NA	0.0164670524733872	NA	NA	1	1
+response to lipid	NA	NA	0.0169308159718874	NA	NA	1	1
+positive regulation of intracellular signal transduction	NA	NA	0.0171828715274688	NA	NA	1	1
+chondrocyte differentiation	NA	NA	0.0176351817871867	NA	NA	1	1
+sensory system development	NA	NA	0.0176351817871867	NA	NA	1	1
+Wnt signaling pathway	NA	NA	0.0176351817871867	NA	NA	1	1
+positive regulation of cell development	NA	NA	0.017812077022697	NA	NA	1	1
+metanephric nephron development	NA	NA	0.017812077022697	NA	NA	1	1
+calcium ion transmembrane import into cytosol	NA	NA	0.017812077022697	NA	NA	1	1
+ionotropic glutamate receptor signaling pathway	NA	NA	0.017812077022697	NA	NA	1	1
+prostate gland morphogenesis	NA	NA	0.017812077022697	NA	NA	1	1
+synaptic signaling	NA	NA	0.0180198539322111	NA	NA	1	1
+epithelial cell proliferation	NA	NA	0.0183465359747487	NA	NA	1	1
+regulation of nervous system development	NA	NA	0.0186625032887701	NA	NA	1	1
+regulation of leukocyte activation	NA	NA	0.0192257171970274	NA	NA	1	1
+outflow tract morphogenesis	NA	NA	0.0200405265543457	NA	NA	1	1
+regulation of intracellular signal transduction	NA	NA	0.0200405265543457	NA	NA	1	1
+leukocyte chemotaxis	NA	NA	0.0200405265543457	NA	NA	1	1
+regulation of molecular function	NA	NA	0.0200538719042921	NA	NA	1	1
+brain development	NA	NA	0.0200538719042921	NA	NA	1	1
+positive regulation of transport	NA	NA	0.0201479293592252	NA	NA	1	1
+positive regulation of leukocyte migration	NA	NA	0.0204562225109781	NA	NA	1	1
+nephron epithelium development	NA	NA	0.0206573061489064	NA	NA	1	1
+response to endogenous stimulus	NA	NA	0.0208475069786831	NA	NA	1	1
+camera-type eye development	NA	NA	0.0209707355190785	NA	NA	1	1
+regulation of Wnt signaling pathway	NA	NA	0.0211442269920546	NA	NA	1	1
+nephron tubule morphogenesis	NA	NA	0.0211442269920546	NA	NA	1	1
+positive regulation of miRNA metabolic process	NA	NA	0.0211442269920546	NA	NA	1	1
+neural crest cell migration	NA	NA	0.0211442269920546	NA	NA	1	1
+cell differentiation involved in kidney development	NA	NA	0.0211442269920546	NA	NA	1	1
+secretion by cell	NA	NA	0.0221966248507071	NA	NA	1	1
+gastrulation	NA	NA	0.0223050408841782	NA	NA	1	1
+calcium ion transmembrane transport	NA	NA	0.0223050408841782	NA	NA	1	1
+negative regulation of endothelial cell proliferation	NA	NA	0.0223050408841782	NA	NA	1	1
+negative regulation of striated muscle cell differentiation	NA	NA	0.0223050408841782	NA	NA	1	1
+artery morphogenesis	NA	NA	0.0228395244505623	NA	NA	1	1
+positive regulation of cellular component organization	NA	NA	0.0230549120210117	NA	NA	1	1
+negative regulation of BMP signaling pathway	NA	NA	0.0230549120210117	NA	NA	1	1
+regulation of synaptic transmission, glutamatergic	NA	NA	0.0230549120210117	NA	NA	1	1
+muscle cell development	NA	NA	0.0230549120210117	NA	NA	1	1
+response to oxygen-containing compound	NA	NA	0.0230810807329826	NA	NA	1	1
+negative regulation of cellular response to growth factor stimulus	NA	NA	0.0233586651988591	NA	NA	1	1
+wound healing	NA	NA	0.0244527638793182	NA	NA	1	1
+nephron epithelium morphogenesis	NA	NA	0.024471964432025	NA	NA	1	1
+neurogenesis	NA	NA	0.0249713325673129	NA	NA	1	1
+collagen catabolic process	NA	NA	0.0249967825393902	NA	NA	1	1
+branching involved in ureteric bud morphogenesis	NA	NA	0.0252808624078952	NA	NA	1	1
+cardiac muscle cell differentiation	NA	NA	0.0253265103563907	NA	NA	1	1
+behavior	NA	NA	0.0253265103563907	NA	NA	1	1
+blood coagulation	NA	NA	0.0260883849605186	NA	NA	1	1
+metanephros development	NA	NA	0.0260883849605186	NA	NA	1	1
+renal tubule morphogenesis	NA	NA	0.0260883849605186	NA	NA	1	1
+nephron morphogenesis	NA	NA	0.0260883849605186	NA	NA	1	1
+regulation of catalytic activity	NA	NA	0.0261353757608942	NA	NA	1	1
+enzyme-linked receptor protein signaling pathway	NA	NA	0.0262211223182652	NA	NA	1	1
+mononuclear cell differentiation	NA	NA	0.0264242199140943	NA	NA	1	1
+negative regulation of transcription by RNA polymerase II	NA	NA	0.0272489273050532	NA	NA	1	1
+cell-cell recognition	NA	NA	0.0272836167438577	NA	NA	1	1
+eye development	NA	NA	0.0274783232241876	NA	NA	1	1
+hemopoiesis	NA	NA	0.0274783232241876	NA	NA	1	1
+programmed cell death	NA	NA	0.0274783232241876	NA	NA	1	1
+ventricular septum development	NA	NA	0.0276603848799136	NA	NA	1	1
+regulation of mononuclear cell migration	NA	NA	0.0276603848799136	NA	NA	1	1
+oligodendrocyte differentiation	NA	NA	0.0276603848799136	NA	NA	1	1
+skeletal system morphogenesis	NA	NA	0.0276760979030471	NA	NA	1	1
+cell death	NA	NA	0.0276946126065367	NA	NA	1	1
+canonical Wnt signaling pathway	NA	NA	0.0276946126065367	NA	NA	1	1
+regulation of apoptotic process	NA	NA	0.0276946126065367	NA	NA	1	1
+outflow tract septum morphogenesis	NA	NA	0.0276946126065367	NA	NA	1	1
+response to gonadotropin	NA	NA	0.0276946126065367	NA	NA	1	1
+metanephric nephron morphogenesis	NA	NA	0.0276946126065367	NA	NA	1	1
+glial cell differentiation	NA	NA	0.0276946126065367	NA	NA	1	1
+striated muscle tissue development	NA	NA	0.0276946126065367	NA	NA	1	1
+visual system development	NA	NA	0.0281505668129724	NA	NA	1	1
+positive regulation of response to stimulus	NA	NA	0.0282488482324771	NA	NA	1	1
+hemostasis	NA	NA	0.0286377664612978	NA	NA	1	1
+regulation of miRNA metabolic process	NA	NA	0.0286377664612978	NA	NA	1	1
+cellular response to cytokine stimulus	NA	NA	0.0287301534204768	NA	NA	1	1
+skeletal muscle cell differentiation	NA	NA	0.0287347690177317	NA	NA	1	1
+ossification	NA	NA	0.0290455039929716	NA	NA	1	1
+macrophage cytokine production	NA	NA	0.0294751860235575	NA	NA	1	1
+regulation of macrophage cytokine production	NA	NA	0.0294751860235575	NA	NA	1	1
+response to corticosteroid	NA	NA	0.0295533823507366	NA	NA	1	1
+camera-type eye morphogenesis	NA	NA	0.0296893621340609	NA	NA	1	1
+apoptotic process	NA	NA	0.0300047770303539	NA	NA	1	1
+neural crest cell development	NA	NA	0.0306771724103562	NA	NA	1	1
+cellular response to mechanical stimulus	NA	NA	0.0306771724103562	NA	NA	1	1
+eye morphogenesis	NA	NA	0.0309428827080251	NA	NA	1	1
+cytokine production	NA	NA	0.031027538963308	NA	NA	1	1
+axon guidance	NA	NA	0.0313834006167232	NA	NA	1	1
+cardiac atrium morphogenesis	NA	NA	0.0316083220973606	NA	NA	1	1
+cellular response to leukemia inhibitory factor	NA	NA	0.0318941756566429	NA	NA	1	1
+positive regulation of MAPK cascade	NA	NA	0.0320343755503597	NA	NA	1	1
+regulation of peptidyl-tyrosine phosphorylation	NA	NA	0.0322741816570606	NA	NA	1	1
+regulation of smooth muscle cell differentiation	NA	NA	0.0323015379266769	NA	NA	1	1
+catecholamine transport	NA	NA	0.0323015379266769	NA	NA	1	1
+neuron projection guidance	NA	NA	0.0323015379266769	NA	NA	1	1
+cellular response to external stimulus	NA	NA	0.0323391635146047	NA	NA	1	1
+MAPK cascade	NA	NA	0.0323391635146047	NA	NA	1	1
+neuron differentiation	NA	NA	0.0323391635146047	NA	NA	1	1
+regulation of dopamine secretion	NA	NA	0.0323391635146047	NA	NA	1	1
+negative regulation of oligodendrocyte differentiation	NA	NA	0.0323391635146047	NA	NA	1	1
+extracellular matrix constituent secretion	NA	NA	0.0323391635146047	NA	NA	1	1
+urogenital system development	NA	NA	0.0323391635146047	NA	NA	1	1
+animal organ formation	NA	NA	0.0323391635146047	NA	NA	1	1
+embryonic organ morphogenesis	NA	NA	0.0324710145394195	NA	NA	1	1
+generation of neurons	NA	NA	0.0339181947462007	NA	NA	1	1
+positive regulation of leukocyte chemotaxis	NA	NA	0.0341769963622863	NA	NA	1	1
+muscle cell proliferation	NA	NA	0.0343305672415791	NA	NA	1	1
+response to growth factor	NA	NA	0.0345043913486062	NA	NA	1	1
+regulation of BMP signaling pathway	NA	NA	0.0346478384438087	NA	NA	1	1
+response to retinoic acid	NA	NA	0.0346478384438087	NA	NA	1	1
+response to leukemia inhibitory factor	NA	NA	0.0346478384438087	NA	NA	1	1
+prostate gland development	NA	NA	0.0348499222882097	NA	NA	1	1
+positive regulation of chemotaxis	NA	NA	0.0351803200427337	NA	NA	1	1
+negative regulation of cell communication	NA	NA	0.0355639106337763	NA	NA	1	1
+positive regulation of neurogenesis	NA	NA	0.0359813411485235	NA	NA	1	1
+cellular response to growth factor stimulus	NA	NA	0.0365654658540534	NA	NA	1	1
+negative regulation of signaling	NA	NA	0.0371201436345092	NA	NA	1	1
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	NA	NA	0.0377112872199765	NA	NA	1	1
+positive regulation of epithelial cell differentiation	NA	NA	0.0377191084677253	NA	NA	1	1
+muscle tissue morphogenesis	NA	NA	0.0377191084677253	NA	NA	1	1
+ureteric bud morphogenesis	NA	NA	0.0377191084677253	NA	NA	1	1
+negative regulation of cell-cell adhesion	NA	NA	0.0383393057246283	NA	NA	1	1
+ventricular septum morphogenesis	NA	NA	0.0383393057246283	NA	NA	1	1
+stem cell development	NA	NA	0.0383393057246283	NA	NA	1	1
+regulation of ossification	NA	NA	0.0383393057246283	NA	NA	1	1
+regulation of biological quality	NA	NA	0.0383393057246283	NA	NA	1	1
+secretion	NA	NA	0.0383393057246283	NA	NA	1	1
+negative regulation of epithelial cell proliferation	NA	NA	0.0383393057246283	NA	NA	1	1
+leukocyte activation involved in immune response	NA	NA	0.0390202814509555	NA	NA	1	1
+JNK cascade	NA	NA	0.0390202814509555	NA	NA	1	1
+defense response to tumor cell	NA	NA	0.0390202814509555	NA	NA	1	1
+cardioblast differentiation	NA	NA	0.0390202814509555	NA	NA	1	1
+venous blood vessel development	NA	NA	0.0390202814509555	NA	NA	1	1
+cellular response to gonadotropin stimulus	NA	NA	0.0390202814509555	NA	NA	1	1
+vascular associated smooth muscle cell development	NA	NA	0.0390202814509555	NA	NA	1	1
+metanephros morphogenesis	NA	NA	0.0390202814509555	NA	NA	1	1
+catecholamine secretion	NA	NA	0.0390202814509555	NA	NA	1	1
+trabecula formation	NA	NA	0.0390202814509555	NA	NA	1	1
+hair follicle development	NA	NA	0.040008748025359	NA	NA	1	1
+cellular response to chemical stimulus	NA	NA	0.0400606805776912	NA	NA	1	1
+response to cytokine	NA	NA	0.040446377974879	NA	NA	1	1
+cell junction assembly	NA	NA	0.0405321113434535	NA	NA	1	1
+exocrine system development	NA	NA	0.0409517251048179	NA	NA	1	1
+positive regulation of calcium-mediated signaling	NA	NA	0.0409517251048179	NA	NA	1	1
+negative regulation of protein modification by small protein conjugation or removal	NA	NA	0.041991735221331	NA	NA	1	1
+vasculogenesis	NA	NA	0.0422034886135873	NA	NA	1	1
+regulation of phagocytosis	NA	NA	0.0422034886135873	NA	NA	1	1
+regulation of biomineral tissue development	NA	NA	0.0422034886135873	NA	NA	1	1
+regulation of stem cell differentiation	NA	NA	0.0422034886135873	NA	NA	1	1
+negative regulation of neuron differentiation	NA	NA	0.0422034886135873	NA	NA	1	1
+regulation of cartilage development	NA	NA	0.0422034886135873	NA	NA	1	1
+cell activation involved in immune response	NA	NA	0.0431641022035326	NA	NA	1	1
+reproductive structure development	NA	NA	0.0431641022035326	NA	NA	1	1
+myeloid leukocyte migration	NA	NA	0.0431641022035326	NA	NA	1	1
+positive regulation of neuroblast proliferation	NA	NA	0.0437657456295537	NA	NA	1	1
+embryonic eye morphogenesis	NA	NA	0.0437657456295537	NA	NA	1	1
+cell fate commitment involved in formation of primary germ layer	NA	NA	0.0437657456295537	NA	NA	1	1
+negative regulation of signal transduction	NA	NA	0.0437657456295537	NA	NA	1	1
+endocardial cushion development	NA	NA	0.0442395227302298	NA	NA	1	1
+negative chemotaxis	NA	NA	0.0442395227302298	NA	NA	1	1
+collagen fibril organization	NA	NA	0.0450765514297806	NA	NA	1	1
+negative regulation of muscle cell differentiation	NA	NA	0.0450765514297806	NA	NA	1	1
+leukocyte differentiation	NA	NA	0.0450782852749879	NA	NA	1	1
+regulation of cytokine production	NA	NA	0.0450782852749879	NA	NA	1	1
+positive regulation of phosphorylation	NA	NA	0.0456438526389458	NA	NA	1	1
+peptidyl-tyrosine phosphorylation	NA	NA	0.045960257250568	NA	NA	1	1
+response to BMP	NA	NA	0.045960257250568	NA	NA	1	1
+cellular response to BMP stimulus	NA	NA	0.045960257250568	NA	NA	1	1
+cell projection organization	NA	NA	0.045960257250568	NA	NA	1	1
+ovulation	NA	NA	0.045960257250568	NA	NA	1	1
+positive regulation of astrocyte differentiation	NA	NA	0.045960257250568	NA	NA	1	1
+bone trabecula morphogenesis	NA	NA	0.045960257250568	NA	NA	1	1
+positive regulation of tumor necrosis factor-mediated signaling pathway	NA	NA	0.045960257250568	NA	NA	1	1
+reproductive system development	NA	NA	0.045960257250568	NA	NA	1	1
+regulation of transport	NA	NA	0.045960257250568	NA	NA	1	1
+molting cycle process	NA	NA	0.045960257250568	NA	NA	1	1
+hair cycle process	NA	NA	0.045960257250568	NA	NA	1	1
+sensory organ development	NA	NA	0.0462290813206782	NA	NA	1	1
+odontogenesis	NA	NA	0.0465132369540247	NA	NA	1	1
+eye photoreceptor cell differentiation	NA	NA	0.0465132369540247	NA	NA	1	1
+dorsal/ventral pattern formation	NA	NA	0.0465132369540247	NA	NA	1	1
+photoreceptor cell differentiation	NA	NA	0.0465132369540247	NA	NA	1	1
+regulation of phosphate metabolic process	NA	NA	0.0465132369540247	NA	NA	1	1
+regulation of angiogenesis	NA	NA	0.0465132369540247	NA	NA	1	1
+regulation of body fluid levels	NA	NA	0.0465132369540247	NA	NA	1	1
+regulation of protein-containing complex assembly	NA	NA	0.0465132369540247	NA	NA	1	1
+cell junction organization	NA	NA	0.0465132369540247	NA	NA	1	1
+regulation of phosphorus metabolic process	NA	NA	0.0465132369540247	NA	NA	1	1
+response to peptide	NA	NA	0.0465132369540247	NA	NA	1	1
+regulation of muscle contraction	NA	NA	0.0465132369540247	NA	NA	1	1
+positive regulation of lamellipodium assembly	NA	NA	0.0465132369540247	NA	NA	1	1
+negative regulation of protein processing	NA	NA	0.0465132369540247	NA	NA	1	1
+vascular associated smooth muscle cell differentiation	NA	NA	0.0465132369540247	NA	NA	1	1
+regulation of hair cycle	NA	NA	0.0465132369540247	NA	NA	1	1
+ligand-gated ion channel signaling pathway	NA	NA	0.0465132369540247	NA	NA	1	1
+sensory organ morphogenesis	NA	NA	0.047060450670732	NA	NA	1	1
+peptidyl-tyrosine modification	NA	NA	0.0470662899044829	NA	NA	1	1
+bone development	NA	NA	0.0470662899044829	NA	NA	1	1
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	NA	NA	0.0470662899044829	NA	NA	1	1
+negative regulation of post-translational protein modification	NA	NA	0.0478470370152889	NA	NA	1	1
+gland development	NA	NA	0.0484308848810587	NA	NA	1	1
+regulation of phosphorylation	NA	NA	0.0485045293342177	NA	NA	1	1
+regulation of canonical Wnt signaling pathway	NA	NA	0.0485045293342177	NA	NA	1	1
+muscle organ morphogenesis	NA	NA	0.048719681227747	NA	NA	1	1
+negative regulation of DNA-templated transcription	NA	NA	0.0495614938483282	NA	NA	1	1
+amino sugar metabolic process	NA	NA	0.0495614938483282	NA	NA	1	1
+neural crest cell differentiation	NA	NA	0.0497426828085642	NA	NA	1	1
+regulation of vasculature development	NA	NA	0.0498564487843947	NA	NA	1	1

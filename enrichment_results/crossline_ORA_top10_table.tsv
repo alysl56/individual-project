@@ -1,0 +1,11 @@
+Term	Direction	A549_FDR	Calu3_FDR	HepG2_FDR	U937_FDR	Lines_sig	Theme
+detection of chemical stimulus involved in sensory perception	Down	1.40e-47	3.76e-05			2	Sensory/Chemical
+detection of chemical stimulus	Down	1.22e-43	3.72e-04			2	Sensory/Chemical
+nucleosome assembly	Down	1.79e-14	4.30e-41			2	Chromatin/Nucleosome
+nucleosome organization	Down	1.04e-11	1.04e-37			2	Chromatin/Nucleosome
+sensory perception of smell	Down	5.37e-35	3.68e-02			2	Sensory/Chemical
+response to peptide	Up	3.45e-03	1.75e-08			2	Other
+positive regulation of multicellular organismal process	Up	6.87e-04	1.89e-08			2	Other
+response to cytokine	Up	4.56e-03	1.89e-08			2	Other
+response to external stimulus	Up	2.04e-06	1.31e-07			2	RNA/Splicing
+immune system process	Up	4.17e-06	4.96e-07			2	Immune/Antigen

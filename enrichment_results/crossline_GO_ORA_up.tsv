@@ -1,0 +1,821 @@
+Description	p.adjust_A549	p.adjust_Calu-3	p.adjust_HepG2	p.adjust_U937	is_sig_A549	is_sig_Calu-3	is_sig_HepG2	is_sig_U937	n_lines_sig
+response to external stimulus	2.04004755463985e-06	1.30713268081826e-07	NA	NA	1	1	NA	NA	2
+defense response	2.04004755463985e-06	1.48518631037784e-06	NA	NA	1	1	NA	NA	2
+immune system process	4.16961422583032e-06	4.96096698418574e-07	NA	NA	1	1	NA	NA	2
+innate immune response	4.47374246189409e-06	0.0382787774134388	NA	NA	1	1	NA	NA	2
+response to biotic stimulus	6.54910714232181e-06	1.36335986781281e-06	NA	NA	1	1	NA	NA	2
+immune response	6.54910714232181e-06	4.90038547925665e-06	NA	NA	1	1	NA	NA	2
+defense response to symbiont	6.54910714232181e-06	0.000228549352250401	NA	NA	1	1	NA	NA	2
+response to other organism	9.26310106148838e-06	1.41768710624795e-06	NA	NA	1	1	NA	NA	2
+response to external biotic stimulus	9.28749433941914e-06	1.4513798319061e-06	NA	NA	1	1	NA	NA	2
+antigen processing and presentation	1.90233833720992e-05	0.00511371965748491	NA	NA	1	1	NA	NA	2
+defense response to other organism	2.27586351279001e-05	6.26922856679752e-05	NA	NA	1	1	NA	NA	2
+positive regulation of gene expression	7.2535941488157e-05	2.48917334262979e-06	NA	NA	1	1	NA	NA	2
+antigen processing and presentation of endogenous peptide antigen via MHC class I	8.1228996102331e-05	0.0238293639963609	NA	NA	1	1	NA	NA	2
+antigen processing and presentation of endogenous peptide antigen	8.1228996102331e-05	0.0287758169063776	NA	NA	1	1	NA	NA	2
+response to stress	8.25058090887404e-05	0.000329763815744868	NA	NA	1	1	NA	NA	2
+biological process involved in interspecies interaction between organisms	0.000129867503366002	3.77473677383505e-06	NA	NA	1	1	NA	NA	2
+antigen processing and presentation of endogenous antigen	0.0003284828824857	0.0370718589428942	NA	NA	1	1	NA	NA	2
+defense response to virus	0.000331887287872365	0.0152338954152102	NA	NA	1	1	NA	NA	2
+antigen processing and presentation of peptide antigen via MHC class Ib	0.000399796257710487	0.0133244030516996	NA	NA	1	1	NA	NA	2
+negative regulation of immune system process	0.000399796257710487	0.0216787863796707	NA	NA	1	1	NA	NA	2
+regulation of peptidase activity	0.0004364890867406	0.0142798362741786	NA	NA	1	1	NA	NA	2
+regulation of immune system process	0.000544417766771987	0.000134962651774284	NA	NA	1	1	NA	NA	2
+response to virus	0.000544417766771987	0.00246934141097257	NA	NA	1	1	NA	NA	2
+positive regulation of multicellular organismal process	0.000686871643747808	1.89346930144466e-08	NA	NA	1	1	NA	NA	2
+regulation of cytokine production	0.000920152758935332	1.491233834836e-07	NA	NA	1	1	NA	NA	2
+cytokine production	0.00110124986833115	1.66071708030126e-07	NA	NA	1	1	NA	NA	2
+positive regulation of cytokine production	0.00110124986833115	0.000104758375804901	NA	NA	1	1	NA	NA	2
+regulation of cell population proliferation	0.00126551066728166	8.91497591383559e-07	NA	NA	1	1	NA	NA	2
+antigen processing and presentation via MHC class Ib	0.00126551066728166	0.0191302249932061	NA	NA	1	1	NA	NA	2
+response to interferon-beta	0.00132634227427388	0.00764772571663334	NA	NA	1	1	NA	NA	2
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib	0.00140189998169177	0.0115345127020878	NA	NA	1	1	NA	NA	2
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	0.00140189998169177	0.0115345127020878	NA	NA	1	1	NA	NA	2
+regulation of response to external stimulus	0.00162013551945297	7.64543064186929e-05	NA	NA	1	1	NA	NA	2
+regulation of molecular function	0.00162013551945297	0.0415486285915096	NA	NA	1	1	NA	NA	2
+negative regulation of cell population proliferation	0.00189922865600801	0.0016584149918496	NA	NA	1	1	NA	NA	2
+negative regulation of peptidase activity	0.00246881802408115	0.021556808362048	NA	NA	1	1	NA	NA	2
+response to peptide	0.00345304398374603	1.75212969751695e-08	NA	NA	1	1	NA	NA	2
+tissue development	0.00354722613070042	9.4592886150646e-07	NA	NA	1	1	NA	NA	2
+positive regulation of developmental process	0.00400822922588976	5.12075676245917e-07	NA	NA	1	1	NA	NA	2
+negative regulation of response to external stimulus	0.00442157715569569	0.00257274074407663	NA	NA	1	1	NA	NA	2
+response to cytokine	0.00456428244519196	1.89346930144466e-08	NA	NA	1	1	NA	NA	2
+regulation of defense response	0.00457267002097589	0.000225673244562237	NA	NA	1	1	NA	NA	2
+positive regulation of cellular process	0.00468085314950008	1.30713268081826e-07	NA	NA	1	1	NA	NA	2
+response to type I interferon	0.00468766964607574	0.0272003214590318	NA	NA	1	1	NA	NA	2
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	0.00616275305245988	0.00994255364795459	NA	NA	1	1	NA	NA	2
+regulation of multicellular organismal process	0.00621778978768801	3.9858653265472e-08	NA	NA	1	1	NA	NA	2
+regulation of cell migration	0.00632246687317746	0.000109139858435533	NA	NA	1	1	NA	NA	2
+regulation of proteolysis	0.00632246687317746	0.0087713892958064	NA	NA	1	1	NA	NA	2
+regulation of response to cytokine stimulus	0.00694817743388538	0.0159794014971525	NA	NA	1	1	NA	NA	2
+inflammatory response	0.00772488063977534	1.1226540038049e-05	NA	NA	1	1	NA	NA	2
+regulation of extrinsic apoptotic signaling pathway	0.00780692641598933	0.00255568580239816	NA	NA	1	1	NA	NA	2
+positive regulation of angiogenesis	0.00780692641598933	0.00858543162226524	NA	NA	1	1	NA	NA	2
+regulation of hydrolase activity	0.00780692641598933	0.0362900340207787	NA	NA	1	1	NA	NA	2
+negative regulation of defense response	0.00925817891023738	0.00304847750659159	NA	NA	1	1	NA	NA	2
+positive regulation of vasculature development	0.0103865368577275	0.00926574205374265	NA	NA	1	1	NA	NA	2
+negative regulation of cell-cell adhesion	0.0108596208236722	0.00120252769297175	NA	NA	1	1	NA	NA	2
+cellular response to cytokine stimulus	0.0114136495456767	3.89416941262593e-08	NA	NA	1	1	NA	NA	2
+locomotion	0.0114136495456767	0.000172629159934271	NA	NA	1	1	NA	NA	2
+regulation of cell motility	0.0114136495456767	0.000282628507424733	NA	NA	1	1	NA	NA	2
+epidermis development	0.0114136495456767	0.0182486858567155	NA	NA	1	1	NA	NA	2
+cell migration	0.0136563733253723	3.09925496626209e-06	NA	NA	1	1	NA	NA	2
+cellular response to type I interferon	0.014210313728529	0.0205884322398152	NA	NA	1	1	NA	NA	2
+negative regulation of proteolysis	0.0168254540322494	0.0327493082339165	NA	NA	1	1	NA	NA	2
+regulation of response to stress	0.0170478900835042	0.0382787774134388	NA	NA	1	1	NA	NA	2
+negative regulation of cell adhesion	0.0183319264710568	5.2634307967275e-05	NA	NA	1	1	NA	NA	2
+regulation of binding	0.0192054491080228	0.0418508775096305	NA	NA	1	1	NA	NA	2
+skin epidermis development	0.0202534446185749	0.00734034697569915	NA	NA	1	1	NA	NA	2
+positive regulation of immune system process	0.0214135096521487	4.33462264563844e-05	NA	NA	1	1	NA	NA	2
+response to bacterium	0.0215878828988251	0.000279160295811602	NA	NA	1	1	NA	NA	2
+negative regulation of hydrolase activity	0.0217393743274669	0.025657856097226	NA	NA	1	1	NA	NA	2
+regulation of cytokine-mediated signaling pathway	0.0219480965158517	0.0333372886434422	NA	NA	1	1	NA	NA	2
+defense response to bacterium	0.022944416329773	0.0418508775096305	NA	NA	1	1	NA	NA	2
+regulation of protein processing	0.0251498430486864	0.0421407657780115	NA	NA	1	1	NA	NA	2
+skin development	0.0255620911628321	0.00492119756748493	NA	NA	1	1	NA	NA	2
+negative regulation of leukocyte cell-cell adhesion	0.0256763561148632	0.00876322840382943	NA	NA	1	1	NA	NA	2
+regulation of inflammatory response	0.025964724486201	0.000218224360880162	NA	NA	1	1	NA	NA	2
+positive regulation of cell differentiation	0.027083329293609	5.2170941073264e-05	NA	NA	1	1	NA	NA	2
+type I interferon-mediated signaling pathway	0.0305806782051288	0.019570598427322	NA	NA	1	1	NA	NA	2
+regulation of locomotion	0.033061566297287	0.000515768491537194	NA	NA	1	1	NA	NA	2
+interferon-mediated signaling pathway	0.033061566297287	0.0490901588779425	NA	NA	1	1	NA	NA	2
+positive regulation of extrinsic apoptotic signaling pathway	0.0335539703229708	0.0365031000285076	NA	NA	1	1	NA	NA	2
+regulation of leukocyte migration	0.0350882544951342	0.0041147248089629	NA	NA	1	1	NA	NA	2
+positive regulation of inflammatory response	0.0350882544951342	0.0348541628963033	NA	NA	1	1	NA	NA	2
+positive regulation of immune response	0.0356097381860833	0.00583812316766109	NA	NA	1	1	NA	NA	2
+cell population proliferation	0.0368166688843305	1.41498534063952e-06	NA	NA	1	1	NA	NA	2
+positive regulation of cellular biosynthetic process	0.0368166688843305	3.67929052803522e-05	NA	NA	1	1	NA	NA	2
+positive regulation of macromolecule biosynthetic process	0.0368166688843305	4.06845365142311e-05	NA	NA	1	1	NA	NA	2
+T cell mediated immunity	0.0368166688843305	8.90715983952544e-05	NA	NA	1	1	NA	NA	2
+regulation of immune response	0.0368166688843305	0.0124935112360227	NA	NA	1	1	NA	NA	2
+regulation of response to biotic stimulus	0.0368166688843305	0.0366447511953143	NA	NA	1	1	NA	NA	2
+regulation of protein metabolic process	0.0368166688843305	0.0458219269673081	NA	NA	1	1	NA	NA	2
+extrinsic apoptotic signaling pathway	0.0399934400344356	0.000819455442645342	NA	NA	1	1	NA	NA	2
+response to lipid	0.0418055931185085	4.12285180262613e-05	NA	NA	1	1	NA	NA	2
+negative regulation of protein metabolic process	0.0431843996107887	0.0175452576576718	NA	NA	1	1	NA	NA	2
+regulation of angiogenesis	0.0441329671919564	0.000819455442645342	NA	NA	1	1	NA	NA	2
+acute-phase response	NA	0.00200914839621956	NA	0.0470440290789623	NA	1	NA	1	2
+antigen processing and presentation of peptide antigen via MHC class I	8.71845034348134e-06	NA	NA	NA	1	NA	NA	NA	1
+antigen processing and presentation of peptide antigen	2.27586351279001e-05	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of viral process	0.000109948875175546	NA	NA	NA	1	NA	NA	NA	1
+proton motive force-driven mitochondrial ATP synthesis	0.00062361931413357	NA	NA	NA	1	NA	NA	NA	1
+oxidative phosphorylation	0.000710801448257322	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of response to biotic stimulus	0.000811666049841669	NA	NA	NA	1	NA	NA	NA	1
+mitochondrial electron transport, NADH to ubiquinone	0.000811666049841669	NA	NA	NA	1	NA	NA	NA	1
+proton motive force-driven ATP synthesis	0.000875873832245864	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of innate immune response	0.000875873832245864	NA	NA	NA	1	NA	NA	NA	1
+nucleoside triphosphate biosynthetic process	0.000909337799368409	NA	NA	NA	1	NA	NA	NA	1
+aerobic electron transport chain	0.00117109173001344	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of viral genome replication	0.00132634227427388	NA	NA	NA	1	NA	NA	NA	1
+ATP biosynthetic process	0.00189536873982918	NA	NA	NA	1	NA	NA	NA	1
+protein maturation	0.0026353444385326	NA	NA	NA	1	NA	NA	NA	1
+ATP synthesis coupled electron transport	0.00345304398374603	NA	NA	NA	1	NA	NA	NA	1
+mitochondrial ATP synthesis coupled electron transport	0.00345304398374603	NA	NA	NA	1	NA	NA	NA	1
+regulation of catalytic activity	0.00468085314950008	NA	NA	NA	1	NA	NA	NA	1
+ribonucleoside triphosphate biosynthetic process	0.00468085314950008	NA	NA	NA	1	NA	NA	NA	1
+release of cytochrome c from mitochondria	0.00510311573738504	NA	NA	NA	1	NA	NA	NA	1
+purine ribonucleoside triphosphate biosynthetic process	0.00632246687317746	NA	NA	NA	1	NA	NA	NA	1
+response to type II interferon	0.00632246687317746	NA	NA	NA	1	NA	NA	NA	1
+purine nucleoside triphosphate biosynthetic process	0.00694817743388538	NA	NA	NA	1	NA	NA	NA	1
+establishment of skin barrier	0.00695612331988533	NA	NA	NA	1	NA	NA	NA	1
+apoptotic mitochondrial changes	0.00740921987772258	NA	NA	NA	1	NA	NA	NA	1
+protein folding	0.00979990159064186	NA	NA	NA	1	NA	NA	NA	1
+UV protection	0.0103865368577275	NA	NA	NA	1	NA	NA	NA	1
+regulation of viral process	0.0113089329338451	NA	NA	NA	1	NA	NA	NA	1
+nucleoside triphosphate metabolic process	0.0114136495456767	NA	NA	NA	1	NA	NA	NA	1
+chemokine (C-X-C motif) ligand 2 production	0.0168254540322494	NA	NA	NA	1	NA	NA	NA	1
+regulation of chemokine (C-X-C motif) ligand 2 production	0.0168254540322494	NA	NA	NA	1	NA	NA	NA	1
+cellular response to type II interferon	0.0168254540322494	NA	NA	NA	1	NA	NA	NA	1
+proton transmembrane transport	0.0175904646770825	NA	NA	NA	1	NA	NA	NA	1
+respiratory electron transport chain	0.0183319264710568	NA	NA	NA	1	NA	NA	NA	1
+regulation of innate immune response	0.0204320501632249	NA	NA	NA	1	NA	NA	NA	1
+aerobic respiration	0.022944416329773	NA	NA	NA	1	NA	NA	NA	1
+external encapsulating structure organization	0.022944416329773	NA	NA	NA	1	NA	NA	NA	1
+ATP metabolic process	0.0245580543482083	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of T cell activation	0.0245580543482083	NA	NA	NA	1	NA	NA	NA	1
+mitotic cell cycle	0.0254289919827927	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of immune response	0.0254969755434427	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of molecular function	0.0256763561148632	NA	NA	NA	1	NA	NA	NA	1
+regulation of viral life cycle	0.025964724486201	NA	NA	NA	1	NA	NA	NA	1
+extracellular matrix organization	0.0336465702055799	NA	NA	NA	1	NA	NA	NA	1
+extracellular structure organization	0.0350882544951342	NA	NA	NA	1	NA	NA	NA	1
+positive regulation of T cell mediated cytotoxicity	0.0350882544951342	NA	NA	NA	1	NA	NA	NA	1
+pyroptotic inflammatory response	0.0350882544951342	NA	NA	NA	1	NA	NA	NA	1
+positive regulation of release of cytochrome c from mitochondria	0.0356097381860833	NA	NA	NA	1	NA	NA	NA	1
+cell cycle	0.0368166688843305	NA	NA	NA	1	NA	NA	NA	1
+regulation of release of cytochrome c from mitochondria	0.0368166688843305	NA	NA	NA	1	NA	NA	NA	1
+chromosome segregation	0.0368166688843305	NA	NA	NA	1	NA	NA	NA	1
+endothelial cell migration	0.0368166688843305	NA	NA	NA	1	NA	NA	NA	1
+positive regulation of systemic arterial blood pressure	0.0368166688843305	NA	NA	NA	1	NA	NA	NA	1
+neutrophil extravasation	0.0368166688843305	NA	NA	NA	1	NA	NA	NA	1
+regulation of metallopeptidase activity	0.0368166688843305	NA	NA	NA	1	NA	NA	NA	1
+electron transport chain	0.0377846376464422	NA	NA	NA	1	NA	NA	NA	1
+antigen processing and presentation of exogenous antigen	0.0389650645661785	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of response to cytokine stimulus	0.0399934400344356	NA	NA	NA	1	NA	NA	NA	1
+purine nucleoside triphosphate metabolic process	0.040261847459146	NA	NA	NA	1	NA	NA	NA	1
+nuclear division	0.040261847459146	NA	NA	NA	1	NA	NA	NA	1
+negative regulation of type I interferon-mediated signaling pathway	0.0418055931185085	NA	NA	NA	1	NA	NA	NA	1
+purine ribonucleotide biosynthetic process	0.0418055931185085	NA	NA	NA	1	NA	NA	NA	1
+protein processing	0.0441329671919564	NA	NA	NA	1	NA	NA	NA	1
+intracellular receptor signaling pathway	0.0462800356178507	NA	NA	NA	1	NA	NA	NA	1
+intermediate filament organization	0.0462813939372713	NA	NA	NA	1	NA	NA	NA	1
+regulation of type I interferon-mediated signaling pathway	0.0462813939372713	NA	NA	NA	1	NA	NA	NA	1
+regulation of protein maturation	0.0462813939372713	NA	NA	NA	1	NA	NA	NA	1
+antigen processing and presentation of exogenous peptide antigen	0.0497105675792231	NA	NA	NA	1	NA	NA	NA	1
+detection of biotic stimulus	0.0497105675792231	NA	NA	NA	1	NA	NA	NA	1
+response to chemical	NA	1.75212969751695e-08	NA	NA	NA	1	NA	NA	1
+animal organ morphogenesis	NA	1.30713268081826e-07	NA	NA	NA	1	NA	NA	1
+morphogenesis of an epithelium	NA	1.3877037200156e-07	NA	NA	NA	1	NA	NA	1
+cell surface receptor signaling pathway	NA	1.87252511867119e-07	NA	NA	NA	1	NA	NA	1
+regulation of response to stimulus	NA	1.87252511867119e-07	NA	NA	NA	1	NA	NA	1
+tube development	NA	1.9193399013476e-07	NA	NA	NA	1	NA	NA	1
+signal transduction	NA	2.90661100409723e-07	NA	NA	NA	1	NA	NA	1
+negative regulation of biological process	NA	2.90661100409723e-07	NA	NA	NA	1	NA	NA	1
+tube morphogenesis	NA	2.90661100409723e-07	NA	NA	NA	1	NA	NA	1
+regulation of cell adhesion	NA	3.35511981085668e-07	NA	NA	NA	1	NA	NA	1
+regulation of cell communication	NA	4.35386797362962e-07	NA	NA	NA	1	NA	NA	1
+anatomical structure formation involved in morphogenesis	NA	5.12075676245917e-07	NA	NA	NA	1	NA	NA	1
+positive regulation of response to stimulus	NA	5.12075676245917e-07	NA	NA	NA	1	NA	NA	1
+epithelium development	NA	5.12075676245917e-07	NA	NA	NA	1	NA	NA	1
+cell differentiation	NA	5.12075676245917e-07	NA	NA	NA	1	NA	NA	1
+cellular developmental process	NA	5.12075676245917e-07	NA	NA	NA	1	NA	NA	1
+tissue morphogenesis	NA	5.12075676245917e-07	NA	NA	NA	1	NA	NA	1
+mesonephros development	NA	5.54225585758459e-07	NA	NA	NA	1	NA	NA	1
+cellular response to chemical stimulus	NA	7.34723938789561e-07	NA	NA	NA	1	NA	NA	1
+negative regulation of multicellular organismal process	NA	9.31060122181935e-07	NA	NA	NA	1	NA	NA	1
+anatomical structure morphogenesis	NA	9.4592886150646e-07	NA	NA	NA	1	NA	NA	1
+system development	NA	1.41498534063952e-06	NA	NA	NA	1	NA	NA	1
+regulation of signaling	NA	1.41498534063952e-06	NA	NA	NA	1	NA	NA	1
+negative regulation of cellular process	NA	1.41498534063952e-06	NA	NA	NA	1	NA	NA	1
+regulation of signal transduction	NA	1.46164763101948e-06	NA	NA	NA	1	NA	NA	1
+multicellular organism development	NA	1.67558731218248e-06	NA	NA	NA	1	NA	NA	1
+cell death	NA	1.694351026298e-06	NA	NA	NA	1	NA	NA	1
+cell adhesion	NA	1.93513060356158e-06	NA	NA	NA	1	NA	NA	1
+gland development	NA	1.93513060356158e-06	NA	NA	NA	1	NA	NA	1
+tube formation	NA	2.05246398885993e-06	NA	NA	NA	1	NA	NA	1
+regulation of anatomical structure morphogenesis	NA	2.07503065368363e-06	NA	NA	NA	1	NA	NA	1
+ureteric bud development	NA	2.24393346605108e-06	NA	NA	NA	1	NA	NA	1
+mesonephric epithelium development	NA	2.44377729469601e-06	NA	NA	NA	1	NA	NA	1
+mesonephric tubule development	NA	2.44377729469601e-06	NA	NA	NA	1	NA	NA	1
+kidney epithelium development	NA	2.46980162014541e-06	NA	NA	NA	1	NA	NA	1
+anatomical structure development	NA	3.20721612411524e-06	NA	NA	NA	1	NA	NA	1
+response to oxygen-containing compound	NA	3.20721612411524e-06	NA	NA	NA	1	NA	NA	1
+apoptotic process	NA	3.20721612411524e-06	NA	NA	NA	1	NA	NA	1
+programmed cell death	NA	3.20721612411524e-06	NA	NA	NA	1	NA	NA	1
+negative regulation of apoptotic process	NA	4.07236114088604e-06	NA	NA	NA	1	NA	NA	1
+cell surface receptor protein tyrosine kinase signaling pathway	NA	4.07236114088604e-06	NA	NA	NA	1	NA	NA	1
+cytokine-mediated signaling pathway	NA	4.25870661589858e-06	NA	NA	NA	1	NA	NA	1
+regulation of developmental process	NA	4.65249404263578e-06	NA	NA	NA	1	NA	NA	1
+regulation of programmed cell death	NA	4.9342729984837e-06	NA	NA	NA	1	NA	NA	1
+cellular response to oxygen-containing compound	NA	5.14151582022587e-06	NA	NA	NA	1	NA	NA	1
+regulation of apoptotic process	NA	6.16807438027687e-06	NA	NA	NA	1	NA	NA	1
+renal system development	NA	7.11449482661056e-06	NA	NA	NA	1	NA	NA	1
+negative regulation of programmed cell death	NA	8.12341195527991e-06	NA	NA	NA	1	NA	NA	1
+leukocyte activation	NA	1.03355157632783e-05	NA	NA	NA	1	NA	NA	1
+intracellular signal transduction	NA	1.042861498738e-05	NA	NA	NA	1	NA	NA	1
+regulation of animal organ morphogenesis	NA	1.18917808963271e-05	NA	NA	NA	1	NA	NA	1
+enzyme-linked receptor protein signaling pathway	NA	1.2407108158645e-05	NA	NA	NA	1	NA	NA	1
+growth	NA	1.2407108158645e-05	NA	NA	NA	1	NA	NA	1
+animal organ development	NA	1.29044885596858e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of cytokine production	NA	1.57647656284523e-05	NA	NA	NA	1	NA	NA	1
+regulation of growth	NA	1.65435910749132e-05	NA	NA	NA	1	NA	NA	1
+nephron development	NA	2.04535733871398e-05	NA	NA	NA	1	NA	NA	1
+regulation of cell-cell adhesion	NA	2.08417709257091e-05	NA	NA	NA	1	NA	NA	1
+cell fate commitment	NA	2.11850955426762e-05	NA	NA	NA	1	NA	NA	1
+kidney development	NA	2.11850955426762e-05	NA	NA	NA	1	NA	NA	1
+regulation of multicellular organismal development	NA	2.21328337985574e-05	NA	NA	NA	1	NA	NA	1
+epithelial tube formation	NA	2.76224663876283e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of metabolic process	NA	2.76224663876283e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of macromolecule metabolic process	NA	2.80994389927301e-05	NA	NA	NA	1	NA	NA	1
+epithelial tube morphogenesis	NA	2.82677486565192e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of biosynthetic process	NA	2.89102187812165e-05	NA	NA	NA	1	NA	NA	1
+cell-cell adhesion	NA	3.09210764345328e-05	NA	NA	NA	1	NA	NA	1
+cell motility	NA	3.16906108238278e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of cell communication	NA	3.78049924067384e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of signaling	NA	4.12285180262613e-05	NA	NA	NA	1	NA	NA	1
+circulatory system development	NA	4.15988032596683e-05	NA	NA	NA	1	NA	NA	1
+epithelial cell proliferation	NA	4.28916789236696e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of cell population proliferation	NA	4.32878315950825e-05	NA	NA	NA	1	NA	NA	1
+embryonic morphogenesis	NA	4.66459222807032e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of type 2 immune response	NA	5.2445573705036e-05	NA	NA	NA	1	NA	NA	1
+ureter development	NA	5.2445573705036e-05	NA	NA	NA	1	NA	NA	1
+fat cell differentiation	NA	5.2445573705036e-05	NA	NA	NA	1	NA	NA	1
+embryo development ending in birth or egg hatching	NA	5.2634307967275e-05	NA	NA	NA	1	NA	NA	1
+response to endogenous stimulus	NA	5.2634307967275e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of macromolecule biosynthetic process	NA	5.47419528565811e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of cellular metabolic process	NA	5.69397559111892e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of animal organ morphogenesis	NA	5.86420477363109e-05	NA	NA	NA	1	NA	NA	1
+vasculature development	NA	5.90602241995387e-05	NA	NA	NA	1	NA	NA	1
+nephron epithelium development	NA	5.92686431197723e-05	NA	NA	NA	1	NA	NA	1
+regulation of cell differentiation	NA	6.61708970394628e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of cellular metabolic process	NA	6.84194553556206e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of signal transduction	NA	7.41576105875946e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of cell communication	NA	7.41576105875946e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of metabolic process	NA	7.41576105875946e-05	NA	NA	NA	1	NA	NA	1
+positive regulation of cell development	NA	7.41576105875946e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of signaling	NA	7.52505103759366e-05	NA	NA	NA	1	NA	NA	1
+negative regulation of cellular biosynthetic process	NA	8.37025661918188e-05	NA	NA	NA	1	NA	NA	1
+blood vessel development	NA	8.37025661918188e-05	NA	NA	NA	1	NA	NA	1
+regulation of T cell mediated immunity	NA	8.46881557631145e-05	NA	NA	NA	1	NA	NA	1
+nervous system development	NA	8.46881557631145e-05	NA	NA	NA	1	NA	NA	1
+cellular response to lipid	NA	9.26814797456074e-05	NA	NA	NA	1	NA	NA	1
+odontogenesis	NA	9.53726808606939e-05	NA	NA	NA	1	NA	NA	1
+T cell cytokine production	NA	9.62077766412156e-05	NA	NA	NA	1	NA	NA	1
+regulation of T cell cytokine production	NA	9.62077766412156e-05	NA	NA	NA	1	NA	NA	1
+gland morphogenesis	NA	0.000101277323536619	NA	NA	NA	1	NA	NA	1
+negative regulation of biosynthetic process	NA	0.000107451329641643	NA	NA	NA	1	NA	NA	1
+regulation of kidney development	NA	0.000113564940482323	NA	NA	NA	1	NA	NA	1
+cell activation	NA	0.000118133888669713	NA	NA	NA	1	NA	NA	1
+epithelial cell differentiation	NA	0.000181493338137966	NA	NA	NA	1	NA	NA	1
+negative regulation of response to stimulus	NA	0.000183471236049719	NA	NA	NA	1	NA	NA	1
+type 2 immune response	NA	0.000191773634921655	NA	NA	NA	1	NA	NA	1
+positive regulation of interleukin-5 production	NA	0.000202073423109811	NA	NA	NA	1	NA	NA	1
+cellular response to endogenous stimulus	NA	0.00020453738700171	NA	NA	NA	1	NA	NA	1
+negative regulation of signal transduction	NA	0.000222912395882509	NA	NA	NA	1	NA	NA	1
+negative regulation of DNA-templated transcription	NA	0.000238675103036196	NA	NA	NA	1	NA	NA	1
+positive regulation of cell adhesion	NA	0.000238675103036196	NA	NA	NA	1	NA	NA	1
+chordate embryonic development	NA	0.000242237392638361	NA	NA	NA	1	NA	NA	1
+regulation of leukocyte activation	NA	0.000264802437309433	NA	NA	NA	1	NA	NA	1
+intracellular signaling cassette	NA	0.000273227563482872	NA	NA	NA	1	NA	NA	1
+morphogenesis of embryonic epithelium	NA	0.000273227563482872	NA	NA	NA	1	NA	NA	1
+regulation of adaptive immune response	NA	0.000278897202320683	NA	NA	NA	1	NA	NA	1
+negative regulation of RNA biosynthetic process	NA	0.000290558164880362	NA	NA	NA	1	NA	NA	1
+regulation of cell activation	NA	0.000290558164880362	NA	NA	NA	1	NA	NA	1
+stem cell differentiation	NA	0.00032377339039459	NA	NA	NA	1	NA	NA	1
+camera-type eye development	NA	0.000325988195799487	NA	NA	NA	1	NA	NA	1
+mesonephric tubule morphogenesis	NA	0.000344840858031794	NA	NA	NA	1	NA	NA	1
+apoptotic signaling pathway	NA	0.000346784380549927	NA	NA	NA	1	NA	NA	1
+embryonic epithelial tube formation	NA	0.000346784380549927	NA	NA	NA	1	NA	NA	1
+regulation of production of molecular mediator of immune response	NA	0.000346784380549927	NA	NA	NA	1	NA	NA	1
+positive regulation of DNA-templated transcription	NA	0.000377053013897201	NA	NA	NA	1	NA	NA	1
+positive regulation of cell migration	NA	0.000379278722968347	NA	NA	NA	1	NA	NA	1
+morphogenesis of a branching epithelium	NA	0.000383424079507768	NA	NA	NA	1	NA	NA	1
+positive regulation of macromolecule metabolic process	NA	0.000384792009071747	NA	NA	NA	1	NA	NA	1
+positive regulation of RNA biosynthetic process	NA	0.000386449788313706	NA	NA	NA	1	NA	NA	1
+type B pancreatic cell proliferation	NA	0.000405139826021314	NA	NA	NA	1	NA	NA	1
+lymphocyte activation	NA	0.000425931176142767	NA	NA	NA	1	NA	NA	1
+embryo development	NA	0.000425931176142767	NA	NA	NA	1	NA	NA	1
+response to hormone	NA	0.000429215522526819	NA	NA	NA	1	NA	NA	1
+ossification	NA	0.000429215522526819	NA	NA	NA	1	NA	NA	1
+positive regulation of RNA metabolic process	NA	0.000469147389285918	NA	NA	NA	1	NA	NA	1
+liver morphogenesis	NA	0.000483753954990347	NA	NA	NA	1	NA	NA	1
+regulation of developmental growth	NA	0.000484350681987333	NA	NA	NA	1	NA	NA	1
+negative regulation of developmental process	NA	0.000512948181770992	NA	NA	NA	1	NA	NA	1
+interleukin-5 production	NA	0.00051997094258367	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-5 production	NA	0.00051997094258367	NA	NA	NA	1	NA	NA	1
+renal tubule development	NA	0.000544565097274698	NA	NA	NA	1	NA	NA	1
+response to nitrogen compound	NA	0.000557046767171112	NA	NA	NA	1	NA	NA	1
+negative regulation of RNA metabolic process	NA	0.000557046767171112	NA	NA	NA	1	NA	NA	1
+regulation of type 2 immune response	NA	0.000563585191435191	NA	NA	NA	1	NA	NA	1
+positive regulation of T cell mediated immunity	NA	0.000579332535668477	NA	NA	NA	1	NA	NA	1
+nephron tubule morphogenesis	NA	0.000579332535668477	NA	NA	NA	1	NA	NA	1
+cellular response to biotic stimulus	NA	0.000579962707907648	NA	NA	NA	1	NA	NA	1
+positive regulation of cell motility	NA	0.000579962707907648	NA	NA	NA	1	NA	NA	1
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	NA	0.000593908969774788	NA	NA	NA	1	NA	NA	1
+positive regulation of production of molecular mediator of immune response	NA	0.000625509371746832	NA	NA	NA	1	NA	NA	1
+positive regulation of immune effector process	NA	0.000658482558186882	NA	NA	NA	1	NA	NA	1
+connective tissue development	NA	0.00067016803765671	NA	NA	NA	1	NA	NA	1
+nephron tubule formation	NA	0.000672159388667473	NA	NA	NA	1	NA	NA	1
+nephron epithelium morphogenesis	NA	0.000682886465710139	NA	NA	NA	1	NA	NA	1
+regulation of fat cell differentiation	NA	0.000700933821464004	NA	NA	NA	1	NA	NA	1
+renal tubule morphogenesis	NA	0.000744730432091265	NA	NA	NA	1	NA	NA	1
+cellular response to molecule of bacterial origin	NA	0.000744730432091265	NA	NA	NA	1	NA	NA	1
+positive regulation of locomotion	NA	0.000769393070181771	NA	NA	NA	1	NA	NA	1
+morphogenesis of a branching structure	NA	0.000776919092925446	NA	NA	NA	1	NA	NA	1
+positive regulation of adaptive immune response	NA	0.000783660584283168	NA	NA	NA	1	NA	NA	1
+regulation of immune effector process	NA	0.000792051527188277	NA	NA	NA	1	NA	NA	1
+nephron morphogenesis	NA	0.000800413091557242	NA	NA	NA	1	NA	NA	1
+mononuclear cell differentiation	NA	0.000848168284334213	NA	NA	NA	1	NA	NA	1
+developmental growth	NA	0.000848168284334213	NA	NA	NA	1	NA	NA	1
+response to retinoic acid	NA	0.000848168284334213	NA	NA	NA	1	NA	NA	1
+positive regulation of transcription by RNA polymerase II	NA	0.000852847483201637	NA	NA	NA	1	NA	NA	1
+regulation of macromolecule biosynthetic process	NA	0.000853504379615526	NA	NA	NA	1	NA	NA	1
+epidermis morphogenesis	NA	0.000862971024905764	NA	NA	NA	1	NA	NA	1
+homeostatic process	NA	0.000868927341821034	NA	NA	NA	1	NA	NA	1
+metanephros development	NA	0.000913019532417487	NA	NA	NA	1	NA	NA	1
+outflow tract morphogenesis	NA	0.000913019532417487	NA	NA	NA	1	NA	NA	1
+regulation of cellular biosynthetic process	NA	0.000913019532417487	NA	NA	NA	1	NA	NA	1
+regulation of biosynthetic process	NA	0.000913019532417487	NA	NA	NA	1	NA	NA	1
+regulation of vasculature development	NA	0.000913019532417487	NA	NA	NA	1	NA	NA	1
+leukocyte differentiation	NA	0.000920219513720953	NA	NA	NA	1	NA	NA	1
+cellular response to fibroblast growth factor stimulus	NA	0.000940879072445908	NA	NA	NA	1	NA	NA	1
+cell-cell adhesion via plasma-membrane adhesion molecules	NA	0.00096013257516506	NA	NA	NA	1	NA	NA	1
+regulation of biological quality	NA	0.000967271408457137	NA	NA	NA	1	NA	NA	1
+canonical NF-kappaB signal transduction	NA	0.000969132223190726	NA	NA	NA	1	NA	NA	1
+regulation of fibroblast growth factor receptor signaling pathway	NA	0.000969132223190726	NA	NA	NA	1	NA	NA	1
+regulation of gene expression	NA	0.000980900039041766	NA	NA	NA	1	NA	NA	1
+eye development	NA	0.000980900039041766	NA	NA	NA	1	NA	NA	1
+adaptive immune response	NA	0.000992469518742198	NA	NA	NA	1	NA	NA	1
+regulation of cell development	NA	0.000996804562685366	NA	NA	NA	1	NA	NA	1
+negative regulation of transcription by RNA polymerase II	NA	0.000997155189140981	NA	NA	NA	1	NA	NA	1
+response to molecule of bacterial origin	NA	0.00101327517320725	NA	NA	NA	1	NA	NA	1
+positive regulation of cell-matrix adhesion	NA	0.00102237500338267	NA	NA	NA	1	NA	NA	1
+visual system development	NA	0.00102237500338267	NA	NA	NA	1	NA	NA	1
+regulation of miRNA transcription	NA	0.00102237500338267	NA	NA	NA	1	NA	NA	1
+miRNA transcription	NA	0.00111429680095907	NA	NA	NA	1	NA	NA	1
+positive regulation of cytokine production involved in immune response	NA	0.00120252769297175	NA	NA	NA	1	NA	NA	1
+odontogenesis of dentin-containing tooth	NA	0.00120252769297175	NA	NA	NA	1	NA	NA	1
+sensory system development	NA	0.00122639174488076	NA	NA	NA	1	NA	NA	1
+negative regulation of nucleobase-containing compound metabolic process	NA	0.00123779526844012	NA	NA	NA	1	NA	NA	1
+skeletal system morphogenesis	NA	0.00124166414836255	NA	NA	NA	1	NA	NA	1
+response to fibroblast growth factor	NA	0.00124166414836255	NA	NA	NA	1	NA	NA	1
+heart morphogenesis	NA	0.00124166414836255	NA	NA	NA	1	NA	NA	1
+negative regulation of fibroblast growth factor receptor signaling pathway	NA	0.00124166414836255	NA	NA	NA	1	NA	NA	1
+regulation of intracellular signal transduction	NA	0.00129894201457543	NA	NA	NA	1	NA	NA	1
+production of molecular mediator of immune response	NA	0.00133537518308184	NA	NA	NA	1	NA	NA	1
+mesenchymal cell differentiation	NA	0.00133537518308184	NA	NA	NA	1	NA	NA	1
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	NA	0.00140941581552259	NA	NA	NA	1	NA	NA	1
+cellular response to growth factor stimulus	NA	0.00142645380164661	NA	NA	NA	1	NA	NA	1
+blood vessel morphogenesis	NA	0.00142645380164661	NA	NA	NA	1	NA	NA	1
+respiratory system development	NA	0.00144011976106352	NA	NA	NA	1	NA	NA	1
+positive regulation of leukocyte activation	NA	0.00148243307289112	NA	NA	NA	1	NA	NA	1
+regulation of epithelial cell proliferation	NA	0.00148243307289112	NA	NA	NA	1	NA	NA	1
+regulation of canonical NF-kappaB signal transduction	NA	0.0015430362866315	NA	NA	NA	1	NA	NA	1
+regulation of cytokine production involved in immune response	NA	0.00156277976224627	NA	NA	NA	1	NA	NA	1
+nerve development	NA	0.00157327466651846	NA	NA	NA	1	NA	NA	1
+branching morphogenesis of an epithelial tube	NA	0.00158491352092407	NA	NA	NA	1	NA	NA	1
+cytokine production involved in immune response	NA	0.00165330480910807	NA	NA	NA	1	NA	NA	1
+leukocyte migration	NA	0.0016584149918496	NA	NA	NA	1	NA	NA	1
+angiogenesis	NA	0.00167630775326975	NA	NA	NA	1	NA	NA	1
+T cell activation	NA	0.00167630775326975	NA	NA	NA	1	NA	NA	1
+acute inflammatory response	NA	0.0018025103946495	NA	NA	NA	1	NA	NA	1
+positive regulation of interleukin-4 production	NA	0.00182791368854105	NA	NA	NA	1	NA	NA	1
+regulation of cell-matrix adhesion	NA	0.0018398027709917	NA	NA	NA	1	NA	NA	1
+mesenchyme development	NA	0.00184295425964256	NA	NA	NA	1	NA	NA	1
+ureteric bud morphogenesis	NA	0.00190124935260558	NA	NA	NA	1	NA	NA	1
+cellular response to lipopolysaccharide	NA	0.00204902043897322	NA	NA	NA	1	NA	NA	1
+negative regulation of endopeptidase activity	NA	0.00204902043897322	NA	NA	NA	1	NA	NA	1
+cellular response to acid chemical	NA	0.00204902043897322	NA	NA	NA	1	NA	NA	1
+muscle tissue development	NA	0.00205400125965303	NA	NA	NA	1	NA	NA	1
+cellular response to retinoic acid	NA	0.00205400125965303	NA	NA	NA	1	NA	NA	1
+response to lipopolysaccharide	NA	0.00206929786505841	NA	NA	NA	1	NA	NA	1
+liver development	NA	0.00208029053550548	NA	NA	NA	1	NA	NA	1
+response to interferon-alpha	NA	0.00216143947239334	NA	NA	NA	1	NA	NA	1
+nephron tubule development	NA	0.00216581083869817	NA	NA	NA	1	NA	NA	1
+cartilage development	NA	0.00219164734589654	NA	NA	NA	1	NA	NA	1
+positive regulation of cell activation	NA	0.00223921817330913	NA	NA	NA	1	NA	NA	1
+embryonic skeletal system development	NA	0.00225440278858869	NA	NA	NA	1	NA	NA	1
+hepaticobiliary system development	NA	0.00227063731026663	NA	NA	NA	1	NA	NA	1
+bone morphogenesis	NA	0.00228776469177666	NA	NA	NA	1	NA	NA	1
+kidney morphogenesis	NA	0.00228776469177666	NA	NA	NA	1	NA	NA	1
+positive regulation of response to external stimulus	NA	0.00231586936396513	NA	NA	NA	1	NA	NA	1
+response to growth factor	NA	0.00232821546443558	NA	NA	NA	1	NA	NA	1
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	NA	0.00235010126693865	NA	NA	NA	1	NA	NA	1
+neurogenesis	NA	0.00242180243804138	NA	NA	NA	1	NA	NA	1
+regulation of fatty acid metabolic process	NA	0.00242341469076167	NA	NA	NA	1	NA	NA	1
+canonical Wnt signaling pathway	NA	0.00242726267996119	NA	NA	NA	1	NA	NA	1
+positive regulation of cell-cell adhesion	NA	0.00249611451825132	NA	NA	NA	1	NA	NA	1
+regulation of endopeptidase activity	NA	0.00249932760433077	NA	NA	NA	1	NA	NA	1
+regulation of miRNA metabolic process	NA	0.00255641861959515	NA	NA	NA	1	NA	NA	1
+positive regulation of nervous system development	NA	0.00257274074407663	NA	NA	NA	1	NA	NA	1
+negative regulation of gene expression	NA	0.00257274074407663	NA	NA	NA	1	NA	NA	1
+bone development	NA	0.0027078026141242	NA	NA	NA	1	NA	NA	1
+glomerulus development	NA	0.00273818207169584	NA	NA	NA	1	NA	NA	1
+apoptotic process involved in morphogenesis	NA	0.0029364512473636	NA	NA	NA	1	NA	NA	1
+cellular response to nitrogen compound	NA	0.00297251425392899	NA	NA	NA	1	NA	NA	1
+regulation of extrinsic apoptotic signaling pathway in absence of ligand	NA	0.00297251425392899	NA	NA	NA	1	NA	NA	1
+hematopoietic progenitor cell differentiation	NA	0.00300557793826512	NA	NA	NA	1	NA	NA	1
+interleukin-1 production	NA	0.00304847750659159	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-1 production	NA	0.00304847750659159	NA	NA	NA	1	NA	NA	1
+gonad development	NA	0.00314717213447399	NA	NA	NA	1	NA	NA	1
+positive regulation of neurogenesis	NA	0.00314717213447399	NA	NA	NA	1	NA	NA	1
+hemopoiesis	NA	0.00314717213447399	NA	NA	NA	1	NA	NA	1
+immune effector process	NA	0.00320877425927656	NA	NA	NA	1	NA	NA	1
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	NA	0.00324995189561526	NA	NA	NA	1	NA	NA	1
+cell development	NA	0.00328361898779831	NA	NA	NA	1	NA	NA	1
+regulation of lymphocyte activation	NA	0.00328361898779831	NA	NA	NA	1	NA	NA	1
+positive regulation of T cell cytokine production	NA	0.00332030321821775	NA	NA	NA	1	NA	NA	1
+developmental induction	NA	0.00332030321821775	NA	NA	NA	1	NA	NA	1
+hepatocyte proliferation	NA	0.00332030321821775	NA	NA	NA	1	NA	NA	1
+epithelial cell proliferation involved in liver morphogenesis	NA	0.00332030321821775	NA	NA	NA	1	NA	NA	1
+development of primary sexual characteristics	NA	0.00332030321821775	NA	NA	NA	1	NA	NA	1
+regulation of cysteine-type endopeptidase activity	NA	0.00352606565619916	NA	NA	NA	1	NA	NA	1
+interleukin-10 production	NA	0.00353351117416934	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-10 production	NA	0.00353351117416934	NA	NA	NA	1	NA	NA	1
+production of molecular mediator involved in inflammatory response	NA	0.00360930402240795	NA	NA	NA	1	NA	NA	1
+positive regulation of nucleobase-containing compound metabolic process	NA	0.00364573490302749	NA	NA	NA	1	NA	NA	1
+regulation of lymphocyte mediated immunity	NA	0.00364573490302749	NA	NA	NA	1	NA	NA	1
+tissue remodeling	NA	0.00381520346708716	NA	NA	NA	1	NA	NA	1
+response to abiotic stimulus	NA	0.00381597418416584	NA	NA	NA	1	NA	NA	1
+interleukin-4 production	NA	0.00381597418416584	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-4 production	NA	0.00381597418416584	NA	NA	NA	1	NA	NA	1
+positive regulation of leukocyte mediated immunity	NA	0.00390365903051539	NA	NA	NA	1	NA	NA	1
+response to organic cyclic compound	NA	0.00397037745814631	NA	NA	NA	1	NA	NA	1
+regulation of nervous system development	NA	0.00397037745814631	NA	NA	NA	1	NA	NA	1
+tissue homeostasis	NA	0.00412268952992417	NA	NA	NA	1	NA	NA	1
+anatomical structure homeostasis	NA	0.00412268952992417	NA	NA	NA	1	NA	NA	1
+sensory organ development	NA	0.00426649843230571	NA	NA	NA	1	NA	NA	1
+regulation of cellular ketone metabolic process	NA	0.00426649843230571	NA	NA	NA	1	NA	NA	1
+regulation of neuroinflammatory response	NA	0.00437283531075411	NA	NA	NA	1	NA	NA	1
+regulation of cell-substrate adhesion	NA	0.00438625724561168	NA	NA	NA	1	NA	NA	1
+fibroblast growth factor receptor signaling pathway	NA	0.00438625724561168	NA	NA	NA	1	NA	NA	1
+leukocyte proliferation	NA	0.00457713910925842	NA	NA	NA	1	NA	NA	1
+negative regulation of cysteine-type endopeptidase activity	NA	0.00461606247561068	NA	NA	NA	1	NA	NA	1
+cardiocyte differentiation	NA	0.00462601809978385	NA	NA	NA	1	NA	NA	1
+leukocyte mediated immunity	NA	0.00462601809978385	NA	NA	NA	1	NA	NA	1
+regulation of type B pancreatic cell proliferation	NA	0.00462601809978385	NA	NA	NA	1	NA	NA	1
+macrophage proliferation	NA	0.00462601809978385	NA	NA	NA	1	NA	NA	1
+regulation of postsynaptic density assembly	NA	0.00462601809978385	NA	NA	NA	1	NA	NA	1
+multicellular organismal-level homeostasis	NA	0.00467201527132516	NA	NA	NA	1	NA	NA	1
+positive regulation of intracellular signal transduction	NA	0.00480101434653977	NA	NA	NA	1	NA	NA	1
+hair follicle morphogenesis	NA	0.00492119756748493	NA	NA	NA	1	NA	NA	1
+regulation of cellular metabolic process	NA	0.00504102969322228	NA	NA	NA	1	NA	NA	1
+regulation of epithelial cell differentiation	NA	0.00504102969322228	NA	NA	NA	1	NA	NA	1
+cellular ketone metabolic process	NA	0.00514308920783302	NA	NA	NA	1	NA	NA	1
+response to cAMP	NA	0.00529184622816106	NA	NA	NA	1	NA	NA	1
+developmental growth involved in morphogenesis	NA	0.0053225059347099	NA	NA	NA	1	NA	NA	1
+skeletal system development	NA	0.00535550158293743	NA	NA	NA	1	NA	NA	1
+lymphocyte mediated immunity	NA	0.00535558989298277	NA	NA	NA	1	NA	NA	1
+tumor necrosis factor production	NA	0.00546673562149829	NA	NA	NA	1	NA	NA	1
+regulation of tumor necrosis factor production	NA	0.00546673562149829	NA	NA	NA	1	NA	NA	1
+endochondral ossification	NA	0.0055241248285757	NA	NA	NA	1	NA	NA	1
+replacement ossification	NA	0.0055241248285757	NA	NA	NA	1	NA	NA	1
+interleukin-1 beta production	NA	0.00555634511481577	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-1 beta production	NA	0.00555634511481577	NA	NA	NA	1	NA	NA	1
+regulation of cellular response to growth factor stimulus	NA	0.00555634511481577	NA	NA	NA	1	NA	NA	1
+type II interferon production	NA	0.00555783544651039	NA	NA	NA	1	NA	NA	1
+regulation of type II interferon production	NA	0.00555783544651039	NA	NA	NA	1	NA	NA	1
+positive regulation of interleukin-13 production	NA	0.00569253882095685	NA	NA	NA	1	NA	NA	1
+negative regulation of multicellular organism growth	NA	0.00569253882095685	NA	NA	NA	1	NA	NA	1
+regulation of apoptotic process involved in morphogenesis	NA	0.00569253882095685	NA	NA	NA	1	NA	NA	1
+regulation of apoptotic process involved in development	NA	0.00569253882095685	NA	NA	NA	1	NA	NA	1
+muscle structure development	NA	0.00572936165009057	NA	NA	NA	1	NA	NA	1
+cellular response to hormone stimulus	NA	0.00583812316766109	NA	NA	NA	1	NA	NA	1
+regulation of cysteine-type endopeptidase activity involved in apoptotic process	NA	0.00607471575857407	NA	NA	NA	1	NA	NA	1
+tumor necrosis factor superfamily cytokine production	NA	0.00607471575857407	NA	NA	NA	1	NA	NA	1
+regulation of tumor necrosis factor superfamily cytokine production	NA	0.00607471575857407	NA	NA	NA	1	NA	NA	1
+regulation of leukocyte mediated immunity	NA	0.00608806172372544	NA	NA	NA	1	NA	NA	1
+negative regulation of interleukin-1 production	NA	0.00608806172372544	NA	NA	NA	1	NA	NA	1
+cellular response to amino acid stimulus	NA	0.00615999573657493	NA	NA	NA	1	NA	NA	1
+negative regulation of fat cell differentiation	NA	0.00615999573657493	NA	NA	NA	1	NA	NA	1
+cell-matrix adhesion	NA	0.00626793513669933	NA	NA	NA	1	NA	NA	1
+miRNA metabolic process	NA	0.00636150072208636	NA	NA	NA	1	NA	NA	1
+humoral immune response	NA	0.00637030605534913	NA	NA	NA	1	NA	NA	1
+gastrulation	NA	0.00637030605534913	NA	NA	NA	1	NA	NA	1
+regulation of transport	NA	0.00648695213881137	NA	NA	NA	1	NA	NA	1
+columnar/cuboidal epithelial cell differentiation	NA	0.00665793155574185	NA	NA	NA	1	NA	NA	1
+regulation of leukocyte proliferation	NA	0.00665793155574185	NA	NA	NA	1	NA	NA	1
+metanephric nephron development	NA	0.00680500103776315	NA	NA	NA	1	NA	NA	1
+positive regulation of fatty acid oxidation	NA	0.00696657709897346	NA	NA	NA	1	NA	NA	1
+endocrine system development	NA	0.00699055176070816	NA	NA	NA	1	NA	NA	1
+osteoblast differentiation	NA	0.00710293241716291	NA	NA	NA	1	NA	NA	1
+positive regulation of lymphocyte mediated immunity	NA	0.00734034697569915	NA	NA	NA	1	NA	NA	1
+generation of neurons	NA	0.00766209465790076	NA	NA	NA	1	NA	NA	1
+response to organophosphorus	NA	0.00770301875193729	NA	NA	NA	1	NA	NA	1
+glial cell proliferation	NA	0.0077469326205717	NA	NA	NA	1	NA	NA	1
+endochondral bone morphogenesis	NA	0.0077469326205717	NA	NA	NA	1	NA	NA	1
+positive regulation of leukocyte chemotaxis	NA	0.0077618043331812	NA	NA	NA	1	NA	NA	1
+mesoderm development	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+embryonic skeletal joint development	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+regulation of postsynaptic specialization assembly	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+regulation of postsynaptic density organization	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+positive regulation of neuroblast proliferation	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+autonomic nervous system development	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+negative regulation of signal transduction in absence of ligand	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	NA	0.00840761879230088	NA	NA	NA	1	NA	NA	1
+cellular response to organic cyclic compound	NA	0.00846511645965887	NA	NA	NA	1	NA	NA	1
+striated muscle tissue development	NA	0.0087670181338325	NA	NA	NA	1	NA	NA	1
+cell growth	NA	0.00910485813100805	NA	NA	NA	1	NA	NA	1
+glycoprotein metabolic process	NA	0.00919059231446204	NA	NA	NA	1	NA	NA	1
+system process	NA	0.00938813110763273	NA	NA	NA	1	NA	NA	1
+neural crest cell differentiation	NA	0.00964138030290465	NA	NA	NA	1	NA	NA	1
+macrophage activation	NA	0.00964138030290465	NA	NA	NA	1	NA	NA	1
+myeloid leukocyte activation	NA	0.0099178836383371	NA	NA	NA	1	NA	NA	1
+lymphangiogenesis	NA	0.00994255364795459	NA	NA	NA	1	NA	NA	1
+interleukin-13 production	NA	0.00994255364795459	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-13 production	NA	0.00994255364795459	NA	NA	NA	1	NA	NA	1
+renal vesicle development	NA	0.00994255364795459	NA	NA	NA	1	NA	NA	1
+regulation of localization	NA	0.00994255364795459	NA	NA	NA	1	NA	NA	1
+microglial cell activation	NA	0.0101482411634523	NA	NA	NA	1	NA	NA	1
+homeostasis of number of cells within a tissue	NA	0.0101482411634523	NA	NA	NA	1	NA	NA	1
+apoptotic process involved in development	NA	0.0101482411634523	NA	NA	NA	1	NA	NA	1
+positive regulation of morphogenesis of an epithelium	NA	0.0101482411634523	NA	NA	NA	1	NA	NA	1
+sex differentiation	NA	0.0102780606140087	NA	NA	NA	1	NA	NA	1
+response to acid chemical	NA	0.0102819323294672	NA	NA	NA	1	NA	NA	1
+muscle cell proliferation	NA	0.010390263667981	NA	NA	NA	1	NA	NA	1
+animal organ formation	NA	0.0108383313745123	NA	NA	NA	1	NA	NA	1
+cell killing	NA	0.0110414609850957	NA	NA	NA	1	NA	NA	1
+positive regulation of chemotaxis	NA	0.0112746648918422	NA	NA	NA	1	NA	NA	1
+neuron differentiation	NA	0.0113697608029423	NA	NA	NA	1	NA	NA	1
+T cell differentiation	NA	0.0114045570714205	NA	NA	NA	1	NA	NA	1
+glandular epithelial cell differentiation	NA	0.0115345127020878	NA	NA	NA	1	NA	NA	1
+leukocyte cell-cell adhesion	NA	0.0115345127020878	NA	NA	NA	1	NA	NA	1
+regulation of odontogenesis	NA	0.0115345127020878	NA	NA	NA	1	NA	NA	1
+T-helper 2 cell differentiation	NA	0.0115345127020878	NA	NA	NA	1	NA	NA	1
+negative regulation of natural killer cell mediated cytotoxicity	NA	0.0115345127020878	NA	NA	NA	1	NA	NA	1
+positive regulation of branching involved in ureteric bud morphogenesis	NA	0.0115345127020878	NA	NA	NA	1	NA	NA	1
+regulation of excitatory synapse assembly	NA	0.0115345127020878	NA	NA	NA	1	NA	NA	1
+regulation of mononuclear cell proliferation	NA	0.0116756796243929	NA	NA	NA	1	NA	NA	1
+mammary gland development	NA	0.0120824898847375	NA	NA	NA	1	NA	NA	1
+positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	NA	0.0120824898847375	NA	NA	NA	1	NA	NA	1
+leukocyte activation involved in inflammatory response	NA	0.0120824898847375	NA	NA	NA	1	NA	NA	1
+negative regulation of type II interferon production	NA	0.0120824898847375	NA	NA	NA	1	NA	NA	1
+macrophage differentiation	NA	0.0120824898847375	NA	NA	NA	1	NA	NA	1
+signal transduction in absence of ligand	NA	0.0120824898847375	NA	NA	NA	1	NA	NA	1
+extrinsic apoptotic signaling pathway in absence of ligand	NA	0.0120824898847375	NA	NA	NA	1	NA	NA	1
+lymphocyte differentiation	NA	0.0126878821795874	NA	NA	NA	1	NA	NA	1
+antimicrobial humoral response	NA	0.0127019080858424	NA	NA	NA	1	NA	NA	1
+hematopoietic or lymphoid organ development	NA	0.0127019080858424	NA	NA	NA	1	NA	NA	1
+response to oxygen levels	NA	0.01283598052132	NA	NA	NA	1	NA	NA	1
+neuroinflammatory response	NA	0.0128620607844918	NA	NA	NA	1	NA	NA	1
+response to wounding	NA	0.012933169332954	NA	NA	NA	1	NA	NA	1
+negative regulation of natural killer cell mediated immunity	NA	0.0133244030516996	NA	NA	NA	1	NA	NA	1
+response to leptin	NA	0.0133244030516996	NA	NA	NA	1	NA	NA	1
+cell-substrate adhesion	NA	0.0133461128148669	NA	NA	NA	1	NA	NA	1
+regulation of leukocyte cell-cell adhesion	NA	0.0133461128148669	NA	NA	NA	1	NA	NA	1
+regulation of apoptotic signaling pathway	NA	0.0136967197689934	NA	NA	NA	1	NA	NA	1
+regulation of cell growth	NA	0.0140108227840754	NA	NA	NA	1	NA	NA	1
+response to cold	NA	0.0142798362741786	NA	NA	NA	1	NA	NA	1
+cardiac muscle tissue development	NA	0.0142798362741786	NA	NA	NA	1	NA	NA	1
+cell chemotaxis	NA	0.0143693134811389	NA	NA	NA	1	NA	NA	1
+regulation of gliogenesis	NA	0.014609800025095	NA	NA	NA	1	NA	NA	1
+cell maturation	NA	0.0146783077434252	NA	NA	NA	1	NA	NA	1
+regulation of small GTPase mediated signal transduction	NA	0.0149484283640001	NA	NA	NA	1	NA	NA	1
+positive regulation of programmed cell death	NA	0.0150817681456922	NA	NA	NA	1	NA	NA	1
+negative regulation of growth	NA	0.0151254766444128	NA	NA	NA	1	NA	NA	1
+cell-cell signaling	NA	0.0152338954152102	NA	NA	NA	1	NA	NA	1
+Wnt signaling pathway	NA	0.0152338954152102	NA	NA	NA	1	NA	NA	1
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	NA	0.0152338954152102	NA	NA	NA	1	NA	NA	1
+postsynaptic density assembly	NA	0.0152338954152102	NA	NA	NA	1	NA	NA	1
+positive regulation of leukocyte migration	NA	0.0155527521465481	NA	NA	NA	1	NA	NA	1
+interleukin-6 production	NA	0.0155527521465481	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-6 production	NA	0.0155527521465481	NA	NA	NA	1	NA	NA	1
+positive regulation of lymphocyte activation	NA	0.0158769518543898	NA	NA	NA	1	NA	NA	1
+positive regulation of canonical NF-kappaB signal transduction	NA	0.0158769518543898	NA	NA	NA	1	NA	NA	1
+appendage development	NA	0.0159794014971525	NA	NA	NA	1	NA	NA	1
+limb development	NA	0.0159794014971525	NA	NA	NA	1	NA	NA	1
+mononuclear cell proliferation	NA	0.0161444021884884	NA	NA	NA	1	NA	NA	1
+cell junction organization	NA	0.0162303107536673	NA	NA	NA	1	NA	NA	1
+molting cycle	NA	0.0165032849725193	NA	NA	NA	1	NA	NA	1
+hair cycle	NA	0.0165032849725193	NA	NA	NA	1	NA	NA	1
+regulation of sprouting angiogenesis	NA	0.0165535031532504	NA	NA	NA	1	NA	NA	1
+appendage morphogenesis	NA	0.0166114707809872	NA	NA	NA	1	NA	NA	1
+limb morphogenesis	NA	0.0166114707809872	NA	NA	NA	1	NA	NA	1
+regulation of neurogenesis	NA	0.0166674986758148	NA	NA	NA	1	NA	NA	1
+negative regulation of cell differentiation	NA	0.0166741500863273	NA	NA	NA	1	NA	NA	1
+positive regulation of gliogenesis	NA	0.016909663577724	NA	NA	NA	1	NA	NA	1
+response to peptide hormone	NA	0.0170218689202829	NA	NA	NA	1	NA	NA	1
+artery development	NA	0.0170218689202829	NA	NA	NA	1	NA	NA	1
+regulation of animal organ formation	NA	0.0170218689202829	NA	NA	NA	1	NA	NA	1
+lymph vessel morphogenesis	NA	0.0170218689202829	NA	NA	NA	1	NA	NA	1
+middle ear morphogenesis	NA	0.0170218689202829	NA	NA	NA	1	NA	NA	1
+negative regulation of receptor signaling pathway via JAK-STAT	NA	0.0170218689202829	NA	NA	NA	1	NA	NA	1
+regulation of branching involved in ureteric bud morphogenesis	NA	0.0170218689202829	NA	NA	NA	1	NA	NA	1
+reproductive structure development	NA	0.0170973097139345	NA	NA	NA	1	NA	NA	1
+secretion by cell	NA	0.0173274430708662	NA	NA	NA	1	NA	NA	1
+positive regulation of defense response	NA	0.0175452576576718	NA	NA	NA	1	NA	NA	1
+interleukin-8 production	NA	0.0176314732049081	NA	NA	NA	1	NA	NA	1
+regulation of interleukin-8 production	NA	0.0176314732049081	NA	NA	NA	1	NA	NA	1
+multi-organism reproductive process	NA	0.0183942569413876	NA	NA	NA	1	NA	NA	1
+reproductive system development	NA	0.0184127745020938	NA	NA	NA	1	NA	NA	1
+regulation of small molecule metabolic process	NA	0.018640283415417	NA	NA	NA	1	NA	NA	1
+regulation of receptor signaling pathway via STAT	NA	0.0186566670100235	NA	NA	NA	1	NA	NA	1
+myeloid leukocyte differentiation	NA	0.0188434691688295	NA	NA	NA	1	NA	NA	1
+regulation of T cell mediated cytotoxicity	NA	0.0189087458490778	NA	NA	NA	1	NA	NA	1
+leukocyte adhesion to vascular endothelial cell	NA	0.0189087458490778	NA	NA	NA	1	NA	NA	1
+glial cell activation	NA	0.0189087458490778	NA	NA	NA	1	NA	NA	1
+positive regulation of sprouting angiogenesis	NA	0.0191302249932061	NA	NA	NA	1	NA	NA	1
+negative regulation of receptor signaling pathway via STAT	NA	0.0191302249932061	NA	NA	NA	1	NA	NA	1
+cardiac muscle cell differentiation	NA	0.0191302249932061	NA	NA	NA	1	NA	NA	1
+regulation of epithelial to mesenchymal transition	NA	0.0200154949122115	NA	NA	NA	1	NA	NA	1
+positive regulation of binding	NA	0.0200154949122115	NA	NA	NA	1	NA	NA	1
+negative regulation of inflammatory response	NA	0.0202068285989471	NA	NA	NA	1	NA	NA	1
+epithelial cell differentiation involved in kidney development	NA	0.0202830296718283	NA	NA	NA	1	NA	NA	1
+regulation of neuroblast proliferation	NA	0.0202830296718283	NA	NA	NA	1	NA	NA	1
+multi-multicellular organism process	NA	0.0205862402167409	NA	NA	NA	1	NA	NA	1
+negative regulation of catalytic activity	NA	0.0206262384015628	NA	NA	NA	1	NA	NA	1
+anatomical structure maturation	NA	0.020764703191575	NA	NA	NA	1	NA	NA	1
+mononuclear cell migration	NA	0.0211820183991446	NA	NA	NA	1	NA	NA	1
+negative regulation of leukocyte mediated cytotoxicity	NA	0.021556808362048	NA	NA	NA	1	NA	NA	1
+positive regulation of developmental growth	NA	0.021556808362048	NA	NA	NA	1	NA	NA	1
+heart development	NA	0.0215891082753644	NA	NA	NA	1	NA	NA	1
+regulation of leukocyte chemotaxis	NA	0.0215891082753644	NA	NA	NA	1	NA	NA	1
+export from cell	NA	0.0215891983387996	NA	NA	NA	1	NA	NA	1
+immune system development	NA	0.0216701225181222	NA	NA	NA	1	NA	NA	1
+cell junction assembly	NA	0.0216787863796707	NA	NA	NA	1	NA	NA	1
+fatty acid metabolic process	NA	0.0219844704261875	NA	NA	NA	1	NA	NA	1
+carboxylic acid metabolic process	NA	0.022048674745324	NA	NA	NA	1	NA	NA	1
+muscle cell differentiation	NA	0.0224324702550229	NA	NA	NA	1	NA	NA	1
+embryonic organ development	NA	0.0224377120512028	NA	NA	NA	1	NA	NA	1
+positive regulation of B cell activation	NA	0.0225986205340971	NA	NA	NA	1	NA	NA	1
+synapse assembly	NA	0.0228358946697681	NA	NA	NA	1	NA	NA	1
+organ growth	NA	0.0228358946697681	NA	NA	NA	1	NA	NA	1
+leukocyte chemotaxis	NA	0.0228358946697681	NA	NA	NA	1	NA	NA	1
+positive regulation of growth	NA	0.0234597278346562	NA	NA	NA	1	NA	NA	1
+negative regulation of cell killing	NA	0.0238293639963609	NA	NA	NA	1	NA	NA	1
+negative regulation of interleukin-1 beta production	NA	0.0238293639963609	NA	NA	NA	1	NA	NA	1
+CD4-positive, alpha-beta T cell activation	NA	0.0241638856809793	NA	NA	NA	1	NA	NA	1
+response to amino acid	NA	0.0241638856809793	NA	NA	NA	1	NA	NA	1
+chemical homeostasis	NA	0.0248935861453196	NA	NA	NA	1	NA	NA	1
+myeloid leukocyte migration	NA	0.0248997956270699	NA	NA	NA	1	NA	NA	1
+striated muscle hypertrophy	NA	0.0248997956270699	NA	NA	NA	1	NA	NA	1
+regulation of cell killing	NA	0.0248997956270699	NA	NA	NA	1	NA	NA	1
+positive regulation of apoptotic process	NA	0.0255013878703558	NA	NA	NA	1	NA	NA	1
+cranial nerve development	NA	0.0265108440745286	NA	NA	NA	1	NA	NA	1
+defense response to Gram-negative bacterium	NA	0.0265108440745286	NA	NA	NA	1	NA	NA	1
+embryonic hindlimb morphogenesis	NA	0.0265508049076321	NA	NA	NA	1	NA	NA	1
+cellular response to interferon-beta	NA	0.0265508049076321	NA	NA	NA	1	NA	NA	1
+chemotaxis	NA	0.0265531298286527	NA	NA	NA	1	NA	NA	1
+taxis	NA	0.0265531298286527	NA	NA	NA	1	NA	NA	1
+regulation of primary metabolic process	NA	0.0267573543555515	NA	NA	NA	1	NA	NA	1
+cardiac chamber morphogenesis	NA	0.0271199824238656	NA	NA	NA	1	NA	NA	1
+regulation of cell junction assembly	NA	0.0271411966486811	NA	NA	NA	1	NA	NA	1
+central nervous system development	NA	0.0271411966486811	NA	NA	NA	1	NA	NA	1
+muscle hypertrophy	NA	0.0272003214590318	NA	NA	NA	1	NA	NA	1
+regulation of organ growth	NA	0.0272003214590318	NA	NA	NA	1	NA	NA	1
+negative regulation of cell motility	NA	0.0272003214590318	NA	NA	NA	1	NA	NA	1
+response to nutrient	NA	0.027534336207529	NA	NA	NA	1	NA	NA	1
+regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	NA	0.0276307745402651	NA	NA	NA	1	NA	NA	1
+oxoacid metabolic process	NA	0.0278199250811075	NA	NA	NA	1	NA	NA	1
+T cell mediated cytotoxicity	NA	0.0278772859649266	NA	NA	NA	1	NA	NA	1
+regulation of lymphocyte proliferation	NA	0.0283782022805725	NA	NA	NA	1	NA	NA	1
+chemokine production	NA	0.0284451402795973	NA	NA	NA	1	NA	NA	1
+regulation of chemokine production	NA	0.0284451402795973	NA	NA	NA	1	NA	NA	1
+regulation of B cell activation	NA	0.0287758169063776	NA	NA	NA	1	NA	NA	1
+sensory organ morphogenesis	NA	0.0287758169063776	NA	NA	NA	1	NA	NA	1
+lymph vessel development	NA	0.0287758169063776	NA	NA	NA	1	NA	NA	1
+animal organ maturation	NA	0.0287758169063776	NA	NA	NA	1	NA	NA	1
+glomerular epithelium development	NA	0.0287758169063776	NA	NA	NA	1	NA	NA	1
+postsynaptic specialization assembly	NA	0.0287758169063776	NA	NA	NA	1	NA	NA	1
+monocarboxylic acid metabolic process	NA	0.0287758169063776	NA	NA	NA	1	NA	NA	1
+multicellular organism growth	NA	0.0289076243647837	NA	NA	NA	1	NA	NA	1
+adaptive thermogenesis	NA	0.0289076243647837	NA	NA	NA	1	NA	NA	1
+cytokine production involved in inflammatory response	NA	0.0293283114144776	NA	NA	NA	1	NA	NA	1
+regulation of cytokine production involved in inflammatory response	NA	0.0293283114144776	NA	NA	NA	1	NA	NA	1
+hair follicle development	NA	0.0293512262086918	NA	NA	NA	1	NA	NA	1
+response to vitamin	NA	0.0293512262086918	NA	NA	NA	1	NA	NA	1
+organic acid metabolic process	NA	0.0293512262086918	NA	NA	NA	1	NA	NA	1
+positive regulation of cell-substrate adhesion	NA	0.029553552706936	NA	NA	NA	1	NA	NA	1
+small GTPase-mediated signal transduction	NA	0.0304896221807315	NA	NA	NA	1	NA	NA	1
+embryonic skeletal system morphogenesis	NA	0.0308326843279269	NA	NA	NA	1	NA	NA	1
+ovarian follicle development	NA	0.0311207634403614	NA	NA	NA	1	NA	NA	1
+branching involved in ureteric bud morphogenesis	NA	0.0311207634403614	NA	NA	NA	1	NA	NA	1
+cell differentiation involved in kidney development	NA	0.0311207634403614	NA	NA	NA	1	NA	NA	1
+regulation of leukocyte adhesion to vascular endothelial cell	NA	0.0315627391400856	NA	NA	NA	1	NA	NA	1
+negative regulation of endothelial cell apoptotic process	NA	0.0315627391400856	NA	NA	NA	1	NA	NA	1
+response to temperature stimulus	NA	0.0315658776872006	NA	NA	NA	1	NA	NA	1
+regulation of leukocyte differentiation	NA	0.0317818672041242	NA	NA	NA	1	NA	NA	1
+secretion	NA	0.0317818672041242	NA	NA	NA	1	NA	NA	1
+cellular response to tumor necrosis factor	NA	0.0317818672041242	NA	NA	NA	1	NA	NA	1
+muscle cell migration	NA	0.0319137415175785	NA	NA	NA	1	NA	NA	1
+molting cycle process	NA	0.0319137415175785	NA	NA	NA	1	NA	NA	1
+hair cycle process	NA	0.0319137415175785	NA	NA	NA	1	NA	NA	1
+positive regulation of mononuclear cell proliferation	NA	0.0328038398012805	NA	NA	NA	1	NA	NA	1
+positive regulation of cell killing	NA	0.0328122521414229	NA	NA	NA	1	NA	NA	1
+developmental maturation	NA	0.032957967050303	NA	NA	NA	1	NA	NA	1
+lymphocyte proliferation	NA	0.0334068364757855	NA	NA	NA	1	NA	NA	1
+response to hypoxia	NA	0.0336381814676052	NA	NA	NA	1	NA	NA	1
+female pregnancy	NA	0.0342469576627703	NA	NA	NA	1	NA	NA	1
+pyridine nucleotide metabolic process	NA	0.0342469576627703	NA	NA	NA	1	NA	NA	1
+nicotinamide nucleotide metabolic process	NA	0.0342469576627703	NA	NA	NA	1	NA	NA	1
+negative regulation of protein processing	NA	0.0342469576627703	NA	NA	NA	1	NA	NA	1
+pharyngeal system development	NA	0.0342469576627703	NA	NA	NA	1	NA	NA	1
+negative regulation of cell-substrate adhesion	NA	0.0346045409853008	NA	NA	NA	1	NA	NA	1
+regulation of muscle hypertrophy	NA	0.0346045409853008	NA	NA	NA	1	NA	NA	1
+carboxylic acid biosynthetic process	NA	0.0348541628963033	NA	NA	NA	1	NA	NA	1
+regulation of osteoblast differentiation	NA	0.0348541628963033	NA	NA	NA	1	NA	NA	1
+synapse organization	NA	0.0350489546721774	NA	NA	NA	1	NA	NA	1
+negative regulation of locomotion	NA	0.035571496504574	NA	NA	NA	1	NA	NA	1
+glycoprotein biosynthetic process	NA	0.0362900340207787	NA	NA	NA	1	NA	NA	1
+organic acid biosynthetic process	NA	0.0362900340207787	NA	NA	NA	1	NA	NA	1
+positive regulation of miRNA transcription	NA	0.0365031000285076	NA	NA	NA	1	NA	NA	1
+vascular associated smooth muscle cell differentiation	NA	0.0370718589428942	NA	NA	NA	1	NA	NA	1
+angiogenesis involved in wound healing	NA	0.0370718589428942	NA	NA	NA	1	NA	NA	1
+epithelial tube branching involved in lung morphogenesis	NA	0.0370718589428942	NA	NA	NA	1	NA	NA	1
+negative regulation of miRNA transcription	NA	0.0370718589428942	NA	NA	NA	1	NA	NA	1
+cell surface receptor signaling pathway via STAT	NA	0.0382787774134388	NA	NA	NA	1	NA	NA	1
+killing of cells of another organism	NA	0.0382787774134388	NA	NA	NA	1	NA	NA	1
+negative regulation of canonical NF-kappaB signal transduction	NA	0.0382787774134388	NA	NA	NA	1	NA	NA	1
+disruption of cell in another organism	NA	0.0382787774134388	NA	NA	NA	1	NA	NA	1
+positive regulation of neural precursor cell proliferation	NA	0.0382787774134388	NA	NA	NA	1	NA	NA	1
+CD4-positive, alpha-beta T cell differentiation	NA	0.0389207855758312	NA	NA	NA	1	NA	NA	1
+neuron migration	NA	0.0389858555185004	NA	NA	NA	1	NA	NA	1
+response to purine-containing compound	NA	0.0396094366335057	NA	NA	NA	1	NA	NA	1
+temperature homeostasis	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+pyridine-containing compound metabolic process	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+chondrocyte development	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+positive regulation of interleukin-10 production	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+embryonic forelimb morphogenesis	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+hindlimb morphogenesis	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+cell fate commitment involved in formation of primary germ layer	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+negative regulation of protein maturation	NA	0.039982563512312	NA	NA	NA	1	NA	NA	1
+non-proteinogenic amino acid metabolic process	NA	0.0401545897826354	NA	NA	NA	1	NA	NA	1
+positive regulation of cold-induced thermogenesis	NA	0.0401545897826354	NA	NA	NA	1	NA	NA	1
+muscle adaptation	NA	0.0418508775096305	NA	NA	NA	1	NA	NA	1
+sprouting angiogenesis	NA	0.0418508775096305	NA	NA	NA	1	NA	NA	1
+male gonad development	NA	0.0418508775096305	NA	NA	NA	1	NA	NA	1
+positive regulation of transport	NA	0.0418935827847882	NA	NA	NA	1	NA	NA	1
+pattern specification process	NA	0.041905810656891	NA	NA	NA	1	NA	NA	1
+regulation of morphogenesis of an epithelium	NA	0.0421407657780115	NA	NA	NA	1	NA	NA	1
+striated muscle cell differentiation	NA	0.0423592964576419	NA	NA	NA	1	NA	NA	1
+response to decreased oxygen levels	NA	0.0424068466127971	NA	NA	NA	1	NA	NA	1
+development of primary male sexual characteristics	NA	0.04278814217141	NA	NA	NA	1	NA	NA	1
+specification of animal organ identity	NA	0.04278814217141	NA	NA	NA	1	NA	NA	1
+stem cell division	NA	0.04278814217141	NA	NA	NA	1	NA	NA	1
+osteoblast proliferation	NA	0.04278814217141	NA	NA	NA	1	NA	NA	1
+cartilage development involved in endochondral bone morphogenesis	NA	0.04278814217141	NA	NA	NA	1	NA	NA	1
+excitatory synapse assembly	NA	0.04278814217141	NA	NA	NA	1	NA	NA	1
+negative regulation of miRNA metabolic process	NA	0.04278814217141	NA	NA	NA	1	NA	NA	1
+leukocyte activation involved in immune response	NA	0.0428964911316118	NA	NA	NA	1	NA	NA	1
+disruption of anatomical structure in another organism	NA	0.0441732435190726	NA	NA	NA	1	NA	NA	1
+negative regulation of extrinsic apoptotic signaling pathway	NA	0.044883670097557	NA	NA	NA	1	NA	NA	1
+sulfur compound biosynthetic process	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+diterpenoid biosynthetic process	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+negative regulation of leukocyte degranulation	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+eosinophil chemotaxis	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+embryonic skeletal joint morphogenesis	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+bone trabecula formation	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+nephric duct morphogenesis	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+regulation of protein localization to early endosome	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+positive regulation of protein localization to early endosome	NA	0.0449677354671822	NA	NA	NA	1	NA	NA	1
+positive regulation of secretion by cell	NA	0.0455075428543794	NA	NA	NA	1	NA	NA	1
+regulation of homotypic cell-cell adhesion	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+regulation of natural killer cell mediated cytotoxicity	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+regulation of fatty acid oxidation	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+cellular response to interleukin-4	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+liver regeneration	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+gliogenesis	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+transforming growth factor beta receptor superfamily signaling pathway	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+positive regulation of chemokine production	NA	0.0457307443091991	NA	NA	NA	1	NA	NA	1
+cell activation involved in immune response	NA	0.0460094892821201	NA	NA	NA	1	NA	NA	1
+positive regulation of leukocyte proliferation	NA	0.0462367486621483	NA	NA	NA	1	NA	NA	1
+positive regulation of epithelial cell proliferation	NA	0.046799277983799	NA	NA	NA	1	NA	NA	1
+regionalization	NA	0.0475755668180454	NA	NA	NA	1	NA	NA	1
+response to leukemia inhibitory factor	NA	0.0475755668180454	NA	NA	NA	1	NA	NA	1
+negative regulation of cell migration	NA	0.0479090625901843	NA	NA	NA	1	NA	NA	1
+regulation of smooth muscle cell migration	NA	0.0479090625901843	NA	NA	NA	1	NA	NA	1
+regulation of multicellular organism growth	NA	0.0479090625901843	NA	NA	NA	1	NA	NA	1
+bone resorption	NA	0.0479090625901843	NA	NA	NA	1	NA	NA	1
+response to nutrient levels	NA	0.0485966248291726	NA	NA	NA	1	NA	NA	1
+cell fate determination	NA	0.0489929850722794	NA	NA	NA	1	NA	NA	1
+positive regulation of fatty acid metabolic process	NA	0.0489929850722794	NA	NA	NA	1	NA	NA	1
+response to growth hormone	NA	0.0489929850722794	NA	NA	NA	1	NA	NA	1
+response to interleukin-4	NA	0.0489929850722794	NA	NA	NA	1	NA	NA	1
+detoxification of copper ion	NA	NA	0.000730731263643873	NA	NA	NA	1	NA	1
+stress response to copper ion	NA	NA	0.000730731263643873	NA	NA	NA	1	NA	1
+response to copper ion	NA	NA	0.000830691854576915	NA	NA	NA	1	NA	1
+stress response to metal ion	NA	NA	0.0022706977435732	NA	NA	NA	1	NA	1
+cellular response to copper ion	NA	NA	0.0022706977435732	NA	NA	NA	1	NA	1
+detoxification of inorganic compound	NA	NA	0.0022706977435732	NA	NA	NA	1	NA	1
+cellular response to zinc ion	NA	NA	0.0022706977435732	NA	NA	NA	1	NA	1
+cellular response to cadmium ion	NA	NA	0.00397397536311112	NA	NA	NA	1	NA	1
+response to zinc ion	NA	NA	0.00399953111625694	NA	NA	NA	1	NA	1
+intracellular zinc ion homeostasis	NA	NA	0.0147826596451579	NA	NA	NA	1	NA	1
+response to metal ion	NA	NA	0.0489589330503893	NA	NA	NA	1	NA	1
+response to cadmium ion	NA	NA	0.0489589330503893	NA	NA	NA	1	NA	1
+RNA processing	NA	NA	NA	1.38816314446882e-07	NA	NA	NA	1	1
+spliceosomal tri-snRNP complex assembly	NA	NA	NA	0.00101449810461126	NA	NA	NA	1	1
+RNA biosynthetic process	NA	NA	NA	0.00125391616254985	NA	NA	NA	1	1
+nucleic acid biosynthetic process	NA	NA	NA	0.00125391616254985	NA	NA	NA	1	1
+RNA metabolic process	NA	NA	NA	0.00125391616254985	NA	NA	NA	1	1
+spliceosomal snRNP assembly	NA	NA	NA	0.00126932843436654	NA	NA	NA	1	1
+nucleobase-containing compound biosynthetic process	NA	NA	NA	0.00126932843436654	NA	NA	NA	1	1
+nucleic acid metabolic process	NA	NA	NA	0.0019009471359343	NA	NA	NA	1	1
+protein-RNA complex assembly	NA	NA	NA	0.0180843408651638	NA	NA	NA	1	1
+protein-RNA complex organization	NA	NA	NA	0.0180843408651638	NA	NA	NA	1	1
+RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	NA	NA	NA	0.0280266064176415	NA	NA	NA	1	1
+mRNA splicing, via spliceosome	NA	NA	NA	0.0280266064176415	NA	NA	NA	1	1
+RNA splicing, via transesterification reactions	NA	NA	NA	0.0280266064176415	NA	NA	NA	1	1
+RNA splicing	NA	NA	NA	0.0487017797183682	NA	NA	NA	1	1
+ribonucleoprotein complex biogenesis	NA	NA	NA	0.0493395988778233	NA	NA	NA	1	1
+mRNA processing	NA	NA	NA	0.0493395988778233	NA	NA	NA	1	1
