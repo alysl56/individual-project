@@ -1,0 +1,410 @@
+Read1 before filtering:
+total reads: 32325212
+total bases: 4848781800
+Q20 bases: 4847170050(99.9668%)
+Q30 bases: 4847170050(99.9668%)
+
+Read2 before filtering:
+total reads: 32325212
+total bases: 4848781800
+Q20 bases: 4781358300(98.6095%)
+Q30 bases: 4781358300(98.6095%)
+
+Read1 after filtering:
+total reads: 31853930
+total bases: 4757061730
+Q20 bases: 4757061730(100%)
+Q30 bases: 4757061730(100%)
+
+Read2 after filtering:
+total reads: 31853930
+total bases: 4757061730
+Q20 bases: 4757061730(100%)
+Q30 bases: 4757061730(100%)
+
+Filtering result:
+reads passed filter: 63707860
+reads failed due to low quality: 916344
+reads failed due to too many N: 11798
+reads failed due to too short: 14422
+reads with adapter trimmed: 1814926
+bases trimmed due to adapters: 44156272
+
+Duplication rate: 15.8804%
+
+Insert size peak (evaluated by paired-end reads): 269
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957918.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957918.html
+
+fastp -i SRR23957918_1.fastq.gz -I SRR23957918_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR23957918_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR23957918_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957918.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957918.json 
+fastp v0.22.0, time used: 793 seconds
+Read1 before filtering:
+total reads: 33712330
+total bases: 5056849500
+Q20 bases: 5055165600(99.9667%)
+Q30 bases: 5055165600(99.9667%)
+
+Read2 before filtering:
+total reads: 33712330
+total bases: 5056849500
+Q20 bases: 4992804750(98.7335%)
+Q30 bases: 4992804750(98.7335%)
+
+Read1 after filtering:
+total reads: 33262619
+total bases: 4968399459
+Q20 bases: 4968399459(100%)
+Q30 bases: 4968399459(100%)
+
+Read2 after filtering:
+total reads: 33262619
+total bases: 4968399459
+Q20 bases: 4968399459(100%)
+Q30 bases: 4968399459(100%)
+
+Filtering result:
+reads passed filter: 66525238
+reads failed due to low quality: 872448
+reads failed due to too many N: 11888
+reads failed due to too short: 15086
+reads with adapter trimmed: 1826794
+bases trimmed due to adapters: 44169004
+
+Duplication rate: 17.2409%
+
+Insert size peak (evaluated by paired-end reads): 269
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957919.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957919.html
+
+fastp -i SRR23957919_1.fastq.gz -I SRR23957919_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR23957919_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR23957919_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957919.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR23957919.json 
+fastp v0.22.0, time used: 814 seconds
+Read1 before filtering:
+total reads: 14151439
+total bases: 2136867289
+Q20 bases: 2091309503(97.868%)
+Q30 bases: 2005908292(93.8714%)
+
+Read2 before filtering:
+total reads: 14151439
+total bases: 2136867289
+Q20 bases: 2051468456(96.0035%)
+Q30 bases: 1941217599(90.8441%)
+
+Read1 after filtering:
+total reads: 13613507
+total bases: 1978196974
+Q20 bases: 1942372115(98.189%)
+Q30 bases: 1866749086(94.3662%)
+
+Read2 after filtering:
+total reads: 13613507
+total bases: 1978196974
+Q20 bases: 1933537211(97.7424%)
+Q30 bases: 1840300475(93.0292%)
+
+Filtering result:
+reads passed filter: 27227014
+reads failed due to low quality: 1002616
+reads failed due to too many N: 0
+reads failed due to too short: 73248
+reads with adapter trimmed: 4653180
+bases trimmed due to adapters: 163624932
+
+Duplication rate: 19.3289%
+
+Insert size peak (evaluated by paired-end reads): 198
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385848.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385848.html
+
+fastp -i SRR25385848_1.fastq.gz -I SRR25385848_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR25385848_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR25385848_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385848.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385848.json 
+fastp v0.22.0, time used: 349 seconds
+Read1 before filtering:
+total reads: 12170580
+total bases: 1837757580
+Q20 bases: 1798538725(97.8659%)
+Q30 bases: 1725382427(93.8852%)
+
+Read2 before filtering:
+total reads: 12170580
+total bases: 1837757580
+Q20 bases: 1773614818(96.5097%)
+Q30 bases: 1683545447(91.6087%)
+
+Read1 after filtering:
+total reads: 11785545
+total bases: 1710429448
+Q20 bases: 1679921344(98.2163%)
+Q30 bases: 1615309790(94.4388%)
+
+Read2 after filtering:
+total reads: 11785545
+total bases: 1710429448
+Q20 bases: 1674802045(97.917%)
+Q30 bases: 1597721715(93.4106%)
+
+Filtering result:
+reads passed filter: 23571090
+reads failed due to low quality: 703164
+reads failed due to too many N: 0
+reads failed due to too short: 66906
+reads with adapter trimmed: 4100228
+bases trimmed due to adapters: 146344858
+
+Duplication rate: 19.2706%
+
+Insert size peak (evaluated by paired-end reads): 199
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385849.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385849.html
+
+fastp -i SRR25385849_1.fastq.gz -I SRR25385849_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR25385849_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR25385849_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385849.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR25385849.json 
+fastp v0.22.0, time used: 304 seconds
+Read1 before filtering:
+total reads: 30155680
+total bases: 3015568000
+Q20 bases: 2973940055(98.6196%)
+Q30 bases: 2865378332(95.0195%)
+
+Read2 before filtering:
+total reads: 30155680
+total bases: 3015568000
+Q20 bases: 2976647519(98.7093%)
+Q30 bases: 2868923361(95.1371%)
+
+Read1 after filtering:
+total reads: 30117923
+total bases: 3011312462
+Q20 bases: 2969972903(98.6272%)
+Q30 bases: 2861538678(95.0263%)
+
+Read2 after filtering:
+total reads: 30117923
+total bases: 3011312462
+Q20 bases: 2972664773(98.7166%)
+Q30 bases: 2865091562(95.1443%)
+
+Filtering result:
+reads passed filter: 60235846
+reads failed due to low quality: 2
+reads failed due to too many N: 62426
+reads failed due to too short: 13086
+reads with adapter trimmed: 64202
+bases trimmed due to adapters: 1754684
+
+Duplication rate: 19.3122%
+
+Insert size peak (evaluated by paired-end reads): 169
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288218.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288218.html
+
+fastp -i SRR26288218_1.fastq.gz -I SRR26288218_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR26288218_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR26288218_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288218.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288218.json 
+fastp v0.22.0, time used: 740 seconds
+Read1 before filtering:
+total reads: 33415552
+total bases: 3341555200
+Q20 bases: 3295911335(98.6341%)
+Q30 bases: 3175911659(95.0429%)
+
+Read2 before filtering:
+total reads: 33415552
+total bases: 3341555200
+Q20 bases: 3290658495(98.4769%)
+Q30 bases: 3149889288(94.2642%)
+
+Read1 after filtering:
+total reads: 33373208
+total bases: 3336726070
+Q20 bases: 3291400502(98.6416%)
+Q30 bases: 3171548827(95.0497%)
+
+Read2 after filtering:
+total reads: 33373208
+total bases: 3336726070
+Q20 bases: 3286138631(98.4839%)
+Q30 bases: 3145570054(94.2712%)
+
+Filtering result:
+reads passed filter: 66746416
+reads failed due to low quality: 8
+reads failed due to too many N: 68160
+reads failed due to too short: 16520
+reads with adapter trimmed: 76894
+bases trimmed due to adapters: 2191262
+
+Duplication rate: 20.4433%
+
+Insert size peak (evaluated by paired-end reads): 169
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288224.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288224.html
+
+fastp -i SRR26288224_1.fastq.gz -I SRR26288224_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR26288224_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR26288224_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288224.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR26288224.json 
+fastp v0.22.0, time used: 788 seconds
+Read1 before filtering:
+total reads: 31311416
+total bases: 1909996376
+Q20 bases: 1876793273(98.2616%)
+Q30 bases: 1832366926(95.9356%)
+
+Read2 before filtering:
+total reads: 31311416
+total bases: 1909996376
+Q20 bases: 1874013910(98.1161%)
+Q30 bases: 1826616497(95.6346%)
+
+Read1 after filtering:
+total reads: 30950782
+total bases: 1887700276
+Q20 bases: 1859471226(98.5046%)
+Q30 bases: 1817776918(96.2958%)
+
+Read2 after filtering:
+total reads: 30950782
+total bases: 1887700276
+Q20 bases: 1859110158(98.4855%)
+Q30 bases: 1814505656(96.1226%)
+
+Filtering result:
+reads passed filter: 61901564
+reads failed due to low quality: 633074
+reads failed due to too many N: 0
+reads failed due to too short: 88194
+reads with adapter trimmed: 201314
+bases trimmed due to adapters: 2375346
+
+Duplication rate: 33.87%
+
+Insert size peak (evaluated by paired-end reads): 91
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861740.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861740.html
+
+fastp -i SRR30861740_1.fastq.gz -I SRR30861740_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR30861740_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR30861740_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861740.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861740.json 
+fastp v0.22.0, time used: 377 seconds
+Read1 before filtering:
+total reads: 23947149
+total bases: 1460776089
+Q20 bases: 1436511660(98.3389%)
+Q30 bases: 1403791014(96.099%)
+
+Read2 before filtering:
+total reads: 23947149
+total bases: 1460776089
+Q20 bases: 1434267929(98.1853%)
+Q30 bases: 1398656906(95.7475%)
+
+Read1 after filtering:
+total reads: 23710838
+total bases: 1446170643
+Q20 bases: 1425027881(98.538%)
+Q30 bases: 1393971840(96.3906%)
+
+Read2 after filtering:
+total reads: 23710838
+total bases: 1446170643
+Q20 bases: 1424370192(98.4925%)
+Q30 bases: 1390513418(96.1514%)
+
+Filtering result:
+reads passed filter: 47421676
+reads failed due to low quality: 417456
+reads failed due to too many N: 0
+reads failed due to too short: 55166
+reads with adapter trimmed: 128554
+bases trimmed due to adapters: 1507844
+
+Duplication rate: 31.8485%
+
+Insert size peak (evaluated by paired-end reads): 91
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861741.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861741.html
+
+fastp -i SRR30861741_1.fastq.gz -I SRR30861741_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR30861741_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR30861741_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861741.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR30861741.json 
+fastp v0.22.0, time used: 286 seconds
+Read1 before filtering:
+total reads: 62346028
+total bases: 9414250228
+Q20 bases: 8991061554(95.5048%)
+Q30 bases: 8438375227(89.6341%)
+
+Read2 before filtering:
+total reads: 62346028
+total bases: 9414250228
+Q20 bases: 8970324435(95.2845%)
+Q30 bases: 8403502615(89.2636%)
+
+Read1 after filtering:
+total reads: 59554209
+total bases: 7910007705
+Q20 bases: 7677332230(97.0585%)
+Q30 bases: 7269550083(91.9032%)
+
+Read2 after filtering:
+total reads: 59554209
+total bases: 7910007705
+Q20 bases: 7672667972(96.9995%)
+Q30 bases: 7248781689(91.6406%)
+
+Filtering result:
+reads passed filter: 119108418
+reads failed due to low quality: 5338610
+reads failed due to too many N: 13380
+reads failed due to too short: 231648
+reads with adapter trimmed: 55199192
+bases trimmed due to adapters: 2212878118
+
+Duplication rate: 12.8449%
+
+Insert size peak (evaluated by paired-end reads): 106
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886967.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886967.html
+
+fastp -i SRR32886967_1.fastq.gz -I SRR32886967_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR32886967_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR32886967_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886967.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886967.json 
+fastp v0.22.0, time used: 1630 seconds
+Read1 before filtering:
+total reads: 57987891
+total bases: 8756171541
+Q20 bases: 8362098775(95.4995%)
+Q30 bases: 7847181032(89.6189%)
+
+Read2 before filtering:
+total reads: 57987891
+total bases: 8756171541
+Q20 bases: 8333982520(95.1784%)
+Q30 bases: 7802597282(89.1097%)
+
+Read1 after filtering:
+total reads: 55306411
+total bases: 7351391105
+Q20 bases: 7132680150(97.0249%)
+Q30 bases: 6751197122(91.8356%)
+
+Read2 after filtering:
+total reads: 55306411
+total bases: 7351391105
+Q20 bases: 7130984975(97.0018%)
+Q30 bases: 6737401205(91.648%)
+
+Filtering result:
+reads passed filter: 110612822
+reads failed due to low quality: 5126422
+reads failed due to too many N: 12318
+reads failed due to too short: 224220
+reads with adapter trimmed: 50939162
+bases trimmed due to adapters: 2043159430
+
+Duplication rate: 11.6574%
+
+Insert size peak (evaluated by paired-end reads): 109
+
+JSON report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886968.json
+HTML report: /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886968.html
+
+fastp -i SRR32886968_1.fastq.gz -I SRR32886968_2.fastq.gz -o /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR32886968_1.trimmed.fastq.gz -O /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/raw_data/trimmed_data/without_DMSO/SRR32886968_2.trimmed.fastq.gz -q 20 -u 30 -n 5 -l 50 -w 1 -h /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886968.html -j /gpfs01/home/alysl56/projects/DMSO_HepG2_RNAseq/qc_reports/without_DMSO/SRR32886968.json 
+fastp v0.22.0, time used: 1511 seconds
