@@ -16,6 +16,7 @@ numify <- function(x){suppressWarnings(as.numeric(x))}
 for(cn in fdr_cols){ df[[cn]] <- numify(df[[cn]]) }
 
 if(!"Direction" %in% names(df)) stop("Direction column missing in input")
+
 if(!"Lines_sig" %in% names(df)){
   df$Lines_sig <- apply(df[, fdr_cols, drop=FALSE], 1, function(v){
     v <- suppressWarnings(as.numeric(v))
@@ -43,15 +44,15 @@ if(!"Theme" %in% names(df)) df$Theme <- vapply(df$Term, class_theme, character(1
 
 rank_df <- function(x){ x %>% arrange(desc(Lines_sig), minFDR, sumFDR, nchar(Term)) }
 
-target_total <- 10
-per_dir_cap  <- 5
+target_total  <- 10
+per_dir_cap   <- 5
 per_theme_cap <- 3
 
 df <- df %>% group_by(Term) %>% slice_min(order_by = minFDR, n = 1, with_ties = FALSE) %>% ungroup()
 
 sel_log <- list()
 pick_dir <- function(dd){
-  if(nrow(dd)==0) return(dd)
+  if(nrow(dd)==0) return(dd[0,])
   res <- dd[0,]
   themes_used <- setNames(integer(0), character(0))
   cand <- rank_df(dd)
@@ -61,9 +62,9 @@ pick_dir <- function(dd){
     themes_used[th] <- ifelse(!is.na(themes_used[th]), themes_used[th]+1L, 1L)
     if(themes_used[th] > per_theme_cap){ themes_used[th] <- themes_used[th]-1L; next }
     res <- bind_rows(res, r)
-    sel_log[[length(sel_log)+1]] <<- data.frame(Term=r$Term, Direction=r$Direction, Theme=th,
-                                                Reason="ranked", Lines_sig=r$Lines_sig, minFDR=r$minFDR,
-                                                stringsAsFactors=FALSE)
+    sel_log[[length(sel_log)+1]] <<- data.frame(
+      Term=r$Term, Direction=r$Direction, Theme=th, Reason="ranked",
+      Lines_sig=r$Lines_sig, minFDR=r$minFDR, stringsAsFactors=FALSE)
     if(nrow(res) >= per_dir_cap) break
   }
   res
@@ -78,12 +79,15 @@ if(nrow(top) < target_total){
   for(i in seq_len(nrow(pool))){
     if(nrow(top) >= target_total) break
     r <- pool[i,]; top <- bind_rows(top, r)
-    sel_log[[length(sel_log)+1]] <- data.frame(Term=r$Term, Direction=r$Direction, Theme=r$Theme,
-                                               Reason="fill_to_target", Lines_sig=r$Lines_sig, minFDR=r$minFDR,
-                                               stringsAsFactors=FALSE)
+    sel_log[[length(sel_log)+1]] <- data.frame(
+      Term=r$Term, Direction=r$Direction, Theme=r$Theme, Reason="fill_to_target",
+      Lines_sig=r$Lines_sig, minFDR=r$minFDR, stringsAsFactors=FALSE)
   }
 }
-top <- rank_df(top) %>% slice_head(n = min(target_total, n()))
+
+top <- rank_df(top)
+n_keep <- min(target_total, nrow(top))
+top <- dplyr::slice_head(top, n = n_keep)
 
 fmt <- function(x){ ifelse(is.na(x),"", formatC(x, format="e", digits=2)) }
 top_out <- top %>% select(Term, Direction, all_of(fdr_cols), Lines_sig, Theme) %>%
