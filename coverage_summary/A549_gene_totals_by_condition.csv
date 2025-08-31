@@ -1,0 +1,3 @@
+"condition","n_samples","mean_counts_gt0","sd_counts_gt0","mean_tpm_ge0.1","sd_tpm_ge0.1"
+"with_DMSO",10,22807,1167.5824025167,20220.6,939.353347314583
+"without_DMSO",10,26524.9,1178.56357486561,23709.1,1343.18472709866
