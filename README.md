@@ -85,9 +85,14 @@ Preprocessing of raw FASTQ files was performed using **fastp v0.22.0**:
   - Trimmed FASTQ files (`*_trimmed.fastq.gz`)  
   - QC reports (`*.html`, `*.json`)  
 
-Scripts are named following the convention:
-qc_fastp_<CellLine>_<Condition>.sh
-Example: `qc_fastp_U937_withDMSO.sh`
+QC and trimming scripts are provided in:  
+`projects/scripts/QC_trim_scripts/`  
+
+- Example: [qc_fastp_A549_withDMSO.sh](projects/scripts/QC_trim_scripts/qc_fastp_A549_withDMSO.sh), [qc_fastp_U937_withoutDMSO.sh](projects/scripts/QC_trim_scripts/qc_fastp_U937_withoutDMSO.sh)  
+
+Raw QC reports (`*.html`, `*.json`) are stored in:  
+`projects/qc_reports/`  
+
 
 ---
 
