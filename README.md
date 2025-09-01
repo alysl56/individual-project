@@ -99,50 +99,27 @@ QC reports are organized by cell line and condition in:
 ## 5. Quantification (Salmon)
 
 Transcript quantification was performed using **Salmon v1.9.0** with the **GENCODE v38** reference transcriptome.
+Transcript quantification was performed using **Salmon v1.9.0** with the **GENCODE v38** reference transcriptome.
 
-### Reference preparation
-Before running `salmon quant`, the reference transcriptome and annotation were downloaded and indexed:
+- **Input**: trimmed FASTQ files (`*_trimmed.fastq.gz`)  
+- **Process**: quantification with `salmon quant` (`--validateMappings` enabled)  
+- **Output**:  
+  - One `quant.sf` file per sample (not uploaded due to size; can be regenerated using scripts)  
+  - Auxiliary Salmon logs  
 
-```bash
-# Download reference GTF and transcript FASTA
-wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.annotation.gtf.gz
-wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.transcripts.fa.gz
+Quantification scripts are provided in:  
+`projects/scripts/salmon_quant_scripts/`  
 
-# Unzip
-gunzip gencode.v38.annotation.gtf.gz
-gunzip gencode.v38.transcripts.fa.gz
+- Example: [quant_salmon_A549.sh](scripts/salmon_quant_scripts/quant_salmon_A549.sh), [quant_salmon_U937.sh](scripts/salmon_quant_scripts/quant_salmon_U937.sh)  
 
-# Build Salmon index
-salmon index -t gencode.v38.transcripts.fa -i gencode_v38_index --gencode
-```
-
--gencode.v38.annotation.gtf: gene annotation file (used later for tx2gene mapping)
-
--gencode.v38.transcripts.fa: reference transcriptome
-
--gencode_v38_index: Salmon index used for quantification
-
-- **Input**: trimmed FASTQ files (*_1.trimmed.fastq.gz, *_2.trimmed.fastq.gz)
-
-- **Process**: salmon quant with --validateMappings enabled
-
-- **Output**:
-Quantification directory for each sample (<SampleID>_quant/)
-
-Expression estimates in quant.sf
-
-Scripts are named following the convention:
-quant_salmon_<CellLine>.sh
-Example: quant_salmon_U937.sh
-
+Each sample produces a quantification directory `<SampleID>_quant/` containing:  
+- `quant.sf` (transcript-level expression estimates)  
+- Auxiliary logs from Salmon  
 
 **Output structure:**
 projects/DMSO_<CellLine>_RNAseq/salmon_quant/with_DMSO/<SampleID>_quant/
 projects/DMSO_<CellLine>_RNAseq/salmon_quant/without_DMSO/<SampleID>_quant/
 
-Each `<SampleID>_quant/` directory contains:
-- `quant.sf` (expression estimates)
-- Auxiliary logs from Salmon
 ## 6. Sample Metadata (samplesheet.csv)
 
 To facilitate downstream transcript-level summarization with **tximport**,  
