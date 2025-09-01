@@ -16,7 +16,7 @@ All computations were performed on the Ada HPC cluster (University of Nottingham
 
 Raw data links are provided in:  
 [`raw_data/data_links/`](raw_data/data_links/)  
-- Example: [A549_withDMSO_links.txt](projects/raw_data/data_links/A549_withDMSO_links.txt), [Calu3_withoutDMSO_links.txt](projects/raw_data/data_links/Calu3_withoutDMSO_links.txt)
+- Example: [A549_withDMSO_links.txt](raw_data/data_links/A549_withDMSO_links.txt), [Calu3_withoutDMSO_links.txt](projects/raw_data/data_links/Calu3_withoutDMSO_links.txt)
 
 Download scripts are provided in:  
 [`scripts/download_scripts/`](scripts/download_scripts/)  
