@@ -125,9 +125,9 @@ projects/DMSO_<CellLine>_RNAseq/salmon_quant/without_DMSO/<SampleID>_quant/
 To facilitate downstream transcript-level summarization with **tximport**,  
 a metadata table (`samplesheet.csv`) was generated for each cell line.
 
-- **Input**: Quantification directories from Salmon (`<SampleID>_quant/`)
-- **Process**: Generate `samplesheet.csv` listing each sample, its condition, and quantification path
-- **Output**: One `samplesheet.csv` per cell line, stored in the project root directory
+- **Input**: Quantification directories from Salmon (`<SampleID>_quant/`)  
+- **Process**: Generate `samplesheet.csv` listing each sample, its condition, and quantification path  
+- **Output**: One `samplesheet.csv` per cell line (uploaded to repository for reproducibility)  
 
 The CSV has the following format:
 
@@ -135,20 +135,19 @@ sample,condition,quant_dir
 SRRxxxxxxx,with_DMSO,/path/to/salmon_quant/with_DMSO/SRRxxxxxxx_quant
 SRRyyyyyyy,without_DMSO,/path/to/salmon_quant/without_DMSO/SRRyyyyyyy_quant
 
-Scripts are named following the convention:
 
-`make_samplesheet_<CellLine>.sbatch`
+Scripts for generating the metadata are stored in:  
+[`projects/scripts/make_samplesheet_scripts/`](../../tree/main/projects/scripts/make_samplesheet_scripts)  
 
-Examples:
+- Example: [`make_samplesheet_A549.sbatch`](../../blob/main/projects/scripts/make_samplesheet_scripts/make_samplesheet_A549.sbatch),  
+  [`make_samplesheet_U937.sbatch`](../../blob/main/projects/scripts/make_samplesheet_scripts/make_samplesheet_U937.sbatch)
 
-- `make_samplesheet_U937.sbatch`
-- `make_samplesheet_HepG2.sbatch`
-- `make_samplesheet_A549.sbatch`
-- `make_samplesheet_Calu3.sbatch`
+The generated metadata files are stored in:  
+[`projects/samplesheet/`](../../tree/main/projects/samplesheet)  
 
-Each script was executed with `sbatch`, and produced the corresponding `samplesheet.csv` in:
+- Example: [`A549_samplesheet.csv`](../../blob/main/projects/samplesheet/A549_samplesheet.csv),  
+  [`U937_samplesheet.csv`](../../blob/main/projects/samplesheet/U937_samplesheet.csv)
 
-projects/DMSO_<CellLine>_RNAseq/samplesheet.csv
 
 ---
 ## 7. Import with tximport (R)
