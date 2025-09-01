@@ -8,16 +8,27 @@ All computations were performed on the Ada HPC cluster (University of Nottingham
 
 ## 1. Data Sources
 
-- RNA-seq data were downloaded from **NCBI GEO/SRA**.
-- For each cell line, 5 GEO series (GSE) were selected.
-- In each GSE, 2 samples (GSM) were selected.
-- Each condition (with DMSO / without DMSO) therefore contains 10 biological replicates, i.e. 20 samples per cell line.
-- Download links were obtained via [SRA Explorer](https://sra-explorer.info/).
+- Raw RNA-seq data were downloaded from **NCBI GEO/SRA**.  
+- Four human cell lines were analyzed: **A549, Calu-3, HepG2, U937**.  
+- For each cell line, samples were collected under two conditions (**with DMSO / without DMSO**).  
+- Each condition contains **10 biological replicates**, i.e. **20 samples per cell line**.  
+- Download links were obtained via [SRA Explorer](https://sra-explorer.info/).  
 
-Scripts for downloading raw FASTQ files are provided in:
-projects/scripts/download_fastq/
+Raw data links are provided in:  
+`projects/raw_data/data_links/`  
+- Example: `A549_withDMSO_links.txt`, `Calu3_withoutDMSO_links.txt`
 
-Raw FASTQ files were downloaded using **wget** (GNU Wget 1.20+).
+Download scripts are provided in:  
+`projects/scripts/download_scripts/`  
+- Example: `dl_wget_A549_withDMSO.sh`, `dl_wget_U937_withoutDMSO.sh`
+
+Raw FASTQ files were downloaded using **wget** (GNU Wget 1.20+).  
+
+**Execution example:**  
+```bash
+# Download A549 with DMSO raw FASTQ data
+bash scripts/download_scripts/dl_wget_A549_withDMSO.sh
+
 
 ---
 
