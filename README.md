@@ -108,7 +108,7 @@ Transcript quantification was performed using **Salmon v1.9.0** with the **GENCO
   - Auxiliary Salmon logs  
 
 Quantification scripts are provided in:  
-`projects/scripts/salmon_quant_scripts/`  
+[`scripts/salmon_quant_scripts/`](scripts/salmon_quant_scripts/)
 
 - Example: [quant_salmon_A549.sh](scripts/salmon_quant_scripts/quant_salmon_A549.sh), [quant_salmon_U937.sh](scripts/salmon_quant_scripts/quant_salmon_U937.sh)  
 
