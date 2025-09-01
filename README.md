@@ -51,7 +51,7 @@ wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencod
 # Unzip
 gunzip gencode.v38.transcripts.fa.gz
 gunzip gencode.v38.annotation.gtf.gz
-
+```
 ---
 
 ## 3. Building the Salmon Index
