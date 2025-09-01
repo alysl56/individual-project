@@ -82,17 +82,17 @@ Preprocessing of raw FASTQ files was performed using **fastp v0.22.0**:
   - Filtering low-quality reads  
   - Trimming short reads  
 - **Output**:  
-  - Trimmed FASTQ files (`*_trimmed.fastq.gz`)  
+  - Trimmed FASTQ files (`*_trimmed.fastq.gz`, not uploaded due to large size; can be regenerated using scripts)  
   - QC reports (`*.html`, `*.json`)  
-
 QC and trimming scripts are provided in:  
 [`scripts/QC_trim_scripts/`](scripts/QC_trim_scripts/)  
 
 - Example: [qc_fastp_A549_withDMSO.sh](scripts/QC_trim_scripts/qc_fastp_A549_withDMSO.sh), [qc_fastp_U937_withoutDMSO.sh](scripts/QC_trim_scripts/qc_fastp_U937_withoutDMSO.sh)  
 
-Raw QC reports (`*.html`, `*.json`) are stored in:  
+QC reports are organized by cell line and condition in:  
 `projects/qc_reports/`  
 
+- Example: [A549_with_DMSO](qc_reports/A549_with_DMSO), [HepG2_without_DMSO](qc_reports/HepG2_without_DMSO)  
 
 ---
 
