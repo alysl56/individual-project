@@ -225,7 +225,7 @@ Examples:
 - [`run_gene_totals_A549.sbatch`](scripts/gene_totals/run_gene_totals_A549.sbatch)
 
 Results are available in:  
-[`coverage_summar/`](coverage_summar)  
+[`coverage_summary/`](coverage_summary)  
 
 - Example output: [`A549_gene_totals_per_sample.csv`](coverage_summary/A549_gene_totals_per_sample.csv), [`A549_gene_totals_by_condition.csv`](coverage_summary/A549_gene_totals_per_sample.csv)
 ---
