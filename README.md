@@ -15,19 +15,14 @@ All computations were performed on the Ada HPC cluster (University of Nottingham
 - Download links were obtained via [SRA Explorer](https://sra-explorer.info/).  
 
 Raw data links are provided in:  
-`projects/raw_data/data_links/`  
-- Example: `A549_withDMSO_links.txt`, `Calu3_withoutDMSO_links.txt`
+[`projects/raw_data/data_links/`](projects/raw_data/data_links/)  
+- Example: [A549_withDMSO_links.txt](projects/raw_data/data_links/A549_withDMSO_links.txt), [Calu3_withoutDMSO_links.txt](projects/raw_data/data_links/Calu3_withoutDMSO_links.txt)
 
 Download scripts are provided in:  
-`projects/scripts/download_scripts/`  
-- Example: `dl_wget_A549_withDMSO.sh`, `dl_wget_U937_withoutDMSO.sh`
+[`projects/scripts/download_scripts/`](projects/scripts/download_scripts/)  
+- Example: [dl_wget_A549_withDMSO.sh](projects/scripts/download_scripts/dl_wget_A549_withDMSO.sh), [dl_wget_U937_withoutDMSO.sh](projects/scripts/download_scripts/dl_wget_U937_withoutDMSO.sh)
 
-Raw FASTQ files were downloaded using **wget** (GNU Wget 1.20+).  
-
-**Execution example:**  
-```bash
-# Download A549 with DMSO raw FASTQ data
-bash scripts/download_scripts/dl_wget_A549_withDMSO.sh
+Raw FASTQ files were downloaded using **wget** (GNU Wget 1.20+).
 
 
 ---
