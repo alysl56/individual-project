@@ -378,7 +378,7 @@ To assess shared functional patterns across cell lines, enrichment results were 
 ## Acknowledgements
 
 This project was completed as part of my MSc dissertation at the University of Nottingham.  
-I would like to thank **Prof. Patrick Tighe** **Dr. Hannah Jackson**and **Dr. Laura Dean** for their supervision, constructive feedback, and continuous support throughout the project.
+I would like to thank **Prof. Patrick Tighe** **Dr. Hannah Jackson** and **Dr. Laura Dean** for their supervision, constructive feedback, and continuous support throughout the project.
 
 ---
 
