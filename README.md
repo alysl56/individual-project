@@ -169,7 +169,7 @@ Transcript-level quantifications from Salmon were summarized to gene-level count
 
 - **Process**:  
   1. Generate `tx2gene.csv` using  
-     Scripts: [`make_tx2gene_AWK.sbatch`](scripts/references_scripts /make_tx2gene_AWK.sbatch)  
+     Scripts: [`make_tx2gene_AWK.sbatch`](scripts/references_scripts/make_tx2gene_AWK.sbatch)
   2. Run **tximport** for gene-level summarization  
      Scripts: [`run_tximport_*.R`](scripts/tximport_DESeq2_scripts/)  
   3. Run **DESeq2** differential expression analysis  
