@@ -150,29 +150,34 @@ The generated metadata files are stored in:
 
 
 ---
-## 7. Import with tximport (R)
+## 7. Import with tximport (R) + Differential Expression (DESeq2)
 
-Transcript-level quantifications from Salmon were summarized to gene-level counts using **tximport v1.30+** in R.
+Transcript-level quantifications from Salmon were summarized to gene-level counts using **tximport (v1.34.0;)**, followed by differential expression analysis with **DESeq2 (v1.46.0)**.
 
-### Reference mapping (tx2gene)
+- **Environment**:  
+  Analyses were performed on the **Ada HPC cluster** in two ways:  
+  - Interactive R session (for testing/exploration)  
+  - Batch mode (Slurm scripts for full analysis)
 
-A transcript-to-gene mapping file (`tx2gene.csv`) was generated from the **GENCODE v38 annotation** (`gencode.v38.annotation.gtf`).  
-This file maps transcript IDs to gene IDs and is required by `tximport`.
+- **Required R packages**:  
+  `DESeq2 (v1.46.0)`, `tximport (v1.34.0)`, `clusterProfiler (v4.14.6)`,  
+  `org.Hs.eg.db (v3.20.0)`, `ggplot2 (v3.5.2)`, `pheatmap (v1.0.13)`, `VennDiagram (v1.7.3)`
 
-- **Input**: `gencode.v38.annotation.gtf`  
-- **Process**: Extract transcript–gene pairs  
-- **Output**: `tx2gene.csv` (stored in `/gpfs01/home/alysl56/references/`)
+- **Input**:  
+  - Salmon quantification directories (`<SampleID>_quant/`)  
+  - Transcript-to-gene mapping file: [`tx2gene.csv`](intermediate/tx2gene.csv)  
 
-The script used to generate this file is included in the repository:
+- **Process**:  
+  1. Generate `tx2gene.csv` using  
+     [`make_tx2gene_AWK.sbatch`](scripts/references_scripts/make_tx2gene_AWK.sbatch)  
+  2. Run **tximport** for gene-level summarization  
+     Scripts: [`run_tximport_*.R`](scripts/tximport_DESeq2_scripts/)  
+  3. Run **DESeq2** differential expression analysis  
+     Scripts: [`run_DESeq2_*.R`](scripts/tximport_DESeq2_scripts/)  
 
-`projects/scripts/references_scripts/make_tx2gene_AWK.sbatch`
+- **Output**:  
+  - Normalized counts per cell line: [`normalized_counts.csv`](intermediate/)  
+    - Example: [`A549_normalized_counts.csv`](intermediate/A549_normalized_counts.csv)  
+  - Differential expression results per cell line: [`*_DESeq2_results.csv`](DE_results/)  
+    - Example: [`A549_DESeq2_results.csv`](DE_results/A549_DESeq2_results.csv)  
 
-### tximport execution
-
-R was run in an **interactive Slurm session** on the Ada HPC cluster:
-
-```bash
-srun -p defq -c 4 --mem=24G -t 02:00:00 --pty bash
-module load R-uoneasy/4.4.1-gfbf-2023b-rstudio
-R
-Within R, tximport was executed with the generated samplesheet.csv and tx2gene.csv:
