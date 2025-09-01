@@ -29,13 +29,18 @@ Raw FASTQ files were downloaded using **wget** (GNU Wget 1.20+).
 
 ## 2. Reference Transcriptome
 
-We used the **GENCODE v38** human transcriptome (GRCh38) as the reference:
+We used the **GENCODE v38** human transcriptome (GRCh38) as the reference.
 
-- Transcript FASTA: `gencode.v38.transcripts.fa`
-- Annotation GTF: `gencode.v38.annotation.gtf`
+- Transcript FASTA: [gencode.v38.transcripts.fa.gz](https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.transcripts.fa.gz)  
+- Annotation GTF: [gencode.v38.annotation.gtf.gz](https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.annotation.gtf.gz)  
 
 Due to file size, these files and the Salmon index are **not included** in this repository.  
-They can be downloaded from [GENCODE](https://www.gencodegenes.org/human/release_38.html).
+They can be downloaded directly from [GENCODE](https://www.gencodegenes.org/human/release_38.html).  
+
+Download script is provided in:  
+[`projects/scripts/download_references/`](projects/scripts/download_references/)  
+- Example: [download_gencode_v38.sh](projects/scripts/download_references/download_gencode_v38.sh)
+
 
 ---
 
