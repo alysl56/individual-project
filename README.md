@@ -42,7 +42,8 @@ They can be downloaded directly from [GENCODE](https://www.gencodegenes.org/huma
 **Download example:**  
 ```bash
 # Create reference folder
-mkdir -p references && cd references
+mkdir -p references
+cd references
 
 # Download GENCODE v38 transcriptome and annotation
 wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.transcripts.fa.gz
