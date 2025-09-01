@@ -90,7 +90,7 @@ QC and trimming scripts are provided in:
 - Example: [qc_fastp_A549_withDMSO.sh](scripts/QC_trim_scripts/qc_fastp_A549_withDMSO.sh), [qc_fastp_U937_withoutDMSO.sh](scripts/QC_trim_scripts/qc_fastp_U937_withoutDMSO.sh)  
 
 QC reports are organized by cell line and condition in:  
-`projects/qc_reports/`  
+[`qc_reports/`](qc_reports/)
 
 - Example: [A549_with_DMSO](qc_reports/A549_with_DMSO), [HepG2_without_DMSO](qc_reports/HepG2_without_DMSO)  
 
