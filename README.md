@@ -304,3 +304,126 @@ Results are available in:
   sbatch projects/scripts/deg_venn/gene_bars/run_gene_bars.sbatch
 
 
+---
+## 11. Functional Enrichment Analysis
+
+After identifying DEGs, functional enrichment (GO:BP) analyses were performed for each cell line (A549, Calu-3, HepG2, U937) using **clusterProfiler**. Two complementary approaches were applied:
+
+- **Overrepresentation Analysis (ORA)**
+- **Gene Set Enrichment Analysis (GSEA)**
+
+
+- **Scripts:** [`scripts/enrich_scripts/`](scripts/enrich_scripts/)
+- **Results:** [`enrichment_results/`](enrichment_results/)
+
+---
+
+### Input
+- Differential expression results from DESeq2 ( e.g. [`A549_DESeq2_results.csv`](DE_results/A549_DESeq2_results.csv))
+- DEG summary tables [`*_DEG_summary.csv`](DE_results/))
+- Top DEG subsets (`*_top10_up.csv`, `*_top10_down.csv`)
+
+---
+
+### Scripts and Usage
+
+- `run_enrich_4lines.R`  
+  R script to run ORA and GSEA for all four cell lines.  
+  **Batch:** `run_enrich_4lines.sbatch`
+
+- Example outputs for A549:  
+  - `A549_ORA_GO_BP_up.tsv` (ORA results, up-regulated DEGs)  
+  - `A549_ORA_GO_BP_down.tsv` (ORA results, down-regulated DEGs)  
+  - `A549_GSEA_GO_BP.tsv` (GSEA results, all ranked DEGs)
+
+Same format was used for **Calu3**, **HepG2**, and **U937**.
+
+---
+
+### Output
+Results stored in:  
+`projects/enrichment_results/`
+
+Examples:  
+- `Calu3_ORA_GO_BP_up.tsv`  
+- `HepG2_ORA_GO_BP_down.tsv`  
+- `U937_GSEA_GO_BP.tsv`
+
+---
+
+### Execution Example
+**Batch (Slurm):**
+```bash
+sbatch projects/scripts/enrich_scripts/run_enrich_4lines.sbatch
+
+Results for each cell line are stored under:
+
+`projects/enrichment_results/`
+
+### Example files
+- `A549_ORA_GO_BP_up.tsv` : GO:BP enrichment results for upregulated DEGs in A549  
+- `A549_ORA_GO_BP_down.tsv` : GO:BP enrichment results for downregulated DEGs in A549  
+- `A549_GSEA_GO_BP.tsv` : GSEA results for A549 (all genes ranked)  
+- (Similar files are available for Calu-3, HepG2, U937)
+
+Each TSV file contains:
+- GO term ID and description  
+- Enrichment method (ORA/GSEA)  
+- FDR-adjusted p-value  
+- Gene counts and core gene list  
+
+### Figures
+Representative barplots and dotplots are stored in:  
+`figures/enrichment/single_lines/`
+
+- Example: `A549_ORA_barplot.png`, `Calu3_GSEA_dotplot.pdf`  
+
+---
+
+## 12. Cross-line Enrichment Integration
+
+To assess shared functional patterns across cell lines, enrichment results were integrated and summarized using custom R scripts:
+
+`projects/scripts/enrich_scripts/`
+
+### Example scripts
+- `make_crossline_top10.R` : Extracts the top-10 representative GO:BP terms across ≥2 cell lines  
+- `make_crossline_heatmap.R` : Generates heatmap of representative terms  
+- `make_crossline_minitable.R` : Produces compact summary tables of shared terms  
+- `make_crossline_representative.R` : Clusters redundant GO terms and selects representatives  
+
+### Example outputs
+- Cross-line top-10 heatmap (`figures/enrichment/crossline_top10_heatmap.pdf`)  
+- Representative enrichment tables (`projects/enrichment_results/crossline_tables.tsv`)  
+- Cross-line mini summary table (`projects/enrichment_results/crossline_minitable.tsv`)  
+
+---
+
+**Notes**:  
+- In A549 and Calu-3, DMSO upregulated immune/stress pathways and downregulated chromatin/nucleosome assembly and sensory perception.  
+- In HepG2, enrichment was biased towards metal ion homeostasis and developmental processes.  
+- U937 showed very few DEGs, but ORA/GSEA results are still available in the enrichment_results/ folder.  
+
+---
+
+## Acknowledgements
+
+This project was completed as part of my MSc dissertation at the University of Nottingham.  
+I would like to thank **Prof. Patrick Tighe** and **Dr. Laura Dean** for their supervision, constructive feedback, and continuous support throughout the project.
+
+---
+
+## References
+
+- Edgar, R., Domrachev, M. and Lash, A.E. (2002) Gene Expression Omnibus: NCBI gene expression and hybridization array data repository. *Nucleic Acids Research*, 30(1), pp.207–210.  
+- Leinonen, R., Sugawara, H. and Shumway, M. (2011) The Sequence Read Archive. *Nucleic Acids Research*, 39(Database), pp.D19–D21.  
+- Love, M.I., Huber, W. and Anders, S. (2014) Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology*, 15(12), p.550.  
+- Soneson, C., Love, M.I. and Robinson, M.D. (2015) Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences. *F1000Research*, 4, 1521.  
+- Yu, G., Wang, L.G., Han, Y. and He, Q.Y. (2012) clusterProfiler: an R package for comparing biological themes among gene clusters. *OMICS: A Journal of Integrative Biology*, 16(5), pp.284–287.  
+- Carlson, M. (2019) *org.Hs.eg.db: Genome wide annotation for Human*. R package version 3.8.2.  
+- Wickham, H. (2016) *ggplot2: Elegant Graphics for Data Analysis*. Springer-Verlag New York.  
+- Kolde, R. (2019) *pheatmap: Pretty Heatmaps*. R package version 1.0.12.  
+- Chen, H. and Boutros, P.C. (2011) VennDiagram: a package for the generation of highly-customizable Venn and Euler diagrams in R. *BMC Bioinformatics*, 12, 35.  
+- Patro, R., Duggal, G., Love, M.I., Irizarry, R.A. and Kingsford, C. (2017) Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, 14(4), pp.417–419.  
+- Frankish, A., Diekhans, M., Ferreira, A.M. et al. (2019) GENCODE reference annotation for the human and mouse genomes. *Nucleic Acids Research*, 47(D1), pp.D766–D773.  
+
