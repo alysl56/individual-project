@@ -137,16 +137,16 @@ SRRyyyyyyy,without_DMSO,/path/to/salmon_quant/without_DMSO/SRRyyyyyyy_quant
 
 
 Scripts for generating the metadata are stored in:  
-[`projects/scripts/make_samplesheet_scripts/`](../../tree/main/projects/scripts/make_samplesheet_scripts)  
+[`scripts/make_samplesheet_scripts/`](scripts/make_samplesheet_scripts)  
 
-- Example: [`make_samplesheet_A549.sbatch`](../../blob/main/projects/scripts/make_samplesheet_scripts/make_samplesheet_A549.sbatch),  
-  [`make_samplesheet_U937.sbatch`](../../blob/main/projects/scripts/make_samplesheet_scripts/make_samplesheet_U937.sbatch)
+- Example: [`make_samplesheet_A549.sbatch`](scripts/make_samplesheet_scripts/make_samplesheet_A549.sbatch),  
+  [`make_samplesheet_U937.sbatch`](scripts/make_samplesheet_scripts/make_samplesheet_U937.sbatch)
 
 The generated metadata files are stored in:  
-[`projects/samplesheet/`](../../tree/main/projects/samplesheet)  
+[`samplesheet/`](samplesheet)  
 
-- Example: [`A549_samplesheet.csv`](../../blob/main/projects/samplesheet/A549_samplesheet.csv),  
-  [`U937_samplesheet.csv`](../../blob/main/projects/samplesheet/U937_samplesheet.csv)
+- Example: [`A549_samplesheet.csv`](samplesheet/A549_samplesheet.csv),  
+  [`U937_samplesheet.csv`](samplesheet/U937_samplesheet.csv)
 
 
 ---
