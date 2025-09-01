@@ -222,9 +222,9 @@ Results are stored in:
 [DE_results/`](DE_results/)
 
 - Example files:  
-  - `A549_DESeq2_results.csv`  
-  - `A549_DEG_summary.csv`  
-  - `A549_top10_up.csv`, `A549_top10_down.csv`
+  - [`A549_DESeq2_results.csv`](DE_results/A549_DESeq2_results.csv) 
+  - [`A549_DEG_summary.csv`](DE_results/A549_DEG_summary.csv) 
+  - [`A549_top10_up.csv`](DE_results/A549_top10_up.csv) 
 
 
 ---
