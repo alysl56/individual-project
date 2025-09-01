@@ -259,4 +259,48 @@ Results are available in:
 [`coverage_summary/`](coverage_summary)  
 
 - Example output: [`A549_gene_totals_per_sample.csv`](coverage_summary/A549_gene_totals_per_sample.csv), [`A549_gene_totals_by_condition.csv`](coverage_summary/A549_gene_totals_per_sample.csv)
+
+
 ---
+## 10. Cross-cell line integration (Venn → Core genes → Bar plots)
+
+- **Input**:  
+  Per–cell-line DE tables from DESeq2:  
+  [`DE_results/`](DE_results/)  
+
+- **Scripts**:  
+  - 4-line / 3-line Venn:  
+    [`scripts/deg_venn/run_venn_crossline.R`](scripts/deg_venn/run_venn_crossline.R)  
+    Example: [`run_venn_crossline.sbatch`](scripts/deg_venn/run_venn_crossline.sbatch)  
+  - Core gene tables:  
+    [`scripts/deg_venn/run_core_tables.R`](scripts/deg_venn/run_core_tables.R)  
+    Example: [`run_core_tables.sbatch`](scripts/deg_venn/run_core_tables.sbatch)    
+  - Core-6 bar plots:  
+    - Generate table: [`scripts/deg_venn/gene_bars/make_six_gene_table_from_dds.R`](scripts/deg_venn/gene_bars/make_six_gene_table_from_dds.R)  
+      Example: [`make_six_gene_table_from_dds.sbatch`](scripts/deg_venn/gene_bars/make_six_gene_table_from_dds.sbatch)  
+    - Plot bars: [`scripts/deg_venn/gene_bars/run_gene_bars.R`](scripts/deg_venn/gene_bars/run_gene_bars.R)  
+      Example: [`run_gene_bars.sbatch`](scripts/deg_venn/gene_bars/run_gene_bars.sbatch)  
+
+- **Process**:  
+  1. Construct **four-line all-up Venn** (A549, Calu-3, HepG2, U937).  
+  2. Construct **three-epithelial Venn (A549/Calu-3/HepG2)** for both all-up and all-down.  
+  3. Export intersection tables and identify shared sets.  
+  4. Extract **Core-6 genes** (RPPH1, RNU1-1, RNU4-1, RNU4-2, SNORA74A, RNU2-1).  
+  5. Summarize expression of Core-6 across with/without DMSO conditions.  
+  6. Generate bar plots (mean ± s.e.m.) for visualization.  
+
+- **Output**:  
+  - Venn plots and intersection tables: [`DE_results/`](DE_results/)  
+    - Example: [`Venn4_All_padj0.05_LFC1_regions.tsv`](DE_results/Venn4_All_padj0.05_LFC1_regions.tsv)  , [`common3_All_table.tsv`](DE_results/common3_All_table.tsv`) 
+    - Core gene list: [`core6_selected.tsv`](DE_results/core6_selected.tsv`)   
+  - Core-6 expression and bar plots: [`DE_results`](DE_results)  
+    - Example: [`six_genes_expression_long_table.csv`](DE_results/six_genes_expression_long_table.csv)  
+
+- **Execution examples**:  
+  ```bash
+  Rscript projects/scripts/deg_venn/run_venn_crossline.R
+  sbatch projects/scripts/deg_venn/run_core_tables.sbatch
+  Rscript projects/scripts/deg_venn/gene_bars/make_six_gene_table_from_dds.R
+  sbatch projects/scripts/deg_venn/gene_bars/run_gene_bars.sbatch
+
+
