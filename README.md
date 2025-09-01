@@ -197,7 +197,38 @@ Transcript-level quantifications from Salmon were summarized to gene-level count
 
 
 ---
-## 8. Single Cell-Line Gene Detection Totals
+## 8. Single Cell-Line DEG Analysis
+
+For each cell line, differential expression results (`*_DESeq2_results.csv`) were further summarized:
+
+- **Input**: DESeq2 results (`*_DESeq2_results.csv`)
+- **Process**: 
+  - Count total genes, significant DEGs (padj < 0.05, |log2FC| > 1)
+  - Extract top 10 up-regulated and down-regulated genes
+  - Generate volcano plots for visualization
+- **Output**: 
+  - DEG summary (`*_DEG_summary.csv`)
+  - Top 10 up/down gene lists (`*_top10_up.csv`, `*_top10_down.csv`)
+  - Volcano plots (`*.pdf`)
+
+Scripts are provided in:  
+[`scripts/degstats_scripts/`](/scripts/degstats_scripts/)
+
+- Examples:  
+  - [`run_degstats_A549.R`](/scripts/degstats_scripts/run_degstats_A549.R), [`run_degstats_A549.sbatch`](/scripts/degstats_scripts/run_degstats_A549.sbatch) 
+  - [`run_volcano_A549.R`](/scripts/degstats_scripts/run_volcano_A549.R),[`run_volcano_A549.sbatch`](/scripts/degstats_scripts/run_volcano_A549.sbatch`) 
+
+Results are stored in:  
+[DE_results/`](DE_results/)
+
+- Example files:  
+  - `A549_DESeq2_results.csv`  
+  - `A549_DEG_summary.csv`  
+  - `A549_top10_up.csv`, `A549_top10_down.csv`
+
+
+---
+## 9. Single Cell-Line Gene Detection Totals
 
 To evaluate overall gene detection per sample,  
 we calculated **gene totals** (number of detected genes) for each cell line.  
