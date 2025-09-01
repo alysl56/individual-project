@@ -382,6 +382,24 @@ I would like to thank **Prof. Patrick Tighe** **Dr. Hannah Jackson** and **Dr. L
 
 ---
 
+---
+
 ## References
+
+- Edgar, R., Domrachev, M. and Lash, A.E. (2002) Gene Expression Omnibus: NCBI gene expression and hybridization array data repository. *Nucleic Acids Research*, 30, 207–210.  
+- Leinonen, R., Sugawara, H. and Shumway, M. (2011) The Sequence Read Archive. *Nucleic Acids Research*, 39, D19–D21.  
+- Love, M.I., Huber, W. and Anders, S. (2014) Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology*, 15, 550.  
+- Soneson, C., Love, M.I. and Robinson, M.D. (2015) Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences. *F1000Research*, 4, 1521.  
+- Yu, G., Wang, L.G., Han, Y. and He, Q.Y. (2012) clusterProfiler: an R package for comparing biological themes among gene clusters. *OMICS: A Journal of Integrative Biology*, 16, 284–287.  
+- Carlson, M. (2019) *org.Hs.eg.db: Genome wide annotation for Human*. R package, Bioconductor.  
+- Wickham, H. (2016) *ggplot2: Elegant Graphics for Data Analysis*. Springer-Verlag New York.  
+- Kolde, R. (2019) *pheatmap: Pretty Heatmaps*. R package version 1.0.13.  
+- Chen, H. and Boutros, P.C. (2011) VennDiagram: a package for the generation of highly-customizable Venn and Euler diagrams in R. *BMC Bioinformatics*, 12, 35.  
+- Chen, S., Zhou, Y., Chen, Y. and Gu, J. (2018) fastp: an ultra-fast all-in-one FASTQ preprocessor. *Bioinformatics*, 34, i884–i890.  
+- Patro, R., Duggal, G., Love, M.I., Irizarry, R.A. and Kingsford, C. (2017) Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, 14, 417–419.  
+- Frankish, A., Diekhans, M., Ferreira, A.M. et al. (2019) GENCODE reference annotation for the human and mouse genomes. *Nucleic Acids Research*, 47, D766–D773.  
+
+---
+
 
 
