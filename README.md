@@ -155,13 +155,27 @@ The generated metadata files are stored in:
 Transcript-level quantifications from Salmon were summarized to gene-level counts using **tximport (v1.34.0;)**, followed by differential expression analysis with **DESeq2 (v1.46.0)**.
 
 - **Environment**:  
-  Analyses were performed on the **Ada HPC cluster** in two ways:  
-  - Interactive R session (for testing/exploration)  
-  - Batch mode (Slurm scripts for full analysis)
+  Analyses were performed on the **Ada HPC cluster** in two modes:  
+
+  - **Interactive R (for testing/exploration):**
+    ```bash
+    srun -p defq -c 4 --mem=24G -t 02:00:00 --pty bash
+    module load R-uoneasy/4.4.1-gfbf-2023b-rstudio
+    R
+    ```
+
+  - **Batch (Slurm, for full analysis):**  
+    Example: [`run_DESeq2_A549.sbatch`](projects/scripts/tximport_DESeq2_scripts/run_DESeq2_A549.sbatch)
 
 - **Required R packages**:  
-  `DESeq2 (v1.46.0)`, `tximport (v1.34.0)`, `clusterProfiler (v4.14.6)`,  
-  `org.Hs.eg.db (v3.20.0)`, `ggplot2 (v3.5.2)`, `pheatmap (v1.0.13)`, `VennDiagram (v1.7.3)`
+  ```r
+  library(DESeq2)           # v1.46.0 (Love et al., 2014)
+  library(tximport)         # v1.34.0 (Soneson et al., 2015)
+  library(clusterProfiler)  # v4.14.6 (Yu et al., 2012)
+  library(org.Hs.eg.db)     # v3.20.0 (Carlson, 2019)
+  library(ggplot2)          # v3.5.2 (Wickham, 2016)
+  library(pheatmap)         # v1.0.13 (Kolde, 2019)
+  library(VennDiagram)      # v1.7.3 (Chen and Boutros, 2011)
 
 - **Input**:  
   - Salmon quantification directories (`<SampleID>_quant/`)  
@@ -181,3 +195,37 @@ Transcript-level quantifications from Salmon were summarized to gene-level count
   - Differential expression results per cell line: [`*_DESeq2_results.csv`](DE_results/)  
     - Example: [`A549_DESeq2_results.csv`](DE_results/A549_DESeq2_results.csv)  
 
+
+---
+## 8. Single Cell-Line Gene Detection Totals
+
+To evaluate overall gene detection per sample,  
+we calculated **gene totals** (number of detected genes) for each cell line.  
+
+- **Input**:  
+  - `samplesheet.csv` (sample metadata)  
+  - `gene_counts.csv` (raw counts per gene)  
+  - `gene_tpm.csv` (TPM-normalized values)  
+
+- **Process**:  
+  - Count total number of genes per sample  
+  - Calculate number of genes with counts > 0  
+  - Calculate number of genes with TPM ≥ 0.1  
+  - Summarize mean and SD of detected genes by condition (with/without DMSO)  
+
+- **Output**:  
+  - Per-sample gene totals (`*_gene_totals_per_sample.csv`)  
+  - Condition-level summaries (`*_gene_totals_by_condition.csv`)  
+
+Scripts are provided in:  
+[`projects/scripts/gene_totals/`](scripts/gene_totals)
+
+Examples:  
+- [`run_gene_totals_A549.R`](scripts/gene_totals/run_gene_totals_A549.R)  
+- [`run_gene_totals_A549.sbatch`](scripts/gene_totals/run_gene_totals_A549.sbatch)
+
+Results are available in:  
+[`DE_results/`](DE_results)  
+
+- Example output: [`A549_gene_totals_per_sample.csv`](coverage_summary/A549_gene_totals_per_sample.csv), [`A549_gene_totals_by_condition.csv`](coverage_summary/A549_gene_totals_per_sample.csv)
+---
