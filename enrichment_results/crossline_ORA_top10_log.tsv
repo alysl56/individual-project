@@ -1,0 +1,11 @@
+Term	Direction	Theme	Reason	Lines_sig	minFDR
+response to peptide	Up	Other	ranked	2	1.75e-08
+positive regulation of multicellular organismal process	Up	Other	ranked	2	1.89e-08
+response to cytokine	Up	Other	ranked	2	1.89e-08
+response to external stimulus	Up	RNA/Splicing	ranked	2	1.31e-07
+immune system process	Up	Immune/Antigen	ranked	2	4.96e-07
+detection of chemical stimulus involved in sensory perception	Down	Sensory/Chemical	ranked	2	1.4e-47
+detection of chemical stimulus	Down	Sensory/Chemical	ranked	2	1.22e-43
+nucleosome assembly	Down	Chromatin/Nucleosome	ranked	2	4.3e-41
+nucleosome organization	Down	Chromatin/Nucleosome	ranked	2	1.04e-37
+sensory perception of smell	Down	Sensory/Chemical	ranked	2	5.37e-35

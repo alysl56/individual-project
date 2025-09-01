@@ -1,0 +1,69 @@
+Term	Direction	A549_FDR	Calu3_FDR	HepG2_FDR	U937_FDR	ClusterSize
+detection of chemical stimulus involved in sensory perception	Down	1.40e-47	3.76e-05			6
+negative regulation of megakaryocyte differentiation	Down	1.90e-07	1.25e-11			3
+detection of chemical stimulus	Down	1.22e-43	3.72e-04			2
+sensory perception of smell	Down	5.37e-35	3.68e-02			2
+protein-DNA complex assembly	Down	2.96e-05	2.10e-27			2
+nervous system process	Down	4.47e-18		3.23e-02		1
+nucleosome assembly	Down	1.79e-14	4.30e-41			1
+system process	Down	3.53e-13		1.65e-03		1
+nucleosome organization	Down	1.04e-11	1.04e-37			1
+protein localization to CENP-A containing chromatin	Down	1.14e-11	6.76e-18			1
+sensory perception of bitter taste	Down	2.35e-06	1.98e-02			1
+protein localization to chromosome, centromeric region	Down	1.63e-04	1.21e-11			1
+protein localization to chromatin	Down	2.04e-04	5.05e-12			1
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	Down	7.96e-04	1.59e-03			1
+innate immune response in mucosa	Down	9.07e-04	7.20e-06			1
+mucosal immune response	Down	8.98e-03	1.53e-04			1
+organ or tissue specific immune response	Down	2.12e-02	2.99e-04			1
+flavonoid metabolic process	Down	2.64e-02	4.34e-02			1
+defense response	Up	2.04e-06	1.49e-06			6
+antigen processing and presentation of endogenous peptide antigen via MHC class I	Up	8.12e-05	2.38e-02			5
+response to external stimulus	Up	2.04e-06	1.31e-07			4
+immune system process	Up	4.17e-06	4.96e-07			4
+innate immune response	Up	4.47e-06	3.83e-02			4
+antigen processing and presentation	Up	1.90e-05	5.11e-03			3
+regulation of cytokine production	Up	9.20e-04	1.49e-07			3
+regulation of cell population proliferation	Up	1.27e-03	8.91e-07			3
+response to cytokine	Up	4.56e-03	1.89e-08			3
+inflammatory response	Up	7.72e-03	1.12e-05			3
+negative regulation of cell adhesion	Up	1.83e-02	5.26e-05			3
+extrinsic apoptotic signaling pathway	Up	4.00e-02	8.19e-04			3
+response to biotic stimulus	Up	6.55e-06	1.36e-06			2
+response to other organism	Up	9.26e-06	1.42e-06			2
+response to stress	Up	8.25e-05	3.30e-04			2
+regulation of peptidase activity	Up	4.36e-04	1.43e-02			2
+positive regulation of multicellular organismal process	Up	6.87e-04	1.89e-08			2
+response to type I interferon	Up	4.69e-03	2.72e-02			2
+regulation of proteolysis	Up	6.32e-03	8.77e-03			2
+regulation of hydrolase activity	Up	7.81e-03	3.63e-02			2
+locomotion	Up	1.14e-02	1.73e-04			2
+cell migration	Up	1.37e-02	3.10e-06			2
+skin development	Up	2.56e-02	4.92e-03			2
+type I interferon-mediated signaling pathway	Up	3.06e-02	1.96e-02			2
+negative regulation of protein metabolic process	Up	4.32e-02	1.75e-02			2
+regulation of angiogenesis	Up	4.41e-02	8.19e-04			2
+positive regulation of gene expression	Up	7.25e-05	2.49e-06			1
+biological process involved in interspecies interaction between organisms	Up	1.30e-04	3.77e-06			1
+response to virus	Up	5.44e-04	2.47e-03			1
+antigen processing and presentation via MHC class Ib	Up	1.27e-03	1.91e-02			1
+response to interferon-beta	Up	1.33e-03	7.65e-03			1
+regulation of molecular function	Up	1.62e-03	4.15e-02			1
+response to peptide	Up	3.45e-03	1.75e-08			1
+tissue development	Up	3.55e-03	9.46e-07			1
+positive regulation of developmental process	Up	4.01e-03	5.12e-07			1
+positive regulation of cellular process	Up	4.68e-03	1.31e-07			1
+positive regulation of vasculature development	Up	1.04e-02	9.27e-03			1
+regulation of cell motility	Up	1.14e-02	2.83e-04			1
+epidermis development	Up	1.14e-02	1.82e-02			1
+regulation of binding	Up	1.92e-02	4.19e-02			1
+response to bacterium	Up	2.16e-02	2.79e-04			1
+regulation of cytokine-mediated signaling pathway	Up	2.19e-02	3.33e-02			1
+regulation of protein processing	Up	2.51e-02	4.21e-02			1
+positive regulation of cell differentiation	Up	2.71e-02	5.22e-05			1
+regulation of leukocyte migration	Up	3.51e-02	4.11e-03			1
+positive regulation of cellular biosynthetic process	Up	3.68e-02	3.68e-05			1
+positive regulation of macromolecule biosynthetic process	Up	3.68e-02	4.07e-05			1
+T cell mediated immunity	Up	3.68e-02	8.91e-05			1
+response to lipid	Up	4.18e-02	4.12e-05			1
+acute-phase response	Up		2.01e-03		4.70e-02	1

@@ -1,0 +1,1316 @@
+Term	Direction	A549_FDR	Calu3_FDR	HepG2_FDR	U937_FDR	Lines_sig
+detection of chemical stimulus involved in sensory perception	Down	1.40e-47	3.76e-05			2
+detection of chemical stimulus	Down	1.22e-43	3.72e-04			2
+detection of stimulus involved in sensory perception	Down	1.71e-43	2.01e-05			2
+detection of stimulus	Down	3.35e-43	1.86e-04			2
+detection of chemical stimulus involved in sensory perception of smell	Down	2.46e-41	8.83e-03			2
+sensory perception of chemical stimulus	Down	3.74e-39	5.39e-04			2
+sensory perception of smell	Down	5.37e-35	3.68e-02			2
+sensory perception	Down	1.58e-26	3.27e-02			2
+nervous system process	Down	4.47e-18		3.23e-02		2
+nucleosome assembly	Down	1.79e-14	4.30e-41			2
+system process	Down	3.53e-13		1.65e-03		2
+nucleosome organization	Down	1.04e-11	1.04e-37			2
+protein localization to CENP-A containing chromatin	Down	1.14e-11	6.76e-18			2
+negative regulation of megakaryocyte differentiation	Down	1.90e-07	1.25e-11			2
+detection of chemical stimulus involved in sensory perception of bitter taste	Down	6.35e-07	1.42e-02			2
+response to external stimulus	Up	2.04e-06	1.31e-07			2
+defense response	Up	2.04e-06	1.49e-06			2
+sensory perception of bitter taste	Down	2.35e-06	1.98e-02			2
+detection of chemical stimulus involved in sensory perception of taste	Down	4.13e-06	1.98e-02			2
+immune system process	Up	4.17e-06	4.96e-07			2
+innate immune response	Up	4.47e-06	3.83e-02			2
+response to biotic stimulus	Up	6.55e-06	1.36e-06			2
+immune response	Up	6.55e-06	4.90e-06			2
+defense response to symbiont	Up	6.55e-06	2.29e-04			2
+response to other organism	Up	9.26e-06	1.42e-06			2
+response to external biotic stimulus	Up	9.29e-06	1.45e-06			2
+antigen processing and presentation	Up	1.90e-05	5.11e-03			2
+defense response to other organism	Up	2.28e-05	6.27e-05			2
+protein-DNA complex assembly	Down	2.96e-05	2.10e-27			2
+positive regulation of gene expression	Up	7.25e-05	2.49e-06			2
+antigen processing and presentation of endogenous peptide antigen via MHC class I	Up	8.12e-05	2.38e-02			2
+antigen processing and presentation of endogenous peptide antigen	Up	8.12e-05	2.88e-02			2
+response to stress	Up	8.25e-05	3.30e-04			2
+biological process involved in interspecies interaction between organisms	Up	1.30e-04	3.77e-06			2
+protein localization to chromosome, centromeric region	Down	1.63e-04	1.21e-11			2
+regulation of megakaryocyte differentiation	Down	1.68e-04	3.20e-08			2
+protein localization to chromatin	Down	2.04e-04	5.05e-12			2
+protein-DNA complex organization	Down	2.49e-04	5.74e-26			2
+antigen processing and presentation of endogenous antigen	Up	3.28e-04	3.71e-02			2
+defense response to virus	Up	3.32e-04	1.52e-02			2
+antigen processing and presentation of peptide antigen via MHC class Ib	Up	4.00e-04	1.33e-02			2
+negative regulation of immune system process	Up	4.00e-04	2.17e-02			2
+regulation of peptidase activity	Up	4.36e-04	1.43e-02			2
+regulation of immune system process	Up	5.44e-04	1.35e-04			2
+response to virus	Up	5.44e-04	2.47e-03			2
+positive regulation of multicellular organismal process	Up	6.87e-04	1.89e-08			2
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	Down	7.96e-04	1.59e-03			2
+innate immune response in mucosa	Down	9.07e-04	7.20e-06			2
+regulation of cytokine production	Up	9.20e-04	1.49e-07			2
+cytokine production	Up	1.10e-03	1.66e-07			2
+positive regulation of cytokine production	Up	1.10e-03	1.05e-04			2
+regulation of cell population proliferation	Up	1.27e-03	8.91e-07			2
+antigen processing and presentation via MHC class Ib	Up	1.27e-03	1.91e-02			2
+response to interferon-beta	Up	1.33e-03	7.65e-03			2
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib	Up	1.40e-03	1.15e-02			2
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	Up	1.40e-03	1.15e-02			2
+regulation of response to external stimulus	Up	1.62e-03	7.65e-05			2
+regulation of molecular function	Up	1.62e-03	4.15e-02			2
+negative regulation of cell population proliferation	Up	1.90e-03	1.66e-03			2
+negative regulation of peptidase activity	Up	2.47e-03	2.16e-02			2
+response to peptide	Up	3.45e-03	1.75e-08			2
+tissue development	Up	3.55e-03	9.46e-07			2
+positive regulation of developmental process	Up	4.01e-03	5.12e-07			2
+negative regulation of response to external stimulus	Up	4.42e-03	2.57e-03			2
+response to cytokine	Up	4.56e-03	1.89e-08			2
+regulation of defense response	Up	4.57e-03	2.26e-04			2
+positive regulation of cellular process	Up	4.68e-03	1.31e-07			2
+response to type I interferon	Up	4.69e-03	2.72e-02			2
+megakaryocyte differentiation	Down	4.91e-03	7.20e-06			2
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	Up	6.16e-03	9.94e-03			2
+regulation of multicellular organismal process	Up	6.22e-03	3.99e-08			2
+regulation of cell migration	Up	6.32e-03	1.09e-04			2
+regulation of proteolysis	Up	6.32e-03	8.77e-03			2
+regulation of response to cytokine stimulus	Up	6.95e-03	1.60e-02			2
+inflammatory response	Up	7.72e-03	1.12e-05			2
+regulation of extrinsic apoptotic signaling pathway	Up	7.81e-03	2.56e-03			2
+positive regulation of angiogenesis	Up	7.81e-03	8.59e-03			2
+regulation of hydrolase activity	Up	7.81e-03	3.63e-02			2
+mucosal immune response	Down	8.98e-03	1.53e-04			2
+negative regulation of defense response	Up	9.26e-03	3.05e-03			2
+positive regulation of vasculature development	Up	1.04e-02	9.27e-03			2
+negative regulation of cell-cell adhesion	Up	1.09e-02	1.20e-03			2
+cellular response to cytokine stimulus	Up	1.14e-02	3.89e-08			2
+locomotion	Up	1.14e-02	1.73e-04			2
+regulation of cell motility	Up	1.14e-02	2.83e-04			2
+epidermis development	Up	1.14e-02	1.82e-02			2
+cell migration	Up	1.37e-02	3.10e-06			2
+cellular response to type I interferon	Up	1.42e-02	2.06e-02			2
+negative regulation of proteolysis	Up	1.68e-02	3.27e-02			2
+regulation of response to stress	Up	1.70e-02	3.83e-02			2
+negative regulation of cell adhesion	Up	1.83e-02	5.26e-05			2
+regulation of binding	Up	1.92e-02	4.19e-02			2
+skin epidermis development	Up	2.03e-02	7.34e-03			2
+organ or tissue specific immune response	Down	2.12e-02	2.99e-04			2
+positive regulation of immune system process	Up	2.14e-02	4.33e-05			2
+response to bacterium	Up	2.16e-02	2.79e-04			2
+negative regulation of hydrolase activity	Up	2.17e-02	2.57e-02			2
+regulation of cytokine-mediated signaling pathway	Up	2.19e-02	3.33e-02			2
+defense response to bacterium	Up	2.29e-02	4.19e-02			2
+regulation of protein processing	Up	2.51e-02	4.21e-02			2
+skin development	Up	2.56e-02	4.92e-03			2
+negative regulation of leukocyte cell-cell adhesion	Up	2.57e-02	8.76e-03			2
+regulation of inflammatory response	Up	2.60e-02	2.18e-04			2
+flavonoid metabolic process	Down	2.64e-02	4.34e-02			2
+positive regulation of cell differentiation	Up	2.71e-02	5.22e-05			2
+type I interferon-mediated signaling pathway	Up	3.06e-02	1.96e-02			2
+regulation of locomotion	Up	3.31e-02	5.16e-04			2
+interferon-mediated signaling pathway	Up	3.31e-02	4.91e-02			2
+positive regulation of extrinsic apoptotic signaling pathway	Up	3.36e-02	3.65e-02			2
+regulation of leukocyte migration	Up	3.51e-02	4.11e-03			2
+positive regulation of inflammatory response	Up	3.51e-02	3.49e-02			2
+positive regulation of immune response	Up	3.56e-02	5.84e-03			2
+cell population proliferation	Up	3.68e-02	1.41e-06			2
+positive regulation of cellular biosynthetic process	Up	3.68e-02	3.68e-05			2
+positive regulation of macromolecule biosynthetic process	Up	3.68e-02	4.07e-05			2
+T cell mediated immunity	Up	3.68e-02	8.91e-05			2
+regulation of immune response	Up	3.68e-02	1.25e-02			2
+regulation of response to biotic stimulus	Up	3.68e-02	3.66e-02			2
+regulation of protein metabolic process	Up	3.68e-02	4.58e-02			2
+extrinsic apoptotic signaling pathway	Up	4.00e-02	8.19e-04			2
+response to lipid	Up	4.18e-02	4.12e-05			2
+negative regulation of protein metabolic process	Up	4.32e-02	1.75e-02			2
+regulation of angiogenesis	Up	4.41e-02	8.19e-04			2
+acute-phase response	Up		2.01e-03		4.70e-02	2
+G protein-coupled receptor signaling pathway	Down	1.95e-21				1
+homophilic cell adhesion via plasma membrane adhesion molecules	Down	5.20e-08				1
+antigen processing and presentation of peptide antigen via MHC class I	Up	8.72e-06				1
+antigen processing and presentation of peptide antigen	Up	2.28e-05				1
+cell-cell adhesion via plasma-membrane adhesion molecules	Down	3.92e-05				1
+negative regulation of viral process	Up	1.10e-04				1
+detection of external stimulus	Down	2.69e-04				1
+detection of abiotic stimulus	Down	3.08e-04				1
+proton motive force-driven mitochondrial ATP synthesis	Up	6.24e-04				1
+oxidative phosphorylation	Up	7.11e-04				1
+negative regulation of response to biotic stimulus	Up	8.12e-04				1
+mitochondrial electron transport, NADH to ubiquinone	Up	8.12e-04				1
+detection of light stimulus	Down	8.76e-04				1
+proton motive force-driven ATP synthesis	Up	8.76e-04				1
+negative regulation of innate immune response	Up	8.76e-04				1
+nucleoside triphosphate biosynthetic process	Up	9.09e-04				1
+aerobic electron transport chain	Up	1.17e-03				1
+negative regulation of viral genome replication	Up	1.33e-03				1
+sensory perception of taste	Down	1.41e-03				1
+metal ion transport	Down	1.54e-03				1
+ATP biosynthetic process	Up	1.90e-03				1
+phototransduction	Down	1.94e-03				1
+protein maturation	Up	2.64e-03				1
+sodium ion transmembrane transport	Down	3.29e-03				1
+ATP synthesis coupled electron transport	Up	3.45e-03				1
+mitochondrial ATP synthesis coupled electron transport	Up	3.45e-03				1
+sodium ion transport	Down	3.78e-03				1
+regulation of catalytic activity	Up	4.68e-03				1
+ribonucleoside triphosphate biosynthetic process	Up	4.68e-03				1
+release of cytochrome c from mitochondria	Up	5.10e-03				1
+cardiac muscle cell contraction	Down	6.07e-03				1
+purine ribonucleoside triphosphate biosynthetic process	Up	6.32e-03				1
+response to type II interferon	Up	6.32e-03				1
+purine nucleoside triphosphate biosynthetic process	Up	6.95e-03				1
+establishment of skin barrier	Up	6.96e-03				1
+apoptotic mitochondrial changes	Up	7.41e-03				1
+defense response to bacterium	Down	8.98e-03				1
+protein folding	Up	9.80e-03				1
+UV protection	Up	1.04e-02				1
+regulation of viral process	Up	1.13e-02				1
+nucleoside triphosphate metabolic process	Up	1.14e-02				1
+mRNA 5'-splice site recognition	Down	1.36e-02				1
+cAMP metabolic process	Down	1.37e-02				1
+chemokine (C-X-C motif) ligand 2 production	Up	1.68e-02				1
+regulation of chemokine (C-X-C motif) ligand 2 production	Up	1.68e-02				1
+cellular response to type II interferon	Up	1.68e-02				1
+proton transmembrane transport	Up	1.76e-02				1
+respiratory electron transport chain	Up	1.83e-02				1
+cardiac muscle cell action potential	Down	1.91e-02				1
+cardiac muscle cell action potential involved in contraction	Down	2.00e-02				1
+regulation of innate immune response	Up	2.04e-02				1
+inorganic ion transmembrane transport	Down	2.05e-02				1
+aerobic respiration	Up	2.29e-02				1
+external encapsulating structure organization	Up	2.29e-02				1
+ATP metabolic process	Up	2.46e-02				1
+negative regulation of T cell activation	Up	2.46e-02				1
+mitotic cell cycle	Up	2.54e-02				1
+negative regulation of immune response	Up	2.55e-02				1
+negative regulation of molecular function	Up	2.57e-02				1
+regulation of viral life cycle	Up	2.60e-02				1
+cilium movement	Down	2.70e-02				1
+cardiac muscle contraction	Down	2.76e-02				1
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	Down	2.91e-02				1
+membrane repolarization	Down	2.91e-02				1
+regulatory ncRNA-mediated post-transcriptional gene silencing	Down	3.12e-02				1
+transmembrane transport	Down	3.23e-02				1
+neurotransmitter reuptake	Down	3.23e-02				1
+extracellular matrix organization	Up	3.36e-02				1
+extracellular structure organization	Up	3.51e-02				1
+positive regulation of T cell mediated cytotoxicity	Up	3.51e-02				1
+pyroptotic inflammatory response	Up	3.51e-02				1
+detection of visible light	Down	3.55e-02				1
+miRNA-mediated post-transcriptional gene silencing	Down	3.55e-02				1
+positive regulation of release of cytochrome c from mitochondria	Up	3.56e-02				1
+monoatomic ion transport	Down	3.67e-02				1
+cell cycle	Up	3.68e-02				1
+regulation of release of cytochrome c from mitochondria	Up	3.68e-02				1
+chromosome segregation	Up	3.68e-02				1
+endothelial cell migration	Up	3.68e-02				1
+positive regulation of systemic arterial blood pressure	Up	3.68e-02				1
+neutrophil extravasation	Up	3.68e-02				1
+regulation of metallopeptidase activity	Up	3.68e-02				1
+electron transport chain	Up	3.78e-02				1
+inorganic cation transmembrane transport	Down	3.86e-02				1
+spliceosomal tri-snRNP complex assembly	Down	3.86e-02				1
+action potential	Down	3.86e-02				1
+antigen processing and presentation of exogenous antigen	Up	3.90e-02				1
+negative regulation of response to cytokine stimulus	Up	4.00e-02				1
+purine nucleoside triphosphate metabolic process	Up	4.03e-02				1
+nuclear division	Up	4.03e-02				1
+negative regulation of type I interferon-mediated signaling pathway	Up	4.18e-02				1
+purine ribonucleotide biosynthetic process	Up	4.18e-02				1
+protein processing	Up	4.41e-02				1
+intracellular receptor signaling pathway	Up	4.63e-02				1
+intermediate filament organization	Up	4.63e-02				1
+regulation of type I interferon-mediated signaling pathway	Up	4.63e-02				1
+regulation of protein maturation	Up	4.63e-02				1
+antigen processing and presentation of exogenous peptide antigen	Up	4.97e-02				1
+detection of biotic stimulus	Up	4.97e-02				1
+chromatin remodeling	Down		1.80e-17			1
+chromatin organization	Down		3.93e-15			1
+RNA processing	Down		9.07e-15			1
+epigenetic regulation of gene expression	Down		2.09e-09			1
+telomere organization	Down		1.38e-08			1
+response to chemical	Up		1.75e-08			1
+animal organ morphogenesis	Up		1.31e-07			1
+morphogenesis of an epithelium	Up		1.39e-07			1
+cell surface receptor signaling pathway	Up		1.87e-07			1
+regulation of response to stimulus	Up		1.87e-07			1
+tube development	Up		1.92e-07			1
+protein localization to chromosome	Down		2.83e-07			1
+signal transduction	Up		2.91e-07			1
+negative regulation of biological process	Up		2.91e-07			1
+tube morphogenesis	Up		2.91e-07			1
+regulation of cell adhesion	Up		3.36e-07			1
+regulation of cell communication	Up		4.35e-07			1
+anatomical structure formation involved in morphogenesis	Up		5.12e-07			1
+positive regulation of response to stimulus	Up		5.12e-07			1
+epithelium development	Up		5.12e-07			1
+cell differentiation	Up		5.12e-07			1
+cellular developmental process	Up		5.12e-07			1
+tissue morphogenesis	Up		5.12e-07			1
+mesonephros development	Up		5.54e-07			1
+cellular response to chemical stimulus	Up		7.35e-07			1
+negative regulation of multicellular organismal process	Up		9.31e-07			1
+anatomical structure morphogenesis	Up		9.46e-07			1
+protein-containing complex assembly	Down		1.23e-06			1
+system development	Up		1.41e-06			1
+regulation of signaling	Up		1.41e-06			1
+negative regulation of cellular process	Up		1.41e-06			1
+regulation of signal transduction	Up		1.46e-06			1
+multicellular organism development	Up		1.68e-06			1
+cell death	Up		1.69e-06			1
+cell adhesion	Up		1.94e-06			1
+gland development	Up		1.94e-06			1
+tube formation	Up		2.05e-06			1
+regulation of anatomical structure morphogenesis	Up		2.08e-06			1
+ureteric bud development	Up		2.24e-06			1
+mesonephric epithelium development	Up		2.44e-06			1
+mesonephric tubule development	Up		2.44e-06			1
+kidney epithelium development	Up		2.47e-06			1
+anatomical structure development	Up		3.21e-06			1
+response to oxygen-containing compound	Up		3.21e-06			1
+apoptotic process	Up		3.21e-06			1
+programmed cell death	Up		3.21e-06			1
+negative regulation of apoptotic process	Up		4.07e-06			1
+cell surface receptor protein tyrosine kinase signaling pathway	Up		4.07e-06			1
+cytokine-mediated signaling pathway	Up		4.26e-06			1
+regulation of developmental process	Up		4.65e-06			1
+regulation of programmed cell death	Up		4.93e-06			1
+cellular response to oxygen-containing compound	Up		5.14e-06			1
+regulation of apoptotic process	Up		6.17e-06			1
+renal system development	Up		7.11e-06			1
+negative regulation of programmed cell death	Up		8.12e-06			1
+leukocyte activation	Up		1.03e-05			1
+heterochromatin formation	Down		1.04e-05			1
+intracellular signal transduction	Up		1.04e-05			1
+regulation of animal organ morphogenesis	Up		1.19e-05			1
+enzyme-linked receptor protein signaling pathway	Up		1.24e-05			1
+growth	Up		1.24e-05			1
+animal organ development	Up		1.29e-05			1
+negative regulation of cytokine production	Up		1.58e-05			1
+regulation of growth	Up		1.65e-05			1
+nephron development	Up		2.05e-05			1
+regulation of cell-cell adhesion	Up		2.08e-05			1
+cell fate commitment	Up		2.12e-05			1
+kidney development	Up		2.12e-05			1
+regulation of multicellular organismal development	Up		2.21e-05			1
+epithelial tube formation	Up		2.76e-05			1
+positive regulation of metabolic process	Up		2.76e-05			1
+negative regulation of macromolecule metabolic process	Up		2.81e-05			1
+epithelial tube morphogenesis	Up		2.83e-05			1
+positive regulation of biosynthetic process	Up		2.89e-05			1
+cell-cell adhesion	Up		3.09e-05			1
+cell motility	Up		3.17e-05			1
+chromosome organization	Down		3.76e-05			1
+positive regulation of cell communication	Up		3.78e-05			1
+protein-containing complex organization	Down		4.04e-05			1
+positive regulation of signaling	Up		4.12e-05			1
+circulatory system development	Up		4.16e-05			1
+epithelial cell proliferation	Up		4.29e-05			1
+positive regulation of cell population proliferation	Up		4.33e-05			1
+embryonic morphogenesis	Up		4.66e-05			1
+positive regulation of type 2 immune response	Up		5.24e-05			1
+ureter development	Up		5.24e-05			1
+fat cell differentiation	Up		5.24e-05			1
+embryo development ending in birth or egg hatching	Up		5.26e-05			1
+response to endogenous stimulus	Up		5.26e-05			1
+negative regulation of macromolecule biosynthetic process	Up		5.47e-05			1
+positive regulation of cellular metabolic process	Up		5.69e-05			1
+positive regulation of animal organ morphogenesis	Up		5.86e-05			1
+vasculature development	Up		5.91e-05			1
+nephron epithelium development	Up		5.93e-05			1
+regulation of cell differentiation	Up		6.62e-05			1
+negative regulation of cellular metabolic process	Up		6.84e-05			1
+positive regulation of signal transduction	Up		7.42e-05			1
+negative regulation of cell communication	Up		7.42e-05			1
+negative regulation of metabolic process	Up		7.42e-05			1
+positive regulation of cell development	Up		7.42e-05			1
+negative regulation of signaling	Up		7.53e-05			1
+negative regulation of gene expression, epigenetic	Down		8.09e-05			1
+negative regulation of cellular biosynthetic process	Up		8.37e-05			1
+blood vessel development	Up		8.37e-05			1
+regulation of T cell mediated immunity	Up		8.47e-05			1
+nervous system development	Up		8.47e-05			1
+cellular response to lipid	Up		9.27e-05			1
+odontogenesis	Up		9.54e-05			1
+T cell cytokine production	Up		9.62e-05			1
+regulation of T cell cytokine production	Up		9.62e-05			1
+gland morphogenesis	Up		1.01e-04			1
+negative regulation of biosynthetic process	Up		1.07e-04			1
+regulation of kidney development	Up		1.14e-04			1
+cell activation	Up		1.18e-04			1
+negative regulation of myeloid cell differentiation	Down		1.73e-04			1
+epithelial cell differentiation	Up		1.81e-04			1
+negative regulation of response to stimulus	Up		1.83e-04			1
+type 2 immune response	Up		1.92e-04			1
+positive regulation of interleukin-5 production	Up		2.02e-04			1
+cellular response to endogenous stimulus	Up		2.05e-04			1
+negative regulation of signal transduction	Up		2.23e-04			1
+negative regulation of DNA-templated transcription	Up		2.39e-04			1
+positive regulation of cell adhesion	Up		2.39e-04			1
+chordate embryonic development	Up		2.42e-04			1
+regulation of leukocyte activation	Up		2.65e-04			1
+intracellular signaling cassette	Up		2.73e-04			1
+morphogenesis of embryonic epithelium	Up		2.73e-04			1
+regulation of adaptive immune response	Up		2.79e-04			1
+negative regulation of RNA biosynthetic process	Up		2.91e-04			1
+regulation of cell activation	Up		2.91e-04			1
+stem cell differentiation	Up		3.24e-04			1
+camera-type eye development	Up		3.26e-04			1
+mesonephric tubule morphogenesis	Up		3.45e-04			1
+apoptotic signaling pathway	Up		3.47e-04			1
+embryonic epithelial tube formation	Up		3.47e-04			1
+regulation of production of molecular mediator of immune response	Up		3.47e-04			1
+chromosome condensation	Down		3.72e-04			1
+positive regulation of DNA-templated transcription	Up		3.77e-04			1
+positive regulation of cell migration	Up		3.79e-04			1
+morphogenesis of a branching epithelium	Up		3.83e-04			1
+positive regulation of macromolecule metabolic process	Up		3.85e-04			1
+positive regulation of RNA biosynthetic process	Up		3.86e-04			1
+type B pancreatic cell proliferation	Up		4.05e-04			1
+lymphocyte activation	Up		4.26e-04			1
+embryo development	Up		4.26e-04			1
+response to hormone	Up		4.29e-04			1
+ossification	Up		4.29e-04			1
+positive regulation of RNA metabolic process	Up		4.69e-04			1
+liver morphogenesis	Up		4.84e-04			1
+regulation of developmental growth	Up		4.84e-04			1
+negative regulation of developmental process	Up		5.13e-04			1
+interleukin-5 production	Up		5.20e-04			1
+regulation of interleukin-5 production	Up		5.20e-04			1
+renal tubule development	Up		5.45e-04			1
+response to nitrogen compound	Up		5.57e-04			1
+negative regulation of RNA metabolic process	Up		5.57e-04			1
+regulation of type 2 immune response	Up		5.64e-04			1
+positive regulation of T cell mediated immunity	Up		5.79e-04			1
+nephron tubule morphogenesis	Up		5.79e-04			1
+cellular response to biotic stimulus	Up		5.80e-04			1
+positive regulation of cell motility	Up		5.80e-04			1
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	Up		5.94e-04			1
+positive regulation of production of molecular mediator of immune response	Up		6.26e-04			1
+positive regulation of immune effector process	Up		6.58e-04			1
+connective tissue development	Up		6.70e-04			1
+nephron tubule formation	Up		6.72e-04			1
+nephron epithelium morphogenesis	Up		6.83e-04			1
+regulation of fat cell differentiation	Up		7.01e-04			1
+antimicrobial humoral immune response mediated by antimicrobial peptide	Down		7.14e-04			1
+renal tubule morphogenesis	Up		7.45e-04			1
+cellular response to molecule of bacterial origin	Up		7.45e-04			1
+positive regulation of locomotion	Up		7.69e-04			1
+morphogenesis of a branching structure	Up		7.77e-04			1
+positive regulation of adaptive immune response	Up		7.84e-04			1
+regulation of immune effector process	Up		7.92e-04			1
+nephron morphogenesis	Up		8.00e-04			1
+mononuclear cell differentiation	Up		8.48e-04			1
+developmental growth	Up		8.48e-04			1
+response to retinoic acid	Up		8.48e-04			1
+positive regulation of transcription by RNA polymerase II	Up		8.53e-04			1
+regulation of macromolecule biosynthetic process	Up		8.54e-04			1
+epidermis morphogenesis	Up		8.63e-04			1
+homeostatic process	Up		8.69e-04			1
+metanephros development	Up		9.13e-04			1
+outflow tract morphogenesis	Up		9.13e-04			1
+regulation of cellular biosynthetic process	Up		9.13e-04			1
+regulation of biosynthetic process	Up		9.13e-04			1
+regulation of vasculature development	Up		9.13e-04			1
+leukocyte differentiation	Up		9.20e-04			1
+cellular response to fibroblast growth factor stimulus	Up		9.41e-04			1
+cell-cell adhesion via plasma-membrane adhesion molecules	Up		9.60e-04			1
+regulation of biological quality	Up		9.67e-04			1
+canonical NF-kappaB signal transduction	Up		9.69e-04			1
+regulation of fibroblast growth factor receptor signaling pathway	Up		9.69e-04			1
+regulation of gene expression	Up		9.81e-04			1
+eye development	Up		9.81e-04			1
+adaptive immune response	Up		9.92e-04			1
+regulation of cell development	Up		9.97e-04			1
+negative regulation of transcription by RNA polymerase II	Up		9.97e-04			1
+response to molecule of bacterial origin	Up		1.01e-03			1
+positive regulation of cell-matrix adhesion	Up		1.02e-03			1
+visual system development	Up		1.02e-03			1
+regulation of miRNA transcription	Up		1.02e-03			1
+miRNA transcription	Up		1.11e-03			1
+positive regulation of cytokine production involved in immune response	Up		1.20e-03			1
+odontogenesis of dentin-containing tooth	Up		1.20e-03			1
+sensory system development	Up		1.23e-03			1
+negative regulation of nucleobase-containing compound metabolic process	Up		1.24e-03			1
+skeletal system morphogenesis	Up		1.24e-03			1
+response to fibroblast growth factor	Up		1.24e-03			1
+heart morphogenesis	Up		1.24e-03			1
+negative regulation of fibroblast growth factor receptor signaling pathway	Up		1.24e-03			1
+regulation of intracellular signal transduction	Up		1.30e-03			1
+production of molecular mediator of immune response	Up		1.34e-03			1
+mesenchymal cell differentiation	Up		1.34e-03			1
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	Up		1.41e-03			1
+cellular response to growth factor stimulus	Up		1.43e-03			1
+blood vessel morphogenesis	Up		1.43e-03			1
+respiratory system development	Up		1.44e-03			1
+positive regulation of leukocyte activation	Up		1.48e-03			1
+regulation of epithelial cell proliferation	Up		1.48e-03			1
+regulation of canonical NF-kappaB signal transduction	Up		1.54e-03			1
+regulation of cytokine production involved in immune response	Up		1.56e-03			1
+nerve development	Up		1.57e-03			1
+branching morphogenesis of an epithelial tube	Up		1.58e-03			1
+cytokine production involved in immune response	Up		1.65e-03			1
+leukocyte migration	Up		1.66e-03			1
+angiogenesis	Up		1.68e-03			1
+T cell activation	Up		1.68e-03			1
+acute inflammatory response	Up		1.80e-03			1
+positive regulation of interleukin-4 production	Up		1.83e-03			1
+regulation of cell-matrix adhesion	Up		1.84e-03			1
+mesenchyme development	Up		1.84e-03			1
+ureteric bud morphogenesis	Up		1.90e-03			1
+cellular response to lipopolysaccharide	Up		2.05e-03			1
+negative regulation of endopeptidase activity	Up		2.05e-03			1
+cellular response to acid chemical	Up		2.05e-03			1
+muscle tissue development	Up		2.05e-03			1
+cellular response to retinoic acid	Up		2.05e-03			1
+response to lipopolysaccharide	Up		2.07e-03			1
+liver development	Up		2.08e-03			1
+response to interferon-alpha	Up		2.16e-03			1
+nephron tubule development	Up		2.17e-03			1
+cartilage development	Up		2.19e-03			1
+positive regulation of cell activation	Up		2.24e-03			1
+embryonic skeletal system development	Up		2.25e-03			1
+hepaticobiliary system development	Up		2.27e-03			1
+bone morphogenesis	Up		2.29e-03			1
+kidney morphogenesis	Up		2.29e-03			1
+positive regulation of response to external stimulus	Up		2.32e-03			1
+response to growth factor	Up		2.33e-03			1
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	Up		2.35e-03			1
+neurogenesis	Up		2.42e-03			1
+regulation of fatty acid metabolic process	Up		2.42e-03			1
+canonical Wnt signaling pathway	Up		2.43e-03			1
+positive regulation of cell-cell adhesion	Up		2.50e-03			1
+regulation of endopeptidase activity	Up		2.50e-03			1
+regulation of miRNA metabolic process	Up		2.56e-03			1
+positive regulation of nervous system development	Up		2.57e-03			1
+negative regulation of gene expression	Up		2.57e-03			1
+bone development	Up		2.71e-03			1
+glomerulus development	Up		2.74e-03			1
+apoptotic process involved in morphogenesis	Up		2.94e-03			1
+cellular response to nitrogen compound	Up		2.97e-03			1
+regulation of extrinsic apoptotic signaling pathway in absence of ligand	Up		2.97e-03			1
+hematopoietic progenitor cell differentiation	Up		3.01e-03			1
+interleukin-1 production	Up		3.05e-03			1
+regulation of interleukin-1 production	Up		3.05e-03			1
+gonad development	Up		3.15e-03			1
+positive regulation of neurogenesis	Up		3.15e-03			1
+hemopoiesis	Up		3.15e-03			1
+immune effector process	Up		3.21e-03			1
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	Up		3.25e-03			1
+cell development	Up		3.28e-03			1
+regulation of lymphocyte activation	Up		3.28e-03			1
+positive regulation of T cell cytokine production	Up		3.32e-03			1
+developmental induction	Up		3.32e-03			1
+hepatocyte proliferation	Up		3.32e-03			1
+epithelial cell proliferation involved in liver morphogenesis	Up		3.32e-03			1
+development of primary sexual characteristics	Up		3.32e-03			1
+antibacterial humoral response	Down		3.36e-03			1
+regulation of cysteine-type endopeptidase activity	Up		3.53e-03			1
+interleukin-10 production	Up		3.53e-03			1
+regulation of interleukin-10 production	Up		3.53e-03			1
+production of molecular mediator involved in inflammatory response	Up		3.61e-03			1
+positive regulation of nucleobase-containing compound metabolic process	Up		3.65e-03			1
+regulation of lymphocyte mediated immunity	Up		3.65e-03			1
+tissue remodeling	Up		3.82e-03			1
+response to abiotic stimulus	Up		3.82e-03			1
+interleukin-4 production	Up		3.82e-03			1
+regulation of interleukin-4 production	Up		3.82e-03			1
+positive regulation of leukocyte mediated immunity	Up		3.90e-03			1
+response to organic cyclic compound	Up		3.97e-03			1
+regulation of nervous system development	Up		3.97e-03			1
+tissue homeostasis	Up		4.12e-03			1
+anatomical structure homeostasis	Up		4.12e-03			1
+sensory organ development	Up		4.27e-03			1
+regulation of cellular ketone metabolic process	Up		4.27e-03			1
+regulation of neuroinflammatory response	Up		4.37e-03			1
+regulation of cell-substrate adhesion	Up		4.39e-03			1
+fibroblast growth factor receptor signaling pathway	Up		4.39e-03			1
+leukocyte proliferation	Up		4.58e-03			1
+negative regulation of cysteine-type endopeptidase activity	Up		4.62e-03			1
+cardiocyte differentiation	Up		4.63e-03			1
+leukocyte mediated immunity	Up		4.63e-03			1
+regulation of type B pancreatic cell proliferation	Up		4.63e-03			1
+macrophage proliferation	Up		4.63e-03			1
+regulation of postsynaptic density assembly	Up		4.63e-03			1
+multicellular organismal-level homeostasis	Up		4.67e-03			1
+positive regulation of intracellular signal transduction	Up		4.80e-03			1
+hair follicle morphogenesis	Up		4.92e-03			1
+regulation of cellular metabolic process	Up		5.04e-03			1
+regulation of epithelial cell differentiation	Up		5.04e-03			1
+cellular ketone metabolic process	Up		5.14e-03			1
+response to cAMP	Up		5.29e-03			1
+developmental growth involved in morphogenesis	Up		5.32e-03			1
+skeletal system development	Up		5.36e-03			1
+lymphocyte mediated immunity	Up		5.36e-03			1
+tumor necrosis factor production	Up		5.47e-03			1
+regulation of tumor necrosis factor production	Up		5.47e-03			1
+endochondral ossification	Up		5.52e-03			1
+replacement ossification	Up		5.52e-03			1
+interleukin-1 beta production	Up		5.56e-03			1
+regulation of interleukin-1 beta production	Up		5.56e-03			1
+regulation of cellular response to growth factor stimulus	Up		5.56e-03			1
+type II interferon production	Up		5.56e-03			1
+regulation of type II interferon production	Up		5.56e-03			1
+positive regulation of interleukin-13 production	Up		5.69e-03			1
+negative regulation of multicellular organism growth	Up		5.69e-03			1
+regulation of apoptotic process involved in morphogenesis	Up		5.69e-03			1
+regulation of apoptotic process involved in development	Up		5.69e-03			1
+muscle structure development	Up		5.73e-03			1
+cellular response to hormone stimulus	Up		5.84e-03			1
+regulation of cysteine-type endopeptidase activity involved in apoptotic process	Up		6.07e-03			1
+tumor necrosis factor superfamily cytokine production	Up		6.07e-03			1
+regulation of tumor necrosis factor superfamily cytokine production	Up		6.07e-03			1
+regulation of leukocyte mediated immunity	Up		6.09e-03			1
+negative regulation of interleukin-1 production	Up		6.09e-03			1
+cellular response to amino acid stimulus	Up		6.16e-03			1
+negative regulation of fat cell differentiation	Up		6.16e-03			1
+cell-matrix adhesion	Up		6.27e-03			1
+miRNA metabolic process	Up		6.36e-03			1
+humoral immune response	Up		6.37e-03			1
+gastrulation	Up		6.37e-03			1
+regulation of transport	Up		6.49e-03			1
+columnar/cuboidal epithelial cell differentiation	Up		6.66e-03			1
+regulation of leukocyte proliferation	Up		6.66e-03			1
+metanephric nephron development	Up		6.81e-03			1
+positive regulation of fatty acid oxidation	Up		6.97e-03			1
+endocrine system development	Up		6.99e-03			1
+osteoblast differentiation	Up		7.10e-03			1
+positive regulation of lymphocyte mediated immunity	Up		7.34e-03			1
+antimicrobial humoral response	Down		7.52e-03			1
+generation of neurons	Up		7.66e-03			1
+response to organophosphorus	Up		7.70e-03			1
+glial cell proliferation	Up		7.75e-03			1
+endochondral bone morphogenesis	Up		7.75e-03			1
+positive regulation of leukocyte chemotaxis	Up		7.76e-03			1
+mesoderm development	Up		8.41e-03			1
+embryonic skeletal joint development	Up		8.41e-03			1
+regulation of postsynaptic specialization assembly	Up		8.41e-03			1
+regulation of postsynaptic density organization	Up		8.41e-03			1
+positive regulation of neuroblast proliferation	Up		8.41e-03			1
+autonomic nervous system development	Up		8.41e-03			1
+negative regulation of signal transduction in absence of ligand	Up		8.41e-03			1
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	Up		8.41e-03			1
+cellular response to organic cyclic compound	Up		8.47e-03			1
+striated muscle tissue development	Up		8.77e-03			1
+negative regulation of DNA recombination	Down		8.83e-03			1
+cell growth	Up		9.10e-03			1
+glycoprotein metabolic process	Up		9.19e-03			1
+system process	Up		9.39e-03			1
+neural crest cell differentiation	Up		9.64e-03			1
+macrophage activation	Up		9.64e-03			1
+myeloid leukocyte activation	Up		9.92e-03			1
+lymphangiogenesis	Up		9.94e-03			1
+interleukin-13 production	Up		9.94e-03			1
+regulation of interleukin-13 production	Up		9.94e-03			1
+renal vesicle development	Up		9.94e-03			1
+regulation of localization	Up		9.94e-03			1
+microglial cell activation	Up		1.01e-02			1
+homeostasis of number of cells within a tissue	Up		1.01e-02			1
+apoptotic process involved in development	Up		1.01e-02			1
+positive regulation of morphogenesis of an epithelium	Up		1.01e-02			1
+sex differentiation	Up		1.03e-02			1
+response to acid chemical	Up		1.03e-02			1
+muscle cell proliferation	Up		1.04e-02			1
+animal organ formation	Up		1.08e-02			1
+cell killing	Up		1.10e-02			1
+positive regulation of chemotaxis	Up		1.13e-02			1
+neuron differentiation	Up		1.14e-02			1
+T cell differentiation	Up		1.14e-02			1
+glandular epithelial cell differentiation	Up		1.15e-02			1
+leukocyte cell-cell adhesion	Up		1.15e-02			1
+regulation of odontogenesis	Up		1.15e-02			1
+T-helper 2 cell differentiation	Up		1.15e-02			1
+negative regulation of natural killer cell mediated cytotoxicity	Up		1.15e-02			1
+positive regulation of branching involved in ureteric bud morphogenesis	Up		1.15e-02			1
+regulation of excitatory synapse assembly	Up		1.15e-02			1
+regulation of mononuclear cell proliferation	Up		1.17e-02			1
+mammary gland development	Up		1.21e-02			1
+positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	Up		1.21e-02			1
+leukocyte activation involved in inflammatory response	Up		1.21e-02			1
+negative regulation of type II interferon production	Up		1.21e-02			1
+macrophage differentiation	Up		1.21e-02			1
+signal transduction in absence of ligand	Up		1.21e-02			1
+extrinsic apoptotic signaling pathway in absence of ligand	Up		1.21e-02			1
+lymphocyte differentiation	Up		1.27e-02			1
+antimicrobial humoral response	Up		1.27e-02			1
+hematopoietic or lymphoid organ development	Up		1.27e-02			1
+response to oxygen levels	Up		1.28e-02			1
+neuroinflammatory response	Up		1.29e-02			1
+response to wounding	Up		1.29e-02			1
+defense response to Gram-positive bacterium	Down		1.32e-02			1
+negative regulation of natural killer cell mediated immunity	Up		1.33e-02			1
+response to leptin	Up		1.33e-02			1
+cell-substrate adhesion	Up		1.33e-02			1
+regulation of leukocyte cell-cell adhesion	Up		1.33e-02			1
+regulation of apoptotic signaling pathway	Up		1.37e-02			1
+regulation of cell growth	Up		1.40e-02			1
+response to cold	Up		1.43e-02			1
+cardiac muscle tissue development	Up		1.43e-02			1
+cell chemotaxis	Up		1.44e-02			1
+regulation of gliogenesis	Up		1.46e-02			1
+cell maturation	Up		1.47e-02			1
+regulation of small GTPase mediated signal transduction	Up		1.49e-02			1
+positive regulation of programmed cell death	Up		1.51e-02			1
+negative regulation of growth	Up		1.51e-02			1
+cell-cell signaling	Up		1.52e-02			1
+Wnt signaling pathway	Up		1.52e-02			1
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	Up		1.52e-02			1
+postsynaptic density assembly	Up		1.52e-02			1
+positive regulation of leukocyte migration	Up		1.56e-02			1
+interleukin-6 production	Up		1.56e-02			1
+regulation of interleukin-6 production	Up		1.56e-02			1
+regulation of myeloid cell differentiation	Down		1.58e-02			1
+positive regulation of lymphocyte activation	Up		1.59e-02			1
+positive regulation of canonical NF-kappaB signal transduction	Up		1.59e-02			1
+appendage development	Up		1.60e-02			1
+limb development	Up		1.60e-02			1
+mononuclear cell proliferation	Up		1.61e-02			1
+cell junction organization	Up		1.62e-02			1
+molting cycle	Up		1.65e-02			1
+hair cycle	Up		1.65e-02			1
+regulation of sprouting angiogenesis	Up		1.66e-02			1
+appendage morphogenesis	Up		1.66e-02			1
+limb morphogenesis	Up		1.66e-02			1
+regulation of neurogenesis	Up		1.67e-02			1
+negative regulation of cell differentiation	Up		1.67e-02			1
+positive regulation of gliogenesis	Up		1.69e-02			1
+response to peptide hormone	Up		1.70e-02			1
+artery development	Up		1.70e-02			1
+regulation of animal organ formation	Up		1.70e-02			1
+lymph vessel morphogenesis	Up		1.70e-02			1
+middle ear morphogenesis	Up		1.70e-02			1
+negative regulation of receptor signaling pathway via JAK-STAT	Up		1.70e-02			1
+regulation of branching involved in ureteric bud morphogenesis	Up		1.70e-02			1
+reproductive structure development	Up		1.71e-02			1
+secretion by cell	Up		1.73e-02			1
+positive regulation of defense response	Up		1.75e-02			1
+interleukin-8 production	Up		1.76e-02			1
+regulation of interleukin-8 production	Up		1.76e-02			1
+multi-organism reproductive process	Up		1.84e-02			1
+reproductive system development	Up		1.84e-02			1
+regulation of small molecule metabolic process	Up		1.86e-02			1
+regulation of receptor signaling pathway via STAT	Up		1.87e-02			1
+myeloid leukocyte differentiation	Up		1.88e-02			1
+regulation of T cell mediated cytotoxicity	Up		1.89e-02			1
+leukocyte adhesion to vascular endothelial cell	Up		1.89e-02			1
+glial cell activation	Up		1.89e-02			1
+positive regulation of sprouting angiogenesis	Up		1.91e-02			1
+negative regulation of receptor signaling pathway via STAT	Up		1.91e-02			1
+cardiac muscle cell differentiation	Up		1.91e-02			1
+regulation of epithelial to mesenchymal transition	Up		2.00e-02			1
+positive regulation of binding	Up		2.00e-02			1
+negative regulation of inflammatory response	Up		2.02e-02			1
+epithelial cell differentiation involved in kidney development	Up		2.03e-02			1
+regulation of neuroblast proliferation	Up		2.03e-02			1
+multi-multicellular organism process	Up		2.06e-02			1
+negative regulation of catalytic activity	Up		2.06e-02			1
+anatomical structure maturation	Up		2.08e-02			1
+mononuclear cell migration	Up		2.12e-02			1
+negative regulation of leukocyte mediated cytotoxicity	Up		2.16e-02			1
+positive regulation of developmental growth	Up		2.16e-02			1
+heart development	Up		2.16e-02			1
+regulation of leukocyte chemotaxis	Up		2.16e-02			1
+export from cell	Up		2.16e-02			1
+immune system development	Up		2.17e-02			1
+cell junction assembly	Up		2.17e-02			1
+fatty acid metabolic process	Up		2.20e-02			1
+carboxylic acid metabolic process	Up		2.20e-02			1
+muscle cell differentiation	Up		2.24e-02			1
+embryonic organ development	Up		2.24e-02			1
+positive regulation of B cell activation	Up		2.26e-02			1
+synapse assembly	Up		2.28e-02			1
+organ growth	Up		2.28e-02			1
+leukocyte chemotaxis	Up		2.28e-02			1
+positive regulation of growth	Up		2.35e-02			1
+negative regulation of cell killing	Up		2.38e-02			1
+negative regulation of interleukin-1 beta production	Up		2.38e-02			1
+CD4-positive, alpha-beta T cell activation	Up		2.42e-02			1
+response to amino acid	Up		2.42e-02			1
+chemical homeostasis	Up		2.49e-02			1
+myeloid leukocyte migration	Up		2.49e-02			1
+striated muscle hypertrophy	Up		2.49e-02			1
+regulation of cell killing	Up		2.49e-02			1
+positive regulation of apoptotic process	Up		2.55e-02			1
+cranial nerve development	Up		2.65e-02			1
+defense response to Gram-negative bacterium	Up		2.65e-02			1
+embryonic hindlimb morphogenesis	Up		2.66e-02			1
+cellular response to interferon-beta	Up		2.66e-02			1
+chemotaxis	Up		2.66e-02			1
+taxis	Up		2.66e-02			1
+regulation of primary metabolic process	Up		2.68e-02			1
+cardiac chamber morphogenesis	Up		2.71e-02			1
+regulation of cell junction assembly	Up		2.71e-02			1
+central nervous system development	Up		2.71e-02			1
+muscle hypertrophy	Up		2.72e-02			1
+regulation of organ growth	Up		2.72e-02			1
+negative regulation of cell motility	Up		2.72e-02			1
+response to nutrient	Up		2.75e-02			1
+regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	Up		2.76e-02			1
+oxoacid metabolic process	Up		2.78e-02			1
+T cell mediated cytotoxicity	Up		2.79e-02			1
+regulation of lymphocyte proliferation	Up		2.84e-02			1
+chemokine production	Up		2.84e-02			1
+regulation of chemokine production	Up		2.84e-02			1
+regulation of B cell activation	Up		2.88e-02			1
+sensory organ morphogenesis	Up		2.88e-02			1
+lymph vessel development	Up		2.88e-02			1
+animal organ maturation	Up		2.88e-02			1
+glomerular epithelium development	Up		2.88e-02			1
+postsynaptic specialization assembly	Up		2.88e-02			1
+monocarboxylic acid metabolic process	Up		2.88e-02			1
+multicellular organism growth	Up		2.89e-02			1
+adaptive thermogenesis	Up		2.89e-02			1
+cytokine production involved in inflammatory response	Up		2.93e-02			1
+regulation of cytokine production involved in inflammatory response	Up		2.93e-02			1
+hair follicle development	Up		2.94e-02			1
+response to vitamin	Up		2.94e-02			1
+organic acid metabolic process	Up		2.94e-02			1
+positive regulation of cell-substrate adhesion	Up		2.96e-02			1
+humoral immune response	Down		2.98e-02			1
+small GTPase-mediated signal transduction	Up		3.05e-02			1
+embryonic skeletal system morphogenesis	Up		3.08e-02			1
+ovarian follicle development	Up		3.11e-02			1
+branching involved in ureteric bud morphogenesis	Up		3.11e-02			1
+cell differentiation involved in kidney development	Up		3.11e-02			1
+regulation of leukocyte adhesion to vascular endothelial cell	Up		3.16e-02			1
+negative regulation of endothelial cell apoptotic process	Up		3.16e-02			1
+response to temperature stimulus	Up		3.16e-02			1
+regulation of leukocyte differentiation	Up		3.18e-02			1
+secretion	Up		3.18e-02			1
+cellular response to tumor necrosis factor	Up		3.18e-02			1
+muscle cell migration	Up		3.19e-02			1
+molting cycle process	Up		3.19e-02			1
+hair cycle process	Up		3.19e-02			1
+SRP-dependent cotranslational protein targeting to membrane	Down		3.22e-02			1
+positive regulation of mononuclear cell proliferation	Up		3.28e-02			1
+positive regulation of cell killing	Up		3.28e-02			1
+developmental maturation	Up		3.30e-02			1
+lymphocyte proliferation	Up		3.34e-02			1
+response to hypoxia	Up		3.36e-02			1
+female pregnancy	Up		3.42e-02			1
+pyridine nucleotide metabolic process	Up		3.42e-02			1
+nicotinamide nucleotide metabolic process	Up		3.42e-02			1
+negative regulation of protein processing	Up		3.42e-02			1
+pharyngeal system development	Up		3.42e-02			1
+negative regulation of cell-substrate adhesion	Up		3.46e-02			1
+regulation of muscle hypertrophy	Up		3.46e-02			1
+carboxylic acid biosynthetic process	Up		3.49e-02			1
+regulation of osteoblast differentiation	Up		3.49e-02			1
+synapse organization	Up		3.50e-02			1
+negative regulation of locomotion	Up		3.56e-02			1
+glycoprotein biosynthetic process	Up		3.63e-02			1
+organic acid biosynthetic process	Up		3.63e-02			1
+positive regulation of miRNA transcription	Up		3.65e-02			1
+vascular associated smooth muscle cell differentiation	Up		3.71e-02			1
+angiogenesis involved in wound healing	Up		3.71e-02			1
+epithelial tube branching involved in lung morphogenesis	Up		3.71e-02			1
+negative regulation of miRNA transcription	Up		3.71e-02			1
+cell surface receptor signaling pathway via STAT	Up		3.83e-02			1
+killing of cells of another organism	Up		3.83e-02			1
+negative regulation of canonical NF-kappaB signal transduction	Up		3.83e-02			1
+disruption of cell in another organism	Up		3.83e-02			1
+positive regulation of neural precursor cell proliferation	Up		3.83e-02			1
+CD4-positive, alpha-beta T cell differentiation	Up		3.89e-02			1
+neuron migration	Up		3.90e-02			1
+response to purine-containing compound	Up		3.96e-02			1
+temperature homeostasis	Up		4.00e-02			1
+pyridine-containing compound metabolic process	Up		4.00e-02			1
+chondrocyte development	Up		4.00e-02			1
+positive regulation of interleukin-10 production	Up		4.00e-02			1
+embryonic forelimb morphogenesis	Up		4.00e-02			1
+hindlimb morphogenesis	Up		4.00e-02			1
+cell fate commitment involved in formation of primary germ layer	Up		4.00e-02			1
+negative regulation of protein maturation	Up		4.00e-02			1
+non-proteinogenic amino acid metabolic process	Up		4.02e-02			1
+positive regulation of cold-induced thermogenesis	Up		4.02e-02			1
+muscle adaptation	Up		4.19e-02			1
+sprouting angiogenesis	Up		4.19e-02			1
+male gonad development	Up		4.19e-02			1
+positive regulation of transport	Up		4.19e-02			1
+pattern specification process	Up		4.19e-02			1
+regulation of morphogenesis of an epithelium	Up		4.21e-02			1
+striated muscle cell differentiation	Up		4.24e-02			1
+response to decreased oxygen levels	Up		4.24e-02			1
+development of primary male sexual characteristics	Up		4.28e-02			1
+specification of animal organ identity	Up		4.28e-02			1
+stem cell division	Up		4.28e-02			1
+osteoblast proliferation	Up		4.28e-02			1
+cartilage development involved in endochondral bone morphogenesis	Up		4.28e-02			1
+excitatory synapse assembly	Up		4.28e-02			1
+negative regulation of miRNA metabolic process	Up		4.28e-02			1
+leukocyte activation involved in immune response	Up		4.29e-02			1
+disruption of anatomical structure in another organism	Up		4.42e-02			1
+negative regulation of extrinsic apoptotic signaling pathway	Up		4.49e-02			1
+sulfur compound biosynthetic process	Up		4.50e-02			1
+diterpenoid biosynthetic process	Up		4.50e-02			1
+negative regulation of leukocyte degranulation	Up		4.50e-02			1
+eosinophil chemotaxis	Up		4.50e-02			1
+embryonic skeletal joint morphogenesis	Up		4.50e-02			1
+bone trabecula formation	Up		4.50e-02			1
+nephric duct morphogenesis	Up		4.50e-02			1
+regulation of protein localization to early endosome	Up		4.50e-02			1
+positive regulation of protein localization to early endosome	Up		4.50e-02			1
+positive regulation of secretion by cell	Up		4.55e-02			1
+regulation of homotypic cell-cell adhesion	Up		4.57e-02			1
+regulation of natural killer cell mediated cytotoxicity	Up		4.57e-02			1
+regulation of fatty acid oxidation	Up		4.57e-02			1
+cellular response to interleukin-4	Up		4.57e-02			1
+liver regeneration	Up		4.57e-02			1
+gliogenesis	Up		4.57e-02			1
+transforming growth factor beta receptor superfamily signaling pathway	Up		4.57e-02			1
+positive regulation of chemokine production	Up		4.57e-02			1
+cell activation involved in immune response	Up		4.60e-02			1
+positive regulation of leukocyte proliferation	Up		4.62e-02			1
+positive regulation of epithelial cell proliferation	Up		4.68e-02			1
+regionalization	Up		4.76e-02			1
+response to leukemia inhibitory factor	Up		4.76e-02			1
+negative regulation of cell migration	Up		4.79e-02			1
+regulation of smooth muscle cell migration	Up		4.79e-02			1
+regulation of multicellular organism growth	Up		4.79e-02			1
+bone resorption	Up		4.79e-02			1
+response to nutrient levels	Up		4.86e-02			1
+cell fate determination	Up		4.90e-02			1
+positive regulation of fatty acid metabolic process	Up		4.90e-02			1
+response to growth hormone	Up		4.90e-02			1
+response to interleukin-4	Up		4.90e-02			1
+animal organ morphogenesis	Down			1.59e-07		1
+cell adhesion	Down			1.72e-07		1
+tube development	Down			2.81e-07		1
+tube morphogenesis	Down			2.84e-07		1
+tissue development	Down			3.19e-07		1
+circulatory system development	Down			4.04e-07		1
+anatomical structure morphogenesis	Down			6.12e-07		1
+system development	Down			6.12e-07		1
+anatomical structure formation involved in morphogenesis	Down			8.62e-07		1
+regulation of multicellular organismal process	Down			1.56e-06		1
+anatomical structure development	Down			1.73e-06		1
+positive regulation of cell differentiation	Down			2.93e-06		1
+cell communication	Down			3.17e-06		1
+animal organ development	Down			3.17e-06		1
+signaling	Down			4.08e-06		1
+blood vessel development	Down			4.22e-06		1
+developmental process	Down			4.95e-06		1
+multicellular organism development	Down			5.09e-06		1
+negative regulation of multicellular organismal process	Down			7.00e-06		1
+epithelium development	Down			7.68e-06		1
+signal transduction	Down			8.16e-06		1
+vasculature development	Down			9.15e-06		1
+regulation of cell differentiation	Down			1.02e-05		1
+cell activation	Down			1.14e-05		1
+blood vessel morphogenesis	Down			1.23e-05		1
+cell migration	Down			1.23e-05		1
+positive regulation of developmental process	Down			1.61e-05		1
+regulation of cell population proliferation	Down			2.07e-05		1
+positive regulation of multicellular organismal process	Down			2.49e-05		1
+cell differentiation	Down			2.49e-05		1
+cellular developmental process	Down			2.49e-05		1
+tissue morphogenesis	Down			2.56e-05		1
+regulation of multicellular organismal development	Down			5.41e-05		1
+regulation of developmental process	Down			5.41e-05		1
+cell-cell adhesion	Down			5.41e-05		1
+muscle cell differentiation	Down			6.26e-05		1
+extracellular matrix organization	Down			7.55e-05		1
+extracellular structure organization	Down			7.72e-05		1
+external encapsulating structure organization	Down			7.72e-05		1
+cell population proliferation	Down			9.26e-05		1
+muscle structure development	Down			1.01e-04		1
+pattern specification process	Down			1.11e-04		1
+chemotaxis	Down			1.12e-04		1
+taxis	Down			1.12e-04		1
+cell motility	Down			1.19e-04		1
+intracellular signaling cassette	Down			1.30e-04		1
+negative regulation of developmental process	Down			1.50e-04		1
+negative regulation of cell population proliferation	Down			2.19e-04		1
+regulation of cell migration	Down			2.89e-04		1
+heart development	Down			3.02e-04		1
+angiogenesis	Down			3.36e-04		1
+cell-cell signaling	Down			3.83e-04		1
+cell surface receptor signaling pathway	Down			3.86e-04		1
+morphogenesis of an epithelium	Down			4.03e-04		1
+regionalization	Down			4.92e-04		1
+leukocyte activation	Down			5.47e-04		1
+mesenchyme development	Down			5.47e-04		1
+regulation of response to stimulus	Down			6.53e-04		1
+morphogenesis of a branching epithelium	Down			6.96e-04		1
+response to chemical	Down			7.01e-04		1
+locomotion	Down			7.14e-04		1
+regulation of signal transduction	Down			7.14e-04		1
+detoxification of copper ion	Up			7.31e-04		1
+stress response to copper ion	Up			7.31e-04		1
+regulation of cell adhesion	Down			7.53e-04		1
+response to copper ion	Up			8.31e-04		1
+skin development	Down			8.80e-04		1
+regulation of cell motility	Down			9.51e-04		1
+positive regulation of locomotion	Down			9.51e-04		1
+regulation of cell communication	Down			9.96e-04		1
+regulation of locomotion	Down			1.00e-03		1
+positive regulation of cell motility	Down			1.42e-03		1
+embryonic morphogenesis	Down			1.59e-03		1
+morphogenesis of a branching structure	Down			1.59e-03		1
+regulation of signaling	Down			1.59e-03		1
+positive regulation of cell migration	Down			1.63e-03		1
+cell fate commitment	Down			1.69e-03		1
+cardiac right ventricle morphogenesis	Down			1.71e-03		1
+cardiac septum morphogenesis	Down			1.79e-03		1
+striated muscle cell differentiation	Down			1.79e-03		1
+myoblast differentiation	Down			2.09e-03		1
+stress response to metal ion	Up			2.27e-03		1
+cellular response to copper ion	Up			2.27e-03		1
+detoxification of inorganic compound	Up			2.27e-03		1
+cellular response to zinc ion	Up			2.27e-03		1
+cardiac septum development	Down			2.28e-03		1
+negative regulation of cell differentiation	Down			2.28e-03		1
+intracellular signal transduction	Down			2.44e-03		1
+epidermis development	Down			2.55e-03		1
+import into cell	Down			2.99e-03		1
+response to external stimulus	Down			3.01e-03		1
+positive regulation of cellular process	Down			3.31e-03		1
+learning or memory	Down			3.35e-03		1
+learning	Down			3.35e-03		1
+platelet activation	Down			3.35e-03		1
+formation of primary germ layer	Down			3.77e-03		1
+cellular response to cadmium ion	Up			3.97e-03		1
+skeletal system development	Down			3.98e-03		1
+response to zinc ion	Up			4.00e-03		1
+negative regulation of myoblast differentiation	Down			4.02e-03		1
+skin epidermis development	Down			4.02e-03		1
+cell development	Down			4.06e-03		1
+positive regulation of cell communication	Down			4.17e-03		1
+embryonic organ development	Down			4.40e-03		1
+endoderm development	Down			4.70e-03		1
+regulation of animal organ morphogenesis	Down			4.70e-03		1
+negative regulation of cardiocyte differentiation	Down			5.17e-03		1
+smooth muscle cell differentiation	Down			5.29e-03		1
+cardiocyte differentiation	Down			5.86e-03		1
+regulation of myoblast differentiation	Down			5.91e-03		1
+positive regulation of cell population proliferation	Down			5.91e-03		1
+regulation of leukocyte chemotaxis	Down			5.91e-03		1
+regulation of cardiocyte differentiation	Down			6.36e-03		1
+immune system process	Down			6.42e-03		1
+connective tissue development	Down			6.65e-03		1
+regulation of leukocyte migration	Down			6.65e-03		1
+negative regulation of biological process	Down			6.68e-03		1
+positive regulation of biological process	Down			6.82e-03		1
+stem cell differentiation	Down			6.92e-03		1
+sympathetic nervous system development	Down			7.02e-03		1
+positive regulation of signaling	Down			7.06e-03		1
+leukocyte migration	Down			7.10e-03		1
+mesenchymal cell differentiation	Down			7.48e-03		1
+negative regulation of Wnt signaling pathway	Down			7.48e-03		1
+myeloid leukocyte activation	Down			7.50e-03		1
+ureteric bud development	Down			7.63e-03		1
+cell chemotaxis	Down			7.68e-03		1
+phagocytosis	Down			8.01e-03		1
+mesenchymal cell migration	Down			8.01e-03		1
+mononuclear cell migration	Down			8.01e-03		1
+kidney morphogenesis	Down			8.01e-03		1
+mesonephric epithelium development	Down			8.01e-03		1
+mesonephric tubule development	Down			8.01e-03		1
+heart morphogenesis	Down			8.60e-03		1
+gland morphogenesis	Down			8.60e-03		1
+nephron tubule development	Down			8.64e-03		1
+positive regulation of synaptic transmission, glutamatergic	Down			8.64e-03		1
+endoderm formation	Down			8.80e-03		1
+mesenchymal to epithelial transition	Down			8.80e-03		1
+lymphocyte activation	Down			8.89e-03		1
+positive regulation of cellular component biogenesis	Down			9.05e-03		1
+kidney development	Down			9.05e-03		1
+regulation of chemotaxis	Down			9.05e-03		1
+mesonephros development	Down			9.05e-03		1
+regulation of anatomical structure morphogenesis	Down			9.19e-03		1
+response to mechanical stimulus	Down			9.31e-03		1
+epithelial cell differentiation	Down			9.31e-03		1
+cartilage development	Down			9.37e-03		1
+renal tubule development	Down			9.65e-03		1
+positive regulation of signal transduction	Down			9.84e-03		1
+nervous system development	Down			9.85e-03		1
+embryo development	Down			9.85e-03		1
+lymphocyte differentiation	Down			1.01e-02		1
+cardiac chamber development	Down			1.01e-02		1
+renal system development	Down			1.01e-02		1
+collagen metabolic process	Down			1.01e-02		1
+positive regulation of nervous system development	Down			1.01e-02		1
+response to wounding	Down			1.01e-02		1
+cardiac chamber morphogenesis	Down			1.02e-02		1
+regulation of cell activation	Down			1.02e-02		1
+small GTPase-mediated signal transduction	Down			1.02e-02		1
+cognition	Down			1.03e-02		1
+kidney epithelium development	Down			1.04e-02		1
+amino sugar catabolic process	Down			1.04e-02		1
+cardiac ventricle development	Down			1.08e-02		1
+positive regulation of miRNA transcription	Down			1.10e-02		1
+regulation of immune system process	Down			1.10e-02		1
+regulation of kidney development	Down			1.10e-02		1
+regulation of cell development	Down			1.12e-02		1
+chemical synaptic transmission	Down			1.13e-02		1
+anterograde trans-synaptic signaling	Down			1.13e-02		1
+head development	Down			1.16e-02		1
+positive regulation of plasma membrane bounded cell projection assembly	Down			1.22e-02		1
+branching morphogenesis of an epithelial tube	Down			1.23e-02		1
+epithelial tube morphogenesis	Down			1.24e-02		1
+trans-synaptic signaling	Down			1.25e-02		1
+dopamine transport	Down			1.26e-02		1
+intermediate filament organization	Down			1.26e-02		1
+regulation of gliogenesis	Down			1.26e-02		1
+dopamine secretion	Down			1.26e-02		1
+positive regulation of smooth muscle cell differentiation	Down			1.26e-02		1
+nephron tubule formation	Down			1.26e-02		1
+renal vesicle development	Down			1.26e-02		1
+regulation of miRNA transcription	Down			1.26e-02		1
+cardiac ventricle morphogenesis	Down			1.26e-02		1
+muscle tissue development	Down			1.35e-02		1
+supramolecular fiber organization	Down			1.36e-02		1
+miRNA transcription	Down			1.36e-02		1
+positive regulation of protein-containing complex assembly	Down			1.36e-02		1
+gliogenesis	Down			1.36e-02		1
+epithelial cell differentiation involved in kidney development	Down			1.37e-02		1
+mesonephric tubule morphogenesis	Down			1.38e-02		1
+cardiac muscle tissue development	Down			1.41e-02		1
+molting cycle	Down			1.41e-02		1
+hair cycle	Down			1.41e-02		1
+central nervous system development	Down			1.45e-02		1
+negative regulation of cell adhesion	Down			1.47e-02		1
+coagulation	Down			1.47e-02		1
+negative regulation of cellular process	Down			1.47e-02		1
+intracellular zinc ion homeostasis	Up			1.48e-02		1
+regulation of chondrocyte differentiation	Down			1.51e-02		1
+regulation of MAPK cascade	Down			1.51e-02		1
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	Down			1.52e-02		1
+prostate gland epithelium morphogenesis	Down			1.52e-02		1
+regulation of programmed cell death	Down			1.53e-02		1
+astrocyte differentiation	Down			1.54e-02		1
+regulation of muscle cell differentiation	Down			1.58e-02		1
+cell fate determination	Down			1.58e-02		1
+autonomic nervous system development	Down			1.58e-02		1
+positive regulation of gliogenesis	Down			1.58e-02		1
+regulation of cell-cell adhesion	Down			1.58e-02		1
+response to glucocorticoid	Down			1.58e-02		1
+regulation of epithelial cell proliferation	Down			1.58e-02		1
+export from cell	Down			1.59e-02		1
+trabecula morphogenesis	Down			1.62e-02		1
+artery development	Down			1.65e-02		1
+response to lipid	Down			1.69e-02		1
+positive regulation of intracellular signal transduction	Down			1.72e-02		1
+chondrocyte differentiation	Down			1.76e-02		1
+sensory system development	Down			1.76e-02		1
+Wnt signaling pathway	Down			1.76e-02		1
+positive regulation of cell development	Down			1.78e-02		1
+metanephric nephron development	Down			1.78e-02		1
+calcium ion transmembrane import into cytosol	Down			1.78e-02		1
+ionotropic glutamate receptor signaling pathway	Down			1.78e-02		1
+prostate gland morphogenesis	Down			1.78e-02		1
+synaptic signaling	Down			1.80e-02		1
+epithelial cell proliferation	Down			1.83e-02		1
+regulation of nervous system development	Down			1.87e-02		1
+regulation of leukocyte activation	Down			1.92e-02		1
+outflow tract morphogenesis	Down			2.00e-02		1
+regulation of intracellular signal transduction	Down			2.00e-02		1
+leukocyte chemotaxis	Down			2.00e-02		1
+regulation of molecular function	Down			2.01e-02		1
+brain development	Down			2.01e-02		1
+positive regulation of transport	Down			2.01e-02		1
+positive regulation of leukocyte migration	Down			2.05e-02		1
+nephron epithelium development	Down			2.07e-02		1
+response to endogenous stimulus	Down			2.08e-02		1
+camera-type eye development	Down			2.10e-02		1
+regulation of Wnt signaling pathway	Down			2.11e-02		1
+nephron tubule morphogenesis	Down			2.11e-02		1
+positive regulation of miRNA metabolic process	Down			2.11e-02		1
+neural crest cell migration	Down			2.11e-02		1
+cell differentiation involved in kidney development	Down			2.11e-02		1
+secretion by cell	Down			2.22e-02		1
+gastrulation	Down			2.23e-02		1
+calcium ion transmembrane transport	Down			2.23e-02		1
+negative regulation of endothelial cell proliferation	Down			2.23e-02		1
+negative regulation of striated muscle cell differentiation	Down			2.23e-02		1
+artery morphogenesis	Down			2.28e-02		1
+positive regulation of cellular component organization	Down			2.31e-02		1
+negative regulation of BMP signaling pathway	Down			2.31e-02		1
+regulation of synaptic transmission, glutamatergic	Down			2.31e-02		1
+muscle cell development	Down			2.31e-02		1
+response to oxygen-containing compound	Down			2.31e-02		1
+negative regulation of cellular response to growth factor stimulus	Down			2.34e-02		1
+wound healing	Down			2.45e-02		1
+nephron epithelium morphogenesis	Down			2.45e-02		1
+neurogenesis	Down			2.50e-02		1
+collagen catabolic process	Down			2.50e-02		1
+branching involved in ureteric bud morphogenesis	Down			2.53e-02		1
+cardiac muscle cell differentiation	Down			2.53e-02		1
+behavior	Down			2.53e-02		1
+blood coagulation	Down			2.61e-02		1
+metanephros development	Down			2.61e-02		1
+renal tubule morphogenesis	Down			2.61e-02		1
+nephron morphogenesis	Down			2.61e-02		1
+regulation of catalytic activity	Down			2.61e-02		1
+enzyme-linked receptor protein signaling pathway	Down			2.62e-02		1
+mononuclear cell differentiation	Down			2.64e-02		1
+negative regulation of transcription by RNA polymerase II	Down			2.72e-02		1
+cell-cell recognition	Down			2.73e-02		1
+eye development	Down			2.75e-02		1
+hemopoiesis	Down			2.75e-02		1
+programmed cell death	Down			2.75e-02		1
+ventricular septum development	Down			2.77e-02		1
+regulation of mononuclear cell migration	Down			2.77e-02		1
+oligodendrocyte differentiation	Down			2.77e-02		1
+skeletal system morphogenesis	Down			2.77e-02		1
+cell death	Down			2.77e-02		1
+canonical Wnt signaling pathway	Down			2.77e-02		1
+regulation of apoptotic process	Down			2.77e-02		1
+outflow tract septum morphogenesis	Down			2.77e-02		1
+response to gonadotropin	Down			2.77e-02		1
+metanephric nephron morphogenesis	Down			2.77e-02		1
+glial cell differentiation	Down			2.77e-02		1
+striated muscle tissue development	Down			2.77e-02		1
+visual system development	Down			2.82e-02		1
+positive regulation of response to stimulus	Down			2.82e-02		1
+hemostasis	Down			2.86e-02		1
+regulation of miRNA metabolic process	Down			2.86e-02		1
+cellular response to cytokine stimulus	Down			2.87e-02		1
+skeletal muscle cell differentiation	Down			2.87e-02		1
+ossification	Down			2.90e-02		1
+macrophage cytokine production	Down			2.95e-02		1
+regulation of macrophage cytokine production	Down			2.95e-02		1
+response to corticosteroid	Down			2.96e-02		1
+camera-type eye morphogenesis	Down			2.97e-02		1
+apoptotic process	Down			3.00e-02		1
+neural crest cell development	Down			3.07e-02		1
+cellular response to mechanical stimulus	Down			3.07e-02		1
+eye morphogenesis	Down			3.09e-02		1
+cytokine production	Down			3.10e-02		1
+axon guidance	Down			3.14e-02		1
+cardiac atrium morphogenesis	Down			3.16e-02		1
+cellular response to leukemia inhibitory factor	Down			3.19e-02		1
+positive regulation of MAPK cascade	Down			3.20e-02		1
+regulation of peptidyl-tyrosine phosphorylation	Down			3.23e-02		1
+regulation of smooth muscle cell differentiation	Down			3.23e-02		1
+catecholamine transport	Down			3.23e-02		1
+neuron projection guidance	Down			3.23e-02		1
+cellular response to external stimulus	Down			3.23e-02		1
+MAPK cascade	Down			3.23e-02		1
+neuron differentiation	Down			3.23e-02		1
+regulation of dopamine secretion	Down			3.23e-02		1
+negative regulation of oligodendrocyte differentiation	Down			3.23e-02		1
+extracellular matrix constituent secretion	Down			3.23e-02		1
+urogenital system development	Down			3.23e-02		1
+animal organ formation	Down			3.23e-02		1
+embryonic organ morphogenesis	Down			3.25e-02		1
+generation of neurons	Down			3.39e-02		1
+positive regulation of leukocyte chemotaxis	Down			3.42e-02		1
+muscle cell proliferation	Down			3.43e-02		1
+response to growth factor	Down			3.45e-02		1
+regulation of BMP signaling pathway	Down			3.46e-02		1
+response to retinoic acid	Down			3.46e-02		1
+response to leukemia inhibitory factor	Down			3.46e-02		1
+prostate gland development	Down			3.48e-02		1
+positive regulation of chemotaxis	Down			3.52e-02		1
+negative regulation of cell communication	Down			3.56e-02		1
+positive regulation of neurogenesis	Down			3.60e-02		1
+cellular response to growth factor stimulus	Down			3.66e-02		1
+negative regulation of signaling	Down			3.71e-02		1
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	Down			3.77e-02		1
+positive regulation of epithelial cell differentiation	Down			3.77e-02		1
+muscle tissue morphogenesis	Down			3.77e-02		1
+ureteric bud morphogenesis	Down			3.77e-02		1
+negative regulation of cell-cell adhesion	Down			3.83e-02		1
+ventricular septum morphogenesis	Down			3.83e-02		1
+stem cell development	Down			3.83e-02		1
+regulation of ossification	Down			3.83e-02		1
+regulation of biological quality	Down			3.83e-02		1
+secretion	Down			3.83e-02		1
+negative regulation of epithelial cell proliferation	Down			3.83e-02		1
+leukocyte activation involved in immune response	Down			3.90e-02		1
+JNK cascade	Down			3.90e-02		1
+defense response to tumor cell	Down			3.90e-02		1
+cardioblast differentiation	Down			3.90e-02		1
+venous blood vessel development	Down			3.90e-02		1
+cellular response to gonadotropin stimulus	Down			3.90e-02		1
+vascular associated smooth muscle cell development	Down			3.90e-02		1
+metanephros morphogenesis	Down			3.90e-02		1
+catecholamine secretion	Down			3.90e-02		1
+trabecula formation	Down			3.90e-02		1
+hair follicle development	Down			4.00e-02		1
+cellular response to chemical stimulus	Down			4.01e-02		1
+response to cytokine	Down			4.04e-02		1
+cell junction assembly	Down			4.05e-02		1
+exocrine system development	Down			4.10e-02		1
+positive regulation of calcium-mediated signaling	Down			4.10e-02		1
+negative regulation of protein modification by small protein conjugation or removal	Down			4.20e-02		1
+vasculogenesis	Down			4.22e-02		1
+regulation of phagocytosis	Down			4.22e-02		1
+regulation of biomineral tissue development	Down			4.22e-02		1
+regulation of stem cell differentiation	Down			4.22e-02		1
+negative regulation of neuron differentiation	Down			4.22e-02		1
+regulation of cartilage development	Down			4.22e-02		1
+cell activation involved in immune response	Down			4.32e-02		1
+reproductive structure development	Down			4.32e-02		1
+myeloid leukocyte migration	Down			4.32e-02		1
+positive regulation of neuroblast proliferation	Down			4.38e-02		1
+embryonic eye morphogenesis	Down			4.38e-02		1
+cell fate commitment involved in formation of primary germ layer	Down			4.38e-02		1
+negative regulation of signal transduction	Down			4.38e-02		1
+endocardial cushion development	Down			4.42e-02		1
+negative chemotaxis	Down			4.42e-02		1
+collagen fibril organization	Down			4.51e-02		1
+negative regulation of muscle cell differentiation	Down			4.51e-02		1
+leukocyte differentiation	Down			4.51e-02		1
+regulation of cytokine production	Down			4.51e-02		1
+positive regulation of phosphorylation	Down			4.56e-02		1
+peptidyl-tyrosine phosphorylation	Down			4.60e-02		1
+response to BMP	Down			4.60e-02		1
+cellular response to BMP stimulus	Down			4.60e-02		1
+cell projection organization	Down			4.60e-02		1
+ovulation	Down			4.60e-02		1
+positive regulation of astrocyte differentiation	Down			4.60e-02		1
+bone trabecula morphogenesis	Down			4.60e-02		1
+positive regulation of tumor necrosis factor-mediated signaling pathway	Down			4.60e-02		1
+reproductive system development	Down			4.60e-02		1
+regulation of transport	Down			4.60e-02		1
+molting cycle process	Down			4.60e-02		1
+hair cycle process	Down			4.60e-02		1
+sensory organ development	Down			4.62e-02		1
+odontogenesis	Down			4.65e-02		1
+eye photoreceptor cell differentiation	Down			4.65e-02		1
+dorsal/ventral pattern formation	Down			4.65e-02		1
+photoreceptor cell differentiation	Down			4.65e-02		1
+regulation of phosphate metabolic process	Down			4.65e-02		1
+regulation of angiogenesis	Down			4.65e-02		1
+regulation of body fluid levels	Down			4.65e-02		1
+regulation of protein-containing complex assembly	Down			4.65e-02		1
+cell junction organization	Down			4.65e-02		1
+regulation of phosphorus metabolic process	Down			4.65e-02		1
+response to peptide	Down			4.65e-02		1
+regulation of muscle contraction	Down			4.65e-02		1
+positive regulation of lamellipodium assembly	Down			4.65e-02		1
+negative regulation of protein processing	Down			4.65e-02		1
+vascular associated smooth muscle cell differentiation	Down			4.65e-02		1
+regulation of hair cycle	Down			4.65e-02		1
+ligand-gated ion channel signaling pathway	Down			4.65e-02		1
+sensory organ morphogenesis	Down			4.71e-02		1
+peptidyl-tyrosine modification	Down			4.71e-02		1
+bone development	Down			4.71e-02		1
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	Down			4.71e-02		1
+negative regulation of post-translational protein modification	Down			4.78e-02		1
+gland development	Down			4.84e-02		1
+regulation of phosphorylation	Down			4.85e-02		1
+regulation of canonical Wnt signaling pathway	Down			4.85e-02		1
+muscle organ morphogenesis	Down			4.87e-02		1
+response to metal ion	Up			4.90e-02		1
+response to cadmium ion	Up			4.90e-02		1
+negative regulation of DNA-templated transcription	Down			4.96e-02		1
+amino sugar metabolic process	Down			4.96e-02		1
+neural crest cell differentiation	Down			4.97e-02		1
+regulation of vasculature development	Down			4.99e-02		1
+RNA processing	Up				1.39e-07	1
+spliceosomal tri-snRNP complex assembly	Up				1.01e-03	1
+RNA biosynthetic process	Up				1.25e-03	1
+nucleic acid biosynthetic process	Up				1.25e-03	1
+RNA metabolic process	Up				1.25e-03	1
+spliceosomal snRNP assembly	Up				1.27e-03	1
+nucleobase-containing compound biosynthetic process	Up				1.27e-03	1
+nucleic acid metabolic process	Up				1.90e-03	1
+protein-RNA complex assembly	Up				1.81e-02	1
+protein-RNA complex organization	Up				1.81e-02	1
+RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	Up				2.80e-02	1
+mRNA splicing, via spliceosome	Up				2.80e-02	1
+RNA splicing, via transesterification reactions	Up				2.80e-02	1
+RNA splicing	Up				4.87e-02	1
+ribonucleoprotein complex biogenesis	Up				4.93e-02	1
+mRNA processing	Up				4.93e-02	1
